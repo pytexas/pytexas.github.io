@@ -23,7 +23,7 @@ PyTexas 2020 is being held at the [Austin Central Public Library](http://library
 
 ## Parking
 * [Austin Central Library Parking](http://library.austintexas.gov/central/parking), $30/day
-* [Austin City Hall Garage](https://www.parkme.com/lot/111581/austin-city-hall-garage-austin-tx)
+* [Austin City Hall Garage](https://www.austintexas.gov/cityhallparking)
 * [Silicon Labs Garage](https://www.parkme.com/lot/82674/silicon-labs-garage-austin-tx)
 * [Violet Crown parking garage](https://www.parkme.com/lot/26607/amli-on-2nd-parking-austin-tx)
 * Street parking
