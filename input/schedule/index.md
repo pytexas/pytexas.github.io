@@ -8,4 +8,4 @@ template: subpage.html
 
 PyTexas will feature 22 thirty-minute long talks, as well as lightning talks.
 
-[Our Call For Proposals is currently open](/speaking). The schedule will be announced in March, check back soon!
+[Our Call For Proposals has closed](/speaking). The schedule will be announced in March, check back soon!
