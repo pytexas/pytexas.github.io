@@ -52,3 +52,9 @@ The PyTexas Foundation was organized as a Texas non-profit corporation in 2014 a
 PyTexas will be tax-deductible (we aren’t tax attorneys and just don’t know), you can rest
 assured that any contributions to the organization will always be used to further the common
 goals of the Texas Python community, and never for personal benefit.
+
+## What is your refund policy?
+
+In the event of cancellation, registration fees will be fully refunded. For any
+pre-order items (e.g. t-shirts), orders will be refunded if cancellation happens before
+the order is made, otherwise items will be shipped.
