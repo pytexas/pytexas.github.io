@@ -370,6 +370,16 @@ template {
     font-size: 1rem
 }
 
+h5 a {
+    color: #00AEEF !important;
+    text-decoration: none;
+    background-color: transparent
+}
+
+h5 a:hover {
+    text-decoration: underline;
+}
+
 .lead {
     font-size: 1.25rem;
     font-weight: 400
