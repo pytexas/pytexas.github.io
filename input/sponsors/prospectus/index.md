@@ -35,8 +35,8 @@ architects, managers, inventors, entrepreneurs, geographers, meteorologists.
 
 **Schedule:**
 
-- **Sat, May 16**: Plenary keynote, morning presentations, lunch, afternoon presentations, and lightning talks. Room for sponsor booths & tables, as well as drinks and snacks, will be open all day. Promotional sponsor after party slot available in the evening.
-- **Sun, May 17**: Plenary keynote, morning presentations, lunch, afternoon presentations. Room for sponsor booths & tables, as well as drinks and snacks, will be open all day.
+- **Sat, Oct 24**: Plenary keynote, morning presentations, lunch, afternoon presentations, and lightning talks. Room for sponsor booths & tables, as well as drinks and snacks, will be open all day. Promotional sponsor after party slot available in the evening.
+- **Sun, Oct 25**: Plenary keynote, morning presentations, lunch, afternoon presentations. Room for sponsor booths & tables, as well as drinks and snacks, will be open all day.
 
 ## Why Sponsor?
 
