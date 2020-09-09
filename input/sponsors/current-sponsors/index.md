@@ -11,7 +11,7 @@ We thank all of the following sponsors for making this year's PyTexas possible:
   <h2>Keystone</h2>
   <div class="row mb-4">
     <div class="col-12 text-center">
-      <img src="/assets/img/sponsors/DO_Logo_Horizontal_Blue.png">
+      <img src="/assets/img/sponsors/DO_Logo_horizontal_blue.png">
     </div>
   </div>
 <!--  <h3>Diamond</h3>
