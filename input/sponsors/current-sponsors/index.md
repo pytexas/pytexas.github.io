@@ -11,10 +11,13 @@ We thank all of the following sponsors for making this year's PyTexas possible:
   <h2>Keystone</h2>
   <div class="row mb-4">
     <div class="col-12 text-center">
-      <img src="/assets/img/sponsors/DO_Logo_horizontal_blue.png">
+      <a href="https://www.digitalocean.com/">
+        <img src="/assets/img/sponsors/DO_Logo_horizontal_blue.png">
+      </a>
     </div>
   </div>
-<!--  <h3>Diamond</h3>
+  <!--
+  <h3>Diamond</h3>
   <div class="row mb-4">
     <div class="col-4 text-center">
       <img src="/assets/img/old-sponsors/DO_Logo_Horizontal_Blue.png">
@@ -37,23 +40,30 @@ We thank all of the following sponsors for making this year's PyTexas possible:
     <div class="col-4 text-center">
       <img src="/assets/img/old-sponsors/tealslogo.png">
     </div>
-  </div> -->
+  </div>
+  -->
   <h4>Gold</h4>
   <div class="row mb-4">
     <div class="col-6 offset-3 text-center">
-      <img src="/assets/img/sponsors/oracle-logo.png">
+      <a href="https://www.oracle.com/">
+        <img src="/assets/img/sponsors/oracle-logo.png">
+      </a>
     </div>
   </div>
   <h5>Silver & Bronze</h5>
   <div class="row mb-4">
     <div class="col-4 offset-4 text-center">
-      <img src="/assets/img/sponsors/tealslogo.png">
+      <a href="https://www.microsoft.com/en-us/teals">
+        <img src="/assets/img/sponsors/tealslogo.png">
+      </a>
     </div>
   </div>
   <h6>EBook Sponsor</h3>
   <div class="row mb-4">
     <div class="col-12 text-center">
-      <img src="/assets/img/old-sponsors/bighorizontal_transparent2.png">
+      <a href="https://nostarch.com/">
+        <img src="/assets/img/old-sponsors/bighorizontal_transparent2.png">
+      </a>
     </div>
   </div>
 </div>
