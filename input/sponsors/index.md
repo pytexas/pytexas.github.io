@@ -6,6 +6,5 @@ template: subpage.html
 # Sponsors
 ---
 
-- [Our sponsors](/current-sponsors/sponsors)
+- [Our sponsors](/sponsors/current-sponsors)
 - [Become a sponsor](/sponsors/prospectus)
-- [Past sponsors](/sponsors/past)
