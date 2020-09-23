@@ -264,7 +264,7 @@ Talk:
 Developing a Security Mindset: Practical Lessons for Pythonistas
 </h2>
 <p>
-This talk will discuss why developers should grow their security mindset and will give them practical advice for how to do so—even in a workplace where many issues compete for their attention.
+Develop your security mindset, with a little help from the luminaries of British detective fiction. 
 </p>
 <div class="media">
   <div class="col-2">
@@ -276,7 +276,7 @@ This talk will discuss why developers should grow their security mindset and wil
 Hayley Denbraver
     </h5>
     <small>
-Hayley Denbraver is a Developer Advocate for Snyk. She is a career switcher who used to work as a licensed civil engineer. Her civil engineering projects included working on a hotel near Disneyland (It is awesome!) and anchoring air conditioners to hospital roofs (They are awesome too!). As a civil engineer, Hayley had a stamp with her name on it, but as a developer you can find her name by using git blame. She is an avid contributor to her company’s #cute-animals slack channel. She is a member of a two developer household, which you should consider before accepting her dinner party invitation.
+Hayley has a background in Python development and developer advocacy. She lives in Seattle with her husband and her labrador puppy. She loves to make technical education fun and is delighted to be part of PyTexas 2020. She has read 25 of Agatha Christie's 66 mystery novels. 
     </small>
   </div>
 </div>
