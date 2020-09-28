@@ -264,7 +264,7 @@ Talk:
 Developing a Security Mindset: Practical Lessons for Pythonistas
 </h2>
 <p>
-Develop your security mindset, with a little help from the luminaries of British detective fiction. 
+Develop your security mindset, with a little help from the luminaries of British detective fiction.
 </p>
 <div class="media">
   <div class="col-2">
@@ -276,7 +276,7 @@ Develop your security mindset, with a little help from the luminaries of British
 Hayley Denbraver
     </h5>
     <small>
-Hayley has a background in Python development and developer advocacy. She lives in Seattle with her husband and her labrador puppy. She loves to make technical education fun and is delighted to be part of PyTexas 2020. She has read 25 of Agatha Christie's 66 mystery novels. 
+Hayley has a background in Python development and developer advocacy. She lives in Seattle with her husband and her labrador puppy. She loves to make technical education fun and is delighted to be part of PyTexas 2020. She has read 25 of Agatha Christie's 66 mystery novels.
     </small>
   </div>
 </div>
@@ -488,7 +488,7 @@ Serverless technologies have a lot of people excited - in theory, they offer inf
 </p>
 <div class="media">
   <div class="col-2">
-    <img class="align-self-start mr-3 img-thumbnail" src="/assets/img/speakers/name.png"/>
+    <img class="align-self-start mr-3 img-thumbnail" src="/assets/img/speakers/sanjay.jpg"/>
   </div>
   <div class="media-body">
     <h5 class="mt-0">
@@ -496,9 +496,7 @@ Serverless technologies have a lot of people excited - in theory, they offer inf
 Sanjay Siddhanti
     </h5>
     <small>
-    I'm an Engineering Manager at Alpha Health. I love building software that helps patients have a better experience with healthcare.
-
-I have a B.S. in Computer Science and M.S. in Biomedical Informatics from Stanford University. Outside of software, I enjoy sports, meditation, and reading.
+    Sanjay is an Engineering Manager at Alpha Health. He loves building software that helps patients have a better experience with healthcare. His interests include data engineering, web development, bioinformatics, and dev ops. Sanjay has a B.S. in Computer Science and M.S. in Biomedical Informatics from Stanford University. Outside of software, he enjoys sports, cooking, and meditation.
     </small>
   </div>
 </div>
