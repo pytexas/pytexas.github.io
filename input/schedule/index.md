@@ -145,7 +145,7 @@ Directly integrating dependencies into business logic couples our code to someth
 </p>
 <div class="media">
   <div class="col-2">
-    <img class="align-self-start mr-3 img-thumbnail" src="/assets/img/speakers/name.png"/>
+    <img class="align-self-start mr-3 img-thumbnail" src="/assets/img/speakers/aly.jpg"/>
   </div>
   <div class="media-body">
     <h5 class="mt-0">
@@ -153,7 +153,7 @@ Directly integrating dependencies into business logic couples our code to someth
 Aly Sivji
     </h5>
     <small>
-Aly Sivji is a Canadian expat living in Chicago. By day, he builds backend systems at Numerator. By night, he is a co-organizer of the Chicago Python Users Group (ChiPy). Aly is an active participant in ChiPy’s Mentorship Program and he loves helping intermediate developers become experts. Outside of Python, Aly enjoys cycling, reading, and rewatching old TV shows.
+Aly Sivji is a Canadian expat living in Chicago. By day, he builds backend systems. By night, he is a co-organizer of the Chicago Python Users Group (ChiPy). Aly is an active participant in ChiPy’s Mentorship Program and he loves helping intermediate developers become experts. Outside of Python, Aly enjoys cycling, reading, and rewatching old TV shows.
     </small>
   </div>
 </div>
