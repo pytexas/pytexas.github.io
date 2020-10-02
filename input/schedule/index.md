@@ -388,7 +388,7 @@ Does your organization still have human bean counters with giant abacuses manual
 </p>
 <div class="media">
   <div class="col-2">
-    <img class="align-self-start mr-3 img-thumbnail" src="/assets/img/speakers/name.png"/>
+    <img class="align-self-start mr-3 img-thumbnail" src="/assets/img/speakers/ryanh.jpg"/>
   </div>
   <div class="media-body">
     <h5 class="mt-0">
