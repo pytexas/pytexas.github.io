@@ -464,7 +464,7 @@ As you prioritize Ethical AI, it can be daunting to determine the correct path f
 </p>
 <div class="media">
   <div class="col-2">
-    <img class="align-self-start mr-3 img-thumbnail" src="/assets/img/speakers/name.png"/>
+    <img class="align-self-start mr-3 img-thumbnail" src="/assets/img/speakers/gaby.jpg"/>
   </div>
   <div class="media-body">
     <h5 class="mt-0">
