@@ -220,7 +220,7 @@ Audio data is all around us. In this talk, we’ll look at ways to use Python an
 </p>
 <div class="media">
   <div class="col-2">
-    <img class="align-self-start mr-3 img-thumbnail" src="/assets/img/speakers/name.png"/>
+    <img class="align-self-start mr-3 img-thumbnail" src="/assets/img/speakers/ryanb.jpg"/>
   </div>
   <div class="media-body">
     <h5 class="mt-0">
@@ -340,7 +340,7 @@ You know how Dockerfiles tend to get copied around from one project to the next?
 </p>
 <div class="media">
   <div class="col-2">
-    <img class="align-self-start mr-3 img-thumbnail" src="/assets/img/speakers/name.png"/>
+    <img class="align-self-start mr-3 img-thumbnail" src="/assets/img/speakers/micah.jpg"/>
   </div>
   <div class="media-body">
     <h5 class="mt-0">
@@ -348,7 +348,7 @@ You know how Dockerfiles tend to get copied around from one project to the next?
 Micah Culpepper
     </h5>
     <small>
-I'm a network engineer-turned-devops engineer. I've been working with Python and Docker at Rackspace for the past five years. I live in San Antonio with my wife and our cat, and outside of work, I am pursuing my bachelor's degree and running a game of dungeons and dragons for my friends.
+    Six years ago, with a shiny new CCNA in my hand, I started my IT career as a network administrator. I taught myself some Python, and then things escalated quickly. Now I'm a devops engineer in the field of network automation. Python, Docker, and Linux are my usual tools, with a bit of Golang sprinkled in. I live in San Antonio with my wife and three cats. In my non-work hours, I enjoy baking bread, gardening, and playing Dungeons and Dragons. My pronouns are she/they.
     </small>
   </div>
 </div>
@@ -440,7 +440,7 @@ Machine Learning models are often perceived as dark magic, but they’re only as
 </p>
 <div class="media">
   <div class="col-2">
-    <img class="align-self-start mr-3 img-thumbnail" src="/assets/img/speakers/name.png"/>
+    <img class="align-self-start mr-3 img-thumbnail" src="/assets/img/speakers/serena.jpg"/>
   </div>
   <div class="media-body">
     <h5 class="mt-0">
@@ -448,7 +448,7 @@ Machine Learning models are often perceived as dark magic, but they’re only as
 Serena Peruzzo
     </h5>
     <small>
-Serena is a senior data scientist at the analytics consultancy Bardess, currently based in Toronto, Canada. Before joining Bardess, she has worked both in academia as an ML researcher and in the industry as a data science consultant on the Australian, British and Canadian markets. Serena is passionate about education, community and tech for good and she splits her free time between mentoring data science students, organizing meetups and volunteering.
+    Serena is data scientist at Shopify, currently based in Toronto, Canada. Previously, she has worked both in academia as an ML researcher and in the industry as a data science consultant on the Australian, British and Canadian markets. Serena is passionate about education, community and tech for good and she splits her free time between mentoring data science students, organizing meetups and volunteering.
     </small>
   </div>
 </div>
