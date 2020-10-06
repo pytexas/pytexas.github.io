@@ -45,7 +45,7 @@ DevPI is a PyPI-compatible package repository. A primary use is to cache package
 </p>
 <div class="media">
   <div class="col-2">
-    <img class="align-self-start mr-3 img-thumbnail" src="/assets/img/speakers/name.png"/>
+    <img class="align-self-start mr-3 img-thumbnail" src="/assets/img/speakers/moshe.jpg"/>
   </div>
   <div class="media-body">
     <h5 class="mt-0">
@@ -364,7 +364,7 @@ Nornir is an extremely powerful Python automation framework. It is Python from t
 </p>
 <div class="media">
   <div class="col-2">
-    <img class="align-self-start mr-3 img-thumbnail" src="/assets/img/speakers/name.png"/>
+    <img class="align-self-start mr-3 img-thumbnail" src="/assets/img/speakers/brett.jpg"/>
   </div>
   <div class="media-body">
     <h5 class="mt-0">
@@ -372,7 +372,7 @@ Nornir is an extremely powerful Python automation framework. It is Python from t
 Brett Lykins
     </h5>
     <small>
-I am a networking and automation wonk, and I firmly believe in helping organizations achieve success through the intersection of these two passions. I use my experience, strategic vision, interpersonal skills, and critical thinking abilities to solve complex problems in large organizations. From the ISP, to the Enterprise, and now into the land of Hosting and Cloud, I have always been a trusted adviser to my customers and a mentor to my peers. Starting at an Internet Support Desk in 2007, I quickly fell in love with networking. Judging by the number of Cisco Press and O'Reilly books on my iPad, it's still going strong. I am the kind of nerd who had his own 48U rack full of routers, switches, and servers (at least until virtualization caught up with Network devices). I read technical books in my free time, and love to watch the drama on the IETF or NANOG mailing lists.
+    Brett Lykins is a Managing Consultant at Network to Code. He has been in the networking field since 2007, most recently spending 6 years at Rackspace Technology prior to joining Network to Code. Brett has a passion for helping businesses achieve success through innovative technologies, network automation, and process improvement.
     </small>
   </div>
 </div>
