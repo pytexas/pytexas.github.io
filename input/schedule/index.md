@@ -316,7 +316,7 @@ LoRaWAN is a protocol for transmitting data over long distances with low power a
 </p>
 <div class="media">
   <div class="col-2">
-    <img class="align-self-start mr-3 img-thumbnail" src="/assets/img/speakers/name.png"/>
+    <img class="align-self-start mr-3 img-thumbnail" src="/assets/img/speakers/paulb.jpg"/>
   </div>
   <div class="media-body">
     <h5 class="mt-0">
@@ -324,7 +324,7 @@ LoRaWAN is a protocol for transmitting data over long distances with low power a
 Paul Bailey
     </h5>
     <small>
-I'm a web developer with a background in aerospace engineering. I'm obsessed with Web technology and created many apps such as CanyonLake.app, FlipRankApp.com, PodcastBible.app, and more. In addition to being a Web and aerospace geek, I'm a father of three and can cook a pretty mean pizza from scratch.
+I'm a web developer with a background in aerospace engineering. I'm currently a systems architect with Cognitive Space building AI powered planning software for satellites. I've also created many apps such as CanyonLake.app, FlipRankApp.com, PodcastBible.app, and more. In addition to being a Web and aerospace geek, I'm a father of three and can cook a pretty mean pizza from scratch.
     </small>
   </div>
 </div>
