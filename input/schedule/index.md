@@ -111,10 +111,13 @@ Mason is currently a Developer Advocate at DigitalOcean who specializes incloud 
 
 <h2>
 Talk:
-The Humble-ish Decorator
+Practicality Beats Purity: The Zen of Python's Escape Hatch?
 </h2>
 <p>
-In this talk, we’ll look at why decorators exist, and how simple decorators work. We’ll look at how some more popular decorators in Python do what they do. Finally, we’ll look at how to harness decorators to do unexpected and potentially horrible things with Python. After this talk, you’ll know how decorators work, how to write your own decorators, and how decorators enable you to do extremely weird things in Python. Most importantly, you’ll understand how to use decorators responsibly, and definitely not to confuse your friends and colleagues.
+The Zen of Python, the well known list of 20 Python aphorisms (of which only 19 are written down), contains a lot of prescriptive advice for what makes "Good" Python code… or it would, if one of them didn't give you permission to ignore the rest of them.
+
+Focusing on but one of the 19 aphorisms, this talk explores the contradictions in the Zen of Python's advice, and how even with prescriptive rules, writing "Good" Python remains a subjective exercise.
+
 </p>
 <div class="media">
   <div class="col-2">
