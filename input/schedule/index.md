@@ -22,7 +22,7 @@ Building a Slackbot has never been easier. Join Mason Egger as he "live codes" a
 </p>
 <div class="media">
   <div class="col-2">
-    <img class="align-self-start mr-3 img-thumbnail" src="/assets/img/speakers/name.png"/>
+    <img class="align-self-start mr-3 img-thumbnail" src="/assets/img/speakers/mason.jpg"/>
   </div>
   <div class="media-body">
     <h5 class="mt-0">
@@ -407,7 +407,7 @@ We all love Python, but not everyone is able to use it at their job. I’ll deta
 </p>
 <div class="media">
   <div class="col-2">
-    <img class="align-self-start mr-3 img-thumbnail" src="/assets/img/speakers/name.png"/>
+    <img class="align-self-start mr-3 img-thumbnail" src="/assets/img/speakers/mason.jpg"/>
   </div>
   <div class="media-body">
     <h5 class="mt-0">
