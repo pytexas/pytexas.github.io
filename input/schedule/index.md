@@ -297,7 +297,7 @@ Ryan Bales is the Director of Analytics Engineering at DialogTech. He’s an act
 # Sunday, October 25th
 ---
 
-<small><a href="https://time.is/compare/1000AM_24_Oct_2020_in_CDT">10:00 AM - 10:30 AM CT</a></small>
+<small><a href="https://time.is/compare/1000AM_25_Oct_2020_in_CDT">10:00 AM - 10:30 AM CT</a></small>
 <h2>
 Talk:
 The Amazing Mutable, Immutable Tuple and Other Philosophic Digressions
@@ -322,7 +322,7 @@ Al Sweigart is a software developer and tech book author living in San Francisco
 
 ---
 
-<small><a href="https://time.is/compare/1030AM_24_Oct_2020_in_CDT">10:30 AM - 11:00 AM CT</a></small>
+<small><a href="https://time.is/compare/1030AM_25_Oct_2020_in_CDT">10:30 AM - 11:00 AM CT</a></small>
 <h2>
 Talk:
 Bridge the Trust Gap with Ethical AI
@@ -347,7 +347,7 @@ I am 25 years young and hail from the great state of Texas. After completing my 
 
 ---
 
-<small><a href="https://time.is/compare/1100AM_24_Oct_2020_in_CDT">11:00 AM - 11:30 AM CT</a></small>
+<small><a href="https://time.is/compare/1100AM_25_Oct_2020_in_CDT">11:00 AM - 11:30 AM CT</a></small>
 <h2>
 Talk:
 How Decorators Function
@@ -372,7 +372,7 @@ Andy Knight is the “Automation Panda” - an engineer, consultant, and interna
 
 ---
 
-<small><a href="https://time.is/compare/1130AM_24_Oct_2020_in_CDT">11:30 AM - 12:00 PM CT</a></small>
+<small><a href="https://time.is/compare/1130AM_25_Oct_2020_in_CDT">11:30 AM - 12:00 PM CT</a></small>
 <h2>
 Talk:
 Nornir: Solve Big Problems Fast
@@ -397,7 +397,7 @@ Brett Lykins
 
 ---
 
-<small><a href="https://time.is/compare/1200PM_24_Oct_2020_in_CDT">12:00 PM - 12:30 PM CT</a></small>
+<small><a href="https://time.is/compare/1200PM_25_Oct_2020_in_CDT">12:00 PM - 12:30 PM CT</a></small>
 <h2>
 Talk:
 There’s a Snake in the Birdhouse! Building a Python Culture at Vrbo
@@ -422,7 +422,7 @@ Mason is currently a Developer Advocate at DigitalOcean who specializes incloud 
 
 ---
 
-<small><a href="https://time.is/compare/1230PM_24_Oct_2020_in_CDT">12:30 PM - 1:00 PM CT</a></small>
+<small><a href="https://time.is/compare/1230PM_25_Oct_2020_in_CDT">12:30 PM - 1:00 PM CT</a></small>
 <h2>
 Talk:
 Automate the Boring, Expensive Bits: Python in Lambda
@@ -447,7 +447,7 @@ Ryan Hillard is a systems developer at the U.S. Small Business Administration.  
 
 ---
 
-<small><a href="https://time.is/compare/0100PM_24_Oct_2020_in_CDT">1:00 PM - 1:30 PM CT</a></small>
+<small><a href="https://time.is/compare/0100PM_25_Oct_2020_in_CDT">1:00 PM - 1:30 PM CT</a></small>
 <h2>
 Talk:
 Creating Quality Sample Code
@@ -472,7 +472,7 @@ Jessica Garson is a Python programmer, educator, and artist. She currently works
 
 ---
 
-<small><a href="https://time.is/compare/0130PM_24_Oct_2020_in_CDT">1:30 PM - 2:00 PM CT</a></small>
+<small><a href="https://time.is/compare/0130PM_25_Oct_2020_in_CDT">1:30 PM - 2:00 PM CT</a></small>
 <h2>
 Talk:
 Minimize Cloud costs through multi-cloud serveless applications
@@ -501,7 +501,7 @@ I am a self-taught technologist who never stops learning and improving. "Always 
 
 ---
 
-<small><a href="https://time.is/compare/0200PM_24_Oct_2020_in_CDT">2:00 PM - 2:30 PM CT</a></small>
+<small><a href="https://time.is/compare/0200PM_25_Oct_2020_in_CDT">2:00 PM - 2:30 PM CT</a></small>
 <h2>
 Talk:
 What to Do When the Bug Is in Someone Else's Code
@@ -524,7 +524,7 @@ Paul Ganssle is a software developer, CPython core developer, maintainer of pyth
 
 ---
 
-<small><a href="https://time.is/compare/0230PM_24_Oct_2020_in_CDT">2:30 PM - 3:00 PM CT</a></small>
+<small><a href="https://time.is/compare/0230PM_25_Oct_2020_in_CDT">2:30 PM - 3:00 PM CT</a></small>
 <h2>
 Talk:
 Building a Sensor Network with LoRaWAN and Python
