@@ -8,89 +8,17 @@ template: subpage.html
 
 PyTexas will be entirely online, featuring 22 thirty-minute long talks. Talks will be pre-recorded, but streamed on a schedule over the conference days, and speakers will be avalilable to live chat while their talk is streaming.
 
-[Our Call For Proposals has closed](/speaking). The schedule will be announced in mid-October, check back soon!
+The schedule is below, and links to the livestreams will be added on the day of the event.
 
-
-# Accepted talks
+# Saturday, October 24th
 ---
 
+<small><a href="https://time.is/compare/0930AM_24_Oct_2020_in_CDT">9:30 AM - 10:00 AM CT</a></small>
 <h2>
-Talk:
-What to Do When the Bug Is in Someone Else's Code
+Keystone Sponsor Talk: How to Build and Deploy Your First Python Slackbot on DigitalOcean's App Platform
 </h2>
 <p>
-When there’s a bug in a library you are using it’s easy to feel stuck or to accrue a lot of technical debt trying to work around it. In this talk, I’ll go over strategies for solving both your short-term needs (fix it!) and your long term needs (not more technical debt…).
-</p>
-<div class="media">
-  <div class="col-2">
-    <img class="align-self-start mr-3 img-thumbnail" src="/assets/img/speakers/paulg.jpg"/>
-  </div>
-  <div class="media-body">
-    <h5 class="mt-0">Speaker: Paul Ganssle
-    </h5>
-    <small>
-Paul Ganssle is a software developer, CPython core developer, maintainer of python-dateutil and setuptools and contributor to many other open source projects. He lives in New York City with 14 cats, 293 geckos and a marmoset (who is currently working her way through dental school).
-    </small>
-  </div>
-</div>
-
----
-
-<h2>
-Talk:
-DevPI: The Tool You Never Knew You Needed
-</h2>
-<p>
-DevPI is a PyPI-compatible package repository. A primary use is to cache packages for off-line development. Another use is to host private packages for internal development. Finally, it can be used to stage uploads to a master repository.
-</p>
-<div class="media">
-  <div class="col-2">
-    <img class="align-self-start mr-3 img-thumbnail" src="/assets/img/speakers/moshe.jpg"/>
-  </div>
-  <div class="media-body">
-    <h5 class="mt-0">
-    Speaker:
-Moshe Zadka
-    </h5>
-    <small>
-Moshe is a core Twisted contributor, and has contributed to core Python. He has building and deploying web applications since 2001.
-    </small>
-  </div>
-</div>
-
----
-
-
-
-## Talk: Am I a bad person? Beginner mistakes with privacy and ownership
-<p>
-GDPR shook things up for tech in 2018. CCPA is doing the same. It’s our responsibility to respect our users’ data. But as beginners, sometimes we don’t know better. We’ll walk through morally grey mistakes I’ve made when creating client-facing Flask apps and how to fix them up like a good netizen.
-</p>
-<div class="media">
-  <div class="col-2">
-    <img class="align-self-start mr-3 img-thumbnail" src="/assets/img/speakers/abby.jpg"/>
-  </div>
-  <div class="media-body">
-    <h5 class="mt-0">Speaker: Abby Carey</h5>
-    <small>
-      Abby is a Developer Advocate at Google Cloud. She's currently working on
-      tooling and creating a better Python developer experience. Coming from a
-      Technical Writing background, she has always had a passion for helping
-      developers find solutions to their problems. In her down time, she tinkers
-      with VR web development, studies Python fundamentals, and can't put down a
-      good fan fiction.
-    </small>
-  </div>
-</div>
-
----
-
-<h2>
-Talk:
-There’s a Snake in the Birdhouse! Building a Python Culture at Vrbo
-</h2>
-<p>
-We all love Python, but not everyone is able to use it at their job. I’ll detail the journey I took to establish Python as a first-class option within my company. Viewers will leave having learned from my experiences and with a solid plan for creating a Python culture at their company.
+Building a Slackbot has never been easier. Join Mason Egger as he "live codes" a Slackbot in Python, demonstrating how to send messages and listen to events from Slack. No need for servers or complex configurations, just bring your code and deploy to DigitalOcean's App Platform.
 </p>
 <div class="media">
   <div class="col-2">
@@ -109,6 +37,57 @@ Mason is currently a Developer Advocate at DigitalOcean who specializes incloud 
 
 ---
 
+<small><a href="https://time.is/compare/1000AM_24_Oct_2020_in_CDT">10:00 AM - 10:30 AM CT</a></small>
+<h2>
+Talk:
+Serverless Web Apps in Python
+</h2>
+<p>
+Serverless technologies have a lot of people excited - in theory, they offer infinite scaling with no maintenance. After mostly seeing “hello-world on Lambda” tutorials, I was curious how it would work for a real application with a frontend and a database. This talk reviews my experience using AWS Lambda for full-stack web applications. If you’re familiar with the theory and want to know more about how it works in practice, you’re in the right place.
+</p>
+<div class="media">
+  <div class="col-2">
+    <img class="align-self-start mr-3 img-thumbnail" src="/assets/img/speakers/sanjay.jpg"/>
+  </div>
+  <div class="media-body">
+    <h5 class="mt-0">
+    Speaker:
+Sanjay Siddhanti
+    </h5>
+    <small>
+    Sanjay is an Engineering Manager at Alpha Health. He loves building software that helps patients have a better experience with healthcare. His interests include data engineering, web development, bioinformatics, and dev ops. Sanjay has a B.S. in Computer Science and M.S. in Biomedical Informatics from Stanford University. Outside of software, he enjoys sports, cooking, and meditation.
+    </small>
+  </div>
+</div>
+
+---
+
+<small><a href="https://time.is/compare/1030AM_24_Oct_2020_in_CDT">10:30 AM - 11:00 AM CT</a></small>
+<h2>
+Talk:
+Developing a Security Mindset: Practical Lessons for Pythonistas
+</h2>
+<p>
+Develop your security mindset, with a little help from the luminaries of British detective fiction.
+</p>
+<div class="media">
+  <div class="col-2">
+    <img class="align-self-start mr-3 img-thumbnail" src="/assets/img/speakers/name.png"/>
+  </div>
+  <div class="media-body">
+    <h5 class="mt-0">
+    Speaker:
+Hayley Denbraver
+    </h5>
+    <small>
+Hayley has a background in Python development and developer advocacy. She lives in Seattle with her husband and her labrador puppy. She loves to make technical education fun and is delighted to be part of PyTexas 2020. She has read 25 of Agatha Christie's 66 mystery novels.
+    </small>
+  </div>
+</div>
+
+---
+
+<small><a href="https://time.is/compare/1100AM_24_Oct_2020_in_CDT">11:00 AM - 11:30 AM CT</a></small>
 <h2>
 Talk:
 Practicality Beats Purity: The Zen of Python's Escape Hatch?
@@ -139,6 +118,82 @@ By day, Christopher works as an Engineering Manager at AlphaSights, where he use
 
 ---
 
+<small><a href="https://time.is/compare/1130AM_24_Oct_2020_in_CDT">11:30 AM - 12:00 PM CT</a></small>
+<h2>
+Talk:
+Feature engineering: the dark magic behind data science
+</h2>
+<p>
+Machine Learning models are often perceived as dark magic, but they’re only as good as the data they’re trained on. Feature engineering is where the real magic happens! In this talk, I’ll share some of my favourite spells for data engineering.
+</p>
+<div class="media">
+  <div class="col-2">
+    <img class="align-self-start mr-3 img-thumbnail" src="/assets/img/speakers/serena.jpg"/>
+  </div>
+  <div class="media-body">
+    <h5 class="mt-0">
+    Speaker:
+Serena Peruzzo
+    </h5>
+    <small>
+    Serena is data scientist at Shopify, currently based in Toronto, Canada. Previously, she has worked both in academia as an ML researcher and in the industry as a data science consultant on the Australian, British and Canadian markets. Serena is passionate about education, community and tech for good and she splits her free time between mentoring data science students, organizing meetups and volunteering.
+    </small>
+  </div>
+</div>
+
+---
+
+<small><a href="https://time.is/compare/1200PM_24_Oct_2020_in_CDT">12:00 PM - 12:30 PM CT</a></small>
+<h2>
+Talk:
+DevPI: The Tool You Never Knew You Needed
+</h2>
+<p>
+DevPI is a PyPI-compatible package repository. A primary use is to cache packages for off-line development. Another use is to host private packages for internal development. Finally, it can be used to stage uploads to a master repository.
+</p>
+<div class="media">
+  <div class="col-2">
+    <img class="align-self-start mr-3 img-thumbnail" src="/assets/img/speakers/moshe.jpg"/>
+  </div>
+  <div class="media-body">
+    <h5 class="mt-0">
+    Speaker:
+Moshe Zadka
+    </h5>
+    <small>
+Moshe is a core Twisted contributor, and has contributed to core Python. He has building and deploying web applications since 2001.
+    </small>
+  </div>
+</div>
+
+---
+
+<small><a href="https://time.is/compare/1230PM_24_Oct_2020_in_CDT">12:30 PM - 1:00 PM CT</a></small>
+<h2>
+Talk:
+DRYDock: Techniques for Not Repeating Yourself in Dockerfiles
+</h2>
+<p>
+You know how Dockerfiles tend to get copied around from one project to the next? It’s messy and bug-prone. Well I figured out how to stop doing that, and start treating Dockerfiles like the actual infrastructure-as-code libraries that they are. So can you!
+</p>
+<div class="media">
+  <div class="col-2">
+    <img class="align-self-start mr-3 img-thumbnail" src="/assets/img/speakers/micah.jpg"/>
+  </div>
+  <div class="media-body">
+    <h5 class="mt-0">
+    Speaker:
+Micah Culpepper
+    </h5>
+    <small>
+    Six years ago, with a shiny new CCNA in my hand, I started my IT career as a network administrator. I taught myself some Python, and then things escalated quickly. Now I'm a devops engineer in the field of network automation. Python, Docker, and Linux are my usual tools, with a bit of Golang sprinkled in. I live in San Antonio with my wife and three cats. In my non-work hours, I enjoy baking bread, gardening, and playing Dungeons and Dragons. My pronouns are she/they.
+    </small>
+  </div>
+</div>
+
+---
+
+<small><a href="https://time.is/compare/0100PM_24_Oct_2020_in_CDT">1:00 PM - 1:30 PM CT</a></small>
 <h2>
 Talk:
 Everyday Design Patterns: Facade Pattern
@@ -163,30 +218,31 @@ Aly Sivji is a Canadian expat living in Chicago. By day, he builds backend syste
 
 ---
 
-<h2>
-Talk:
-How Decorators Function
-</h2>
+<small><a href="https://time.is/compare/0130PM_24_Oct_2020_in_CDT">1:30 PM - 2:00 PM CT</a></small>
+## Talk: Am I a bad person? Beginner mistakes with privacy and ownership
 <p>
-Have you ever seen those “@” tags on top of Python functions and classes? Those are decorators - functions that wrap around other functions. Confusing? At first, but they’re easy with practice. Useful? Very! We’ll learn how they work, how to write our own, and how and when to use them.
+GDPR shook things up for tech in 2018. CCPA is doing the same. It’s our responsibility to respect our users’ data. But as beginners, sometimes we don’t know better. We’ll walk through morally grey mistakes I’ve made when creating client-facing Flask apps and how to fix them up like a good netizen.
 </p>
 <div class="media">
   <div class="col-2">
-    <img class="align-self-start mr-3 img-thumbnail" src="/assets/img/speakers/andy.jpg"/>
+    <img class="align-self-start mr-3 img-thumbnail" src="/assets/img/speakers/abby.jpg"/>
   </div>
   <div class="media-body">
-    <h5 class="mt-0">
-    Speaker:
-Andrew Knight
-    </h5>
+    <h5 class="mt-0">Speaker: Abby Carey</h5>
     <small>
-Andy Knight is the “Automation Panda” - an engineer, consultant, and international speaker who loves all things about software. His main passion is building solutions for software testing problems. He has designed and built robust test automation solutions for operating systems, service APIs, and Web apps with thousands of tests running continuously. He also mentors others in good development, testing, and BDD practices. Andy currently works full-time as the Lead Software Engineer in Test at PrecisionLender, a Q2 company. Read his tech blog at AutomationPanda.com, and follow him on Twitter at @AutomationPanda.
+      Abby is a Developer Advocate at Google Cloud. She's currently working on
+      tooling and creating a better Python developer experience. Coming from a
+      Technical Writing background, she has always had a passion for helping
+      developers find solutions to their problems. In her down time, she tinkers
+      with VR web development, studies Python fundamentals, and can't put down a
+      good fan fiction.
     </small>
   </div>
 </div>
 
 ---
 
+<small><a href="https://time.is/compare/0200PM_24_Oct_2020_in_CDT">2:00 PM - 2:30 PM CT</a></small>
 <h2>
 Talk:
 What You Can Do With <code>__init__.py</code> (But Probably Shouldn’t)
@@ -214,6 +270,7 @@ William Horton is a Senior Software Engineer at Compass, where he works on syste
 
 ---
 
+<small><a href="https://time.is/compare/0230PM_24_Oct_2020_in_CDT">2:30 PM - 3:00 PM CT</a></small>
 <h2>
 Talk:
 Gathering Insights from Audio Data
@@ -236,56 +293,11 @@ Ryan Bales is the Director of Analytics Engineering at DialogTech. He’s an act
   </div>
 </div>
 
+
+# Sunday, October 25th
 ---
 
-<h2>
-Talk:
-Creating Quality Sample Code
-</h2>
-<p>
-With the launch of Twitter Developer Labs, we were releasing new API endpoints which no one had ever used before it was important that we created code in such a way that accessible to anyone. This talk will focus on the processes we used to create sample code.
-</p>
-<div class="media">
-  <div class="col-2">
-    <img class="align-self-start mr-3 img-thumbnail" src="/assets/img/speakers/jess.png"/>
-  </div>
-  <div class="media-body">
-    <h5 class="mt-0">
-    Speaker:
-Jessica Garson
-    </h5>
-    <small>
-Jessica Garson is a Python programmer, educator, and artist. She currently works at Twitter as a Developer Advocate. Previously, she was an adjunct professor teaching Python at NYU and worked at ISL, Burson-Marstellar, The National Education Association, ISSI Data, and Salsa Labs. Before working in technology, Jessica worked on numerous political campaigns throughout the country. She has run many meetups and conferences including DC’s Tech Lady Hackathon in 2016 and 2017, and DC’s Hack&&Tell. In her spare time, she is on a never-ending quest for the perfect vegan snack.
-    </small>
-  </div>
-</div>
-
----
-
-<h2>
-Talk:
-Developing a Security Mindset: Practical Lessons for Pythonistas
-</h2>
-<p>
-Develop your security mindset, with a little help from the luminaries of British detective fiction.
-</p>
-<div class="media">
-  <div class="col-2">
-    <img class="align-self-start mr-3 img-thumbnail" src="/assets/img/speakers/name.png"/>
-  </div>
-  <div class="media-body">
-    <h5 class="mt-0">
-    Speaker:
-Hayley Denbraver
-    </h5>
-    <small>
-Hayley has a background in Python development and developer advocacy. She lives in Seattle with her husband and her labrador puppy. She loves to make technical education fun and is delighted to be part of PyTexas 2020. She has read 25 of Agatha Christie's 66 mystery novels.
-    </small>
-  </div>
-</div>
-
----
-
+<small><a href="https://time.is/compare/1000AM_24_Oct_2020_in_CDT">10:00 AM - 10:30 AM CT</a></small>
 <h2>
 Talk:
 The Amazing Mutable, Immutable Tuple and Other Philosophic Digressions
@@ -310,54 +322,57 @@ Al Sweigart is a software developer and tech book author living in San Francisco
 
 ---
 
+<small><a href="https://time.is/compare/1030AM_24_Oct_2020_in_CDT">10:30 AM - 11:00 AM CT</a></small>
 <h2>
 Talk:
-Building a Sensor Network with LoRaWAN and Python
+Bridge the Trust Gap with Ethical AI
 </h2>
 <p>
-LoRaWAN is a protocol for transmitting data over long distances with low power and open radio spectrum. This presentation will introduce you to LoRaWAN and its uses and show you how use Raspberry PIs and Python to build a network of sensors to collect data over long distances.
+As you prioritize Ethical AI, it can be daunting to determine the correct path forward. This session will arm you with simple tools and technologies to build trust in your models and start implementing ethical AI within your organization today.
 </p>
 <div class="media">
   <div class="col-2">
-    <img class="align-self-start mr-3 img-thumbnail" src="/assets/img/speakers/paulb.jpg"/>
+    <img class="align-self-start mr-3 img-thumbnail" src="/assets/img/speakers/gaby.jpg"/>
   </div>
   <div class="media-body">
     <h5 class="mt-0">
     Speaker:
-Paul Bailey
+Gabriella Lio
     </h5>
     <small>
-I'm a web developer with a background in aerospace engineering. I'm currently a systems architect with Cognitive Space building AI powered planning software for satellites. I've also created many apps such as CanyonLake.app, FlipRankApp.com, PodcastBible.app, and more. In addition to being a Web and aerospace geek, I'm a father of three and can cook a pretty mean pizza from scratch.
+I am 25 years young and hail from the great state of Texas. After completing my Masters of Science in Business Analytics degree from UT Austin (Hook em' Horns forever), I joined the brilliant, creative, human, and fun Data Science team at Sense Corp, a tech consulting firm headquartered in Austin. When I'm not building models in Python and hanging out with my co-workers, you can find me exploring all the trails Austin has to offer, lounging on the lake, or catching my favorite band, the Spazmatics every Wednesday!
     </small>
   </div>
 </div>
 
 ---
 
+<small><a href="https://time.is/compare/1100AM_24_Oct_2020_in_CDT">11:00 AM - 11:30 AM CT</a></small>
 <h2>
 Talk:
-DRYDock: Techniques for Not Repeating Yourself in Dockerfiles
+How Decorators Function
 </h2>
 <p>
-You know how Dockerfiles tend to get copied around from one project to the next? It’s messy and bug-prone. Well I figured out how to stop doing that, and start treating Dockerfiles like the actual infrastructure-as-code libraries that they are. So can you!
+Have you ever seen those “@” tags on top of Python functions and classes? Those are decorators - functions that wrap around other functions. Confusing? At first, but they’re easy with practice. Useful? Very! We’ll learn how they work, how to write our own, and how and when to use them.
 </p>
 <div class="media">
   <div class="col-2">
-    <img class="align-self-start mr-3 img-thumbnail" src="/assets/img/speakers/micah.jpg"/>
+    <img class="align-self-start mr-3 img-thumbnail" src="/assets/img/speakers/andy.jpg"/>
   </div>
   <div class="media-body">
     <h5 class="mt-0">
     Speaker:
-Micah Culpepper
+Andrew Knight
     </h5>
     <small>
-    Six years ago, with a shiny new CCNA in my hand, I started my IT career as a network administrator. I taught myself some Python, and then things escalated quickly. Now I'm a devops engineer in the field of network automation. Python, Docker, and Linux are my usual tools, with a bit of Golang sprinkled in. I live in San Antonio with my wife and three cats. In my non-work hours, I enjoy baking bread, gardening, and playing Dungeons and Dragons. My pronouns are she/they.
+Andy Knight is the “Automation Panda” - an engineer, consultant, and international speaker who loves all things about software. His main passion is building solutions for software testing problems. He has designed and built robust test automation solutions for operating systems, service APIs, and Web apps with thousands of tests running continuously. He also mentors others in good development, testing, and BDD practices. Andy currently works full-time as the Lead Software Engineer in Test at PrecisionLender, a Q2 company. Read his tech blog at AutomationPanda.com, and follow him on Twitter at @AutomationPanda.
     </small>
   </div>
 </div>
 
 ---
 
+<small><a href="https://time.is/compare/1130AM_24_Oct_2020_in_CDT">11:30 AM - 12:00 PM CT</a></small>
 <h2>
 Talk:
 Nornir: Solve Big Problems Fast
@@ -382,6 +397,32 @@ Brett Lykins
 
 ---
 
+<small><a href="https://time.is/compare/1200PM_24_Oct_2020_in_CDT">12:00 PM - 12:30 PM CT</a></small>
+<h2>
+Talk:
+There’s a Snake in the Birdhouse! Building a Python Culture at Vrbo
+</h2>
+<p>
+We all love Python, but not everyone is able to use it at their job. I’ll detail the journey I took to establish Python as a first-class option within my company. Viewers will leave having learned from my experiences and with a solid plan for creating a Python culture at their company.
+</p>
+<div class="media">
+  <div class="col-2">
+    <img class="align-self-start mr-3 img-thumbnail" src="/assets/img/speakers/name.png"/>
+  </div>
+  <div class="media-body">
+    <h5 class="mt-0">
+    Speaker:
+Mason Egger
+    </h5>
+    <small>
+Mason is currently a Developer Advocate at DigitalOcean who specializes incloud infrastructure, distributed systems, and Python. Prior to his work at DigitalOcean he was an SRE helping build and maintain a highly available hybrid multicloud PaaS. He is an avid  programmer, musician, educator, and writer/blogger at masonegger.com. In his spare time he enjoys reading, camping, kayaking, and exploring new places.
+    </small>
+  </div>
+</div>
+
+---
+
+<small><a href="https://time.is/compare/1230PM_24_Oct_2020_in_CDT">12:30 PM - 1:00 PM CT</a></small>
 <h2>
 Talk:
 Automate the Boring, Expensive Bits: Python in Lambda
@@ -406,6 +447,32 @@ Ryan Hillard is a systems developer at the U.S. Small Business Administration.  
 
 ---
 
+<small><a href="https://time.is/compare/0100PM_24_Oct_2020_in_CDT">1:00 PM - 1:30 PM CT</a></small>
+<h2>
+Talk:
+Creating Quality Sample Code
+</h2>
+<p>
+With the launch of Twitter Developer Labs, we were releasing new API endpoints which no one had ever used before it was important that we created code in such a way that accessible to anyone. This talk will focus on the processes we used to create sample code.
+</p>
+<div class="media">
+  <div class="col-2">
+    <img class="align-self-start mr-3 img-thumbnail" src="/assets/img/speakers/jess.png"/>
+  </div>
+  <div class="media-body">
+    <h5 class="mt-0">
+    Speaker:
+Jessica Garson
+    </h5>
+    <small>
+Jessica Garson is a Python programmer, educator, and artist. She currently works at Twitter as a Developer Advocate. Previously, she was an adjunct professor teaching Python at NYU and worked at ISL, Burson-Marstellar, The National Education Association, ISSI Data, and Salsa Labs. Before working in technology, Jessica worked on numerous political campaigns throughout the country. She has run many meetups and conferences including DC’s Tech Lady Hackathon in 2016 and 2017, and DC’s Hack&&Tell. In her spare time, she is on a never-ending quest for the perfect vegan snack.
+    </small>
+  </div>
+</div>
+
+---
+
+<small><a href="https://time.is/compare/0130PM_24_Oct_2020_in_CDT">1:30 PM - 2:00 PM CT</a></small>
 <h2>
 Talk:
 Minimize Cloud costs through multi-cloud serveless applications
@@ -434,72 +501,48 @@ I am a self-taught technologist who never stops learning and improving. "Always 
 
 ---
 
+<small><a href="https://time.is/compare/0200PM_24_Oct_2020_in_CDT">2:00 PM - 2:30 PM CT</a></small>
 <h2>
 Talk:
-Feature engineering: the dark magic behind data science
+What to Do When the Bug Is in Someone Else's Code
 </h2>
 <p>
-Machine Learning models are often perceived as dark magic, but they’re only as good as the data they’re trained on. Feature engineering is where the real magic happens! In this talk, I’ll share some of my favourite spells for data engineering.
+When there’s a bug in a library you are using it’s easy to feel stuck or to accrue a lot of technical debt trying to work around it. In this talk, I’ll go over strategies for solving both your short-term needs (fix it!) and your long term needs (not more technical debt…).
 </p>
 <div class="media">
   <div class="col-2">
-    <img class="align-self-start mr-3 img-thumbnail" src="/assets/img/speakers/serena.jpg"/>
+    <img class="align-self-start mr-3 img-thumbnail" src="/assets/img/speakers/paulg.jpg"/>
   </div>
   <div class="media-body">
-    <h5 class="mt-0">
-    Speaker:
-Serena Peruzzo
+    <h5 class="mt-0">Speaker: Paul Ganssle
     </h5>
     <small>
-    Serena is data scientist at Shopify, currently based in Toronto, Canada. Previously, she has worked both in academia as an ML researcher and in the industry as a data science consultant on the Australian, British and Canadian markets. Serena is passionate about education, community and tech for good and she splits her free time between mentoring data science students, organizing meetups and volunteering.
+Paul Ganssle is a software developer, CPython core developer, maintainer of python-dateutil and setuptools and contributor to many other open source projects. He lives in New York City with 14 cats, 293 geckos and a marmoset (who is currently working her way through dental school).
     </small>
   </div>
 </div>
 
 ---
 
+<small><a href="https://time.is/compare/0230PM_24_Oct_2020_in_CDT">2:30 PM - 3:00 PM CT</a></small>
 <h2>
 Talk:
-Bridge the Trust Gap with Ethical AI
+Building a Sensor Network with LoRaWAN and Python
 </h2>
 <p>
-As you prioritize Ethical AI, it can be daunting to determine the correct path forward. This session will arm you with simple tools and technologies to build trust in your models and start implementing ethical AI within your organization today.
+LoRaWAN is a protocol for transmitting data over long distances with low power and open radio spectrum. This presentation will introduce you to LoRaWAN and its uses and show you how use Raspberry PIs and Python to build a network of sensors to collect data over long distances.
 </p>
 <div class="media">
   <div class="col-2">
-    <img class="align-self-start mr-3 img-thumbnail" src="/assets/img/speakers/gaby.jpg"/>
+    <img class="align-self-start mr-3 img-thumbnail" src="/assets/img/speakers/paulb.jpg"/>
   </div>
   <div class="media-body">
     <h5 class="mt-0">
     Speaker:
-Gabriella Lio
+Paul Bailey
     </h5>
     <small>
-I am 25 years young and hail from the great state of Texas. After completing my Masters of Science in Business Analytics degree from UT Austin (Hook em' Horns forever), I joined the brilliant, creative, human, and fun Data Science team at Sense Corp, a tech consulting firm headquartered in Austin. When I'm not building models in Python and hanging out with my co-workers, you can find me exploring all the trails Austin has to offer, lounging on the lake, or catching my favorite band, the Spazmatics every Wednesday!
-    </small>
-  </div>
-</div>
-
----
-
-<h2>
-Talk:
-Serverless Web Apps in Python
-</h2>
-<p>
-Serverless technologies have a lot of people excited - in theory, they offer infinite scaling with no maintenance. After mostly seeing “hello-world on Lambda” tutorials, I was curious how it would work for a real application with a frontend and a database. This talk reviews my experience using AWS Lambda for full-stack web applications. If you’re familiar with the theory and want to know more about how it works in practice, you’re in the right place.
-</p>
-<div class="media">
-  <div class="col-2">
-    <img class="align-self-start mr-3 img-thumbnail" src="/assets/img/speakers/sanjay.jpg"/>
-  </div>
-  <div class="media-body">
-    <h5 class="mt-0">
-    Speaker:
-Sanjay Siddhanti
-    </h5>
-    <small>
-    Sanjay is an Engineering Manager at Alpha Health. He loves building software that helps patients have a better experience with healthcare. His interests include data engineering, web development, bioinformatics, and dev ops. Sanjay has a B.S. in Computer Science and M.S. in Biomedical Informatics from Stanford University. Outside of software, he enjoys sports, cooking, and meditation.
+I'm a web developer with a background in aerospace engineering. I'm currently a systems architect with Cognitive Space building AI powered planning software for satellites. I've also created many apps such as CanyonLake.app, FlipRankApp.com, PodcastBible.app, and more. In addition to being a Web and aerospace geek, I'm a father of three and can cook a pretty mean pizza from scratch.
     </small>
   </div>
 </div>
