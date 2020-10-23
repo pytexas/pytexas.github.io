@@ -307,7 +307,7 @@ Everyone knows Python tuples are immutable, but an immutable tuple that contains
 </p>
 <div class="media">
   <div class="col-2">
-    <img class="align-self-start mr-3 img-thumbnail" src="/assets/img/speakers/name.png"/>
+    <img class="align-self-start mr-3 img-thumbnail" src="/assets/img/speakers/al.jpg"/>
   </div>
   <div class="media-body">
     <h5 class="mt-0">
