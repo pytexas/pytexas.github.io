@@ -6,14 +6,17 @@ template: subpage.html
 # Schedule
 ---
 
-PyTexas will be entirely online, featuring 22 thirty-minute long talks. Talks will be pre-recorded, but streamed on a schedule over the conference days, and speakers will be avalilable to live chat while their talk is streaming.
+PyTexas will be entirely online, featuring 22 thirty-minute long talks. Talks will be streamed on a schedule over the conference days, and most speakers will be avalilable to live chat while their talk is streaming.
 
-The schedule is below, and links to the livestreams will be added on the day of the event.
+You can see all talks via [this YouTube playlist](https://www.youtube.com/playlist?list=PL0MRiRrXAvRgAFCdfHUcw8PNPqS7ux_BK), or browse the schedule below.
+
+<br>
 
 # Saturday, October 24th
 ---
 
 <small><a href="https://time.is/compare/0930AM_24_Oct_2020_in_CDT">9:30 AM - 10:00 AM CT</a></small>
+<a href="https://youtu.be/FdXS-NpxtSo" class="btn btn-primary btn-sm">Watch livestream for this talk</a>
 <h2>
 Keystone Sponsor Talk: How to Build and Deploy Your First Python Slackbot on DigitalOcean's App Platform
 </h2>
@@ -38,6 +41,7 @@ Mason is currently a Developer Advocate at DigitalOcean who specializes incloud 
 ---
 
 <small><a href="https://time.is/compare/1000AM_24_Oct_2020_in_CDT">10:00 AM - 10:30 AM CT</a></small>
+<a href="https://youtu.be/lqnDeNUml0o" class="btn btn-primary btn-sm">Watch livestream for this talk</a>
 <h2>
 Talk:
 Serverless Web Apps in Python
@@ -63,6 +67,7 @@ Sanjay Siddhanti
 ---
 
 <small><a href="https://time.is/compare/1030AM_24_Oct_2020_in_CDT">10:30 AM - 11:00 AM CT</a></small>
+<a href="https://youtu.be/MuSjyBF0Pac" class="btn btn-primary btn-sm">Watch livestream for this talk</a>
 <h2>
 Talk:
 Developing a Security Mindset: Practical Lessons for Pythonistas
@@ -88,6 +93,7 @@ Hayley has a background in Python development and developer advocacy. She lives 
 ---
 
 <small><a href="https://time.is/compare/1100AM_24_Oct_2020_in_CDT">11:00 AM - 11:30 AM CT</a></small>
+<a href="https://youtu.be/AtuDwKJShfk" class="btn btn-primary btn-sm">Watch livestream for this talk</a>
 <h2>
 Talk:
 Practicality Beats Purity: The Zen of Python's Escape Hatch?
@@ -119,6 +125,7 @@ By day, Christopher works as an Engineering Manager at AlphaSights, where he use
 ---
 
 <small><a href="https://time.is/compare/1130AM_24_Oct_2020_in_CDT">11:30 AM - 12:00 PM CT</a></small>
+<a href="https://youtu.be/3DOjAf1odVM" class="btn btn-primary btn-sm">Watch livestream for this talk</a>
 <h2>
 Talk:
 Feature engineering: the dark magic behind data science
@@ -144,6 +151,7 @@ Serena Peruzzo
 ---
 
 <small><a href="https://time.is/compare/1200PM_24_Oct_2020_in_CDT">12:00 PM - 12:30 PM CT</a></small>
+<a href="https://youtu.be/BlKnI8VUoXU" class="btn btn-primary btn-sm">Watch livestream for this talk</a>
 <h2>
 Talk:
 DevPI: The Tool You Never Knew You Needed
@@ -169,6 +177,7 @@ Moshe is a core Twisted contributor, and has contributed to core Python. He has 
 ---
 
 <small><a href="https://time.is/compare/1230PM_24_Oct_2020_in_CDT">12:30 PM - 1:00 PM CT</a></small>
+<a href="https://youtu.be/1Ko6kuSRk9c" class="btn btn-primary btn-sm">Watch livestream for this talk</a>
 <h2>
 Talk:
 DRYDock: Techniques for Not Repeating Yourself in Dockerfiles
@@ -194,6 +203,7 @@ Micah Culpepper
 ---
 
 <small><a href="https://time.is/compare/0100PM_24_Oct_2020_in_CDT">1:00 PM - 1:30 PM CT</a></small>
+<a href="https://youtu.be/zNbEdj3aGx0" class="btn btn-primary btn-sm">Watch livestream for this talk</a>
 <h2>
 Talk:
 Everyday Design Patterns: Facade Pattern
@@ -219,7 +229,11 @@ Aly Sivji is a Canadian expat living in Chicago. By day, he builds backend syste
 ---
 
 <small><a href="https://time.is/compare/0130PM_24_Oct_2020_in_CDT">1:30 PM - 2:00 PM CT</a></small>
-## Talk: Am I a bad person? Beginner mistakes with privacy and ownership
+<a href="https://youtu.be/vjqQJ8XiR9Y" class="btn btn-primary btn-sm">Watch livestream for this talk</a>
+<h2>
+Talk:
+Am I a bad person? Beginner mistakes with privacy and ownership
+</h2>
 <p>
 GDPR shook things up for tech in 2018. CCPA is doing the same. It’s our responsibility to respect our users’ data. But as beginners, sometimes we don’t know better. We’ll walk through morally grey mistakes I’ve made when creating client-facing Flask apps and how to fix them up like a good netizen.
 </p>
@@ -243,6 +257,7 @@ GDPR shook things up for tech in 2018. CCPA is doing the same. It’s our respon
 ---
 
 <small><a href="https://time.is/compare/0200PM_24_Oct_2020_in_CDT">2:00 PM - 2:30 PM CT</a></small>
+<a href="https://youtu.be/YlDkguJBK0w" class="btn btn-primary btn-sm">Watch livestream for this talk</a>
 <h2>
 Talk:
 What You Can Do With <code>__init__.py</code> (But Probably Shouldn’t)
@@ -271,6 +286,7 @@ William Horton is a Senior Software Engineer at Compass, where he works on syste
 ---
 
 <small><a href="https://time.is/compare/0230PM_24_Oct_2020_in_CDT">2:30 PM - 3:00 PM CT</a></small>
+<a href="https://youtu.be/sSyU17mi5p0" class="btn btn-primary btn-sm">Watch livestream for this talk</a>
 <h2>
 Talk:
 Gathering Insights from Audio Data
@@ -293,11 +309,13 @@ Ryan Bales is the Director of Analytics Engineering at DialogTech. He’s an act
   </div>
 </div>
 
+<br>
 
 # Sunday, October 25th
 ---
 
 <small><a href="https://time.is/compare/1000AM_25_Oct_2020_in_CDT">10:00 AM - 10:30 AM CT</a></small>
+<a href="https://youtu.be/2PDftKo-dKY" class="btn btn-primary btn-sm">Watch livestream for this talk</a>
 <h2>
 Talk:
 The Amazing Mutable, Immutable Tuple and Other Philosophic Digressions
@@ -323,6 +341,7 @@ Al Sweigart is a software developer and tech book author living in San Francisco
 ---
 
 <small><a href="https://time.is/compare/1030AM_25_Oct_2020_in_CDT">10:30 AM - 11:00 AM CT</a></small>
+<a href="https://youtu.be/pAucIjAxPT0" class="btn btn-primary btn-sm">Watch livestream for this talk</a>
 <h2>
 Talk:
 Bridge the Trust Gap with Ethical AI
@@ -348,6 +367,7 @@ I am 25 years young and hail from the great state of Texas. After completing my 
 ---
 
 <small><a href="https://time.is/compare/1100AM_25_Oct_2020_in_CDT">11:00 AM - 11:30 AM CT</a></small>
+<a href="https://youtu.be/leNjxtzTGAc" class="btn btn-primary btn-sm">Watch livestream for this talk</a>
 <h2>
 Talk:
 How Decorators Function
@@ -373,6 +393,7 @@ Andy Knight is the “Automation Panda” - an engineer, consultant, and interna
 ---
 
 <small><a href="https://time.is/compare/1130AM_25_Oct_2020_in_CDT">11:30 AM - 12:00 PM CT</a></small>
+<a href="https://youtu.be/549hs8r9F-M" class="btn btn-primary btn-sm">Watch livestream for this talk</a>
 <h2>
 Talk:
 Nornir: Solve Big Problems Fast
@@ -398,6 +419,7 @@ Brett Lykins
 ---
 
 <small><a href="https://time.is/compare/1200PM_25_Oct_2020_in_CDT">12:00 PM - 12:30 PM CT</a></small>
+<a href="https://youtu.be/MR85hLdc1wk" class="btn btn-primary btn-sm">Watch livestream for this talk</a>
 <h2>
 Talk:
 There’s a Snake in the Birdhouse! Building a Python Culture at Vrbo
@@ -423,6 +445,7 @@ Mason is currently a Developer Advocate at DigitalOcean who specializes incloud 
 ---
 
 <small><a href="https://time.is/compare/1230PM_25_Oct_2020_in_CDT">12:30 PM - 1:00 PM CT</a></small>
+<a href="https://youtu.be/Zzu_1qEgisc" class="btn btn-primary btn-sm">Watch livestream for this talk</a>
 <h2>
 Talk:
 Automate the Boring, Expensive Bits: Python in Lambda
@@ -448,6 +471,7 @@ Ryan Hillard is a systems developer at the U.S. Small Business Administration.  
 ---
 
 <small><a href="https://time.is/compare/0100PM_25_Oct_2020_in_CDT">1:00 PM - 1:30 PM CT</a></small>
+<a href="https://youtu.be/q1z5ifoOUlY" class="btn btn-primary btn-sm">Watch livestream for this talk</a>
 <h2>
 Talk:
 Creating Quality Sample Code
@@ -473,6 +497,7 @@ Jessica Garson is a Python programmer, educator, and artist. She currently works
 ---
 
 <small><a href="https://time.is/compare/0130PM_25_Oct_2020_in_CDT">1:30 PM - 2:00 PM CT</a></small>
+<a href="https://youtu.be/SaRChqsl94U" class="btn btn-primary btn-sm">Watch livestream for this talk</a>
 <h2>
 Talk:
 Minimize Cloud costs through multi-cloud serveless applications
@@ -502,6 +527,7 @@ I am a self-taught technologist who never stops learning and improving. "Always 
 ---
 
 <small><a href="https://time.is/compare/0200PM_25_Oct_2020_in_CDT">2:00 PM - 2:30 PM CT</a></small>
+<a href="https://youtu.be/S4TjOnkFLtI" class="btn btn-primary btn-sm">Watch livestream for this talk</a>
 <h2>
 Talk:
 What to Do When the Bug Is in Someone Else's Code
@@ -525,6 +551,7 @@ Paul Ganssle is a software developer, CPython core developer, maintainer of pyth
 ---
 
 <small><a href="https://time.is/compare/0230PM_25_Oct_2020_in_CDT">2:30 PM - 3:00 PM CT</a></small>
+<a href="https://youtu.be/FuHJS4e0-50" class="btn btn-primary btn-sm">Watch livestream for this talk</a>
 <h2>
 Talk:
 Building a Sensor Network with LoRaWAN and Python
