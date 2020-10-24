@@ -125,7 +125,7 @@ By day, Christopher works as an Engineering Manager at AlphaSights, where he use
 ---
 
 <small><a href="https://time.is/compare/1130AM_24_Oct_2020_in_CDT">11:30 AM - 12:00 PM CT</a></small>
-<a href="https://youtu.be/3DOjAf1odVM" class="btn btn-primary btn-sm">Watch livestream for this talk</a>
+<a href="https://youtu.be/m3ZYHifpB6w" class="btn btn-primary btn-sm">Watch livestream for this talk</a>
 <h2>
 Talk:
 Feature engineering: the dark magic behind data science
