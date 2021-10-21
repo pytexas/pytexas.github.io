@@ -42,4 +42,4 @@ jobs:
         git remote -v
         git remote add pytexas git@github.com:pytexas/pytexas.github.io.git
         ssh -Tv git@github.com || true
-        git push -f pytexas HEAD:master
+        git push -f pytexas HEAD:main
