@@ -7,16 +7,16 @@ template: subpage.html
 ---
 
 ## Conference format
-PyTexas is a single-track conference with a total attendence of ~350 people.
+PyTexas is a single-track conference with a total attendence of ~250 people.
 
 ## Call for proposals
 The PyTexas call for proposals is here: <https://www.papercall.io/pytexas-2020>
 
-* The Call For Proposals (CFP) opens December 1st
-* The Call For Proposals (CFP) closes on February 14th, AoE [(Anywhere on Earth)](https://time.is/Anywhere_on_Earth).
+* The Call For Proposals (CFP) opens November 12th, 2021
+* The Call For Proposals (CFP) closes on January 12th, 2022, AoE [(Anywhere on Earth)](https://time.is/Anywhere_on_Earth).
 
 ## Talks
-Talks must be 30 minutes long, including any optional Q&A.
+Talks must be 25 minutes long, including any optional Q&A.
 
 If you have an idea for a presentation that doesn’t fit the above guidelines, please submit it anyway. If it’s interesting enough, we’ll arrange our program around it.
 
@@ -28,9 +28,16 @@ Your talk can be about anything related to the Python programming language or of
 
 - General Python programming
 - Web Applications
+- Python Game Development
+- DevOps
 - GIS
 - Scientific Computing
+- AI/Machine Learning
+- Software Testing
 - Data Visualization
+- Python in Education
+- Open Source and Community
+- And more!
 
 Some other ideas might be:
 

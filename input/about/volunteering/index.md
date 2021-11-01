@@ -46,6 +46,3 @@ stocked with snacks and beverages.
 **Stage Runner**: responsible for making sure speakers find their way to the
 green room, escorting speakers to the stage, and assisting with A/V setup for
 speakers.
-
-**Session Chair**: attends each talk and ensures that it is running on time by
-keeping the speaker up to date on time remaining

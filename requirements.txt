@@ -1,0 +1,8 @@
+click==8.0.3
+corvid==1.1.0
+Jinja2==3.0.2
+Markdown==3.3.4
+MarkupSafe==2.0.1
+python-frontmatter==1.0.0
+PyYAML==6.0
+watchdog==2.1.6

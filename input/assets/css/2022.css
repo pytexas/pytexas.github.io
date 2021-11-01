@@ -1,0 +1,34 @@
+.bg-2022-purple {
+    background-color: #4a1e88 !important;
+}
+
+.btn-2022-purple {
+    background: #fff;
+    color: #4a1e88
+}
+
+.btn-2022-orange {
+    background: #fff;
+    color: #ff5003;
+}
+
+.text-orange, text-orange h1, text-orange h2, text-orange h3, text-orange h4, text-orange h5 {
+    color: #ff5003;
+}
+
+a {
+    color: #4a1e88;
+    /* color: #00AEEF; */
+    text-decoration: none;
+    background-color: transparent
+}
+
+.btn:hover {
+    color: #ffce12;
+    text-decoration: none
+}
+
+a:hover {
+    color: #ff5003;
+    text-decoration: none
+}
