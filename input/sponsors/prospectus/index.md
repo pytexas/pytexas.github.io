@@ -18,9 +18,8 @@ information is available immediately below if you have any questions.
 
 ### Contact Details
 
-* Sponsor Chair: Irma Kramer
+* Sponsor Chair: Mason Egger
 * E-Mail: [sponsorship@pytexas.org](mailto:sponsorship@pytexas.org)
-* Phone: [512-739-2938](tel:5127392938)
 
 ## Conference Profile
 
