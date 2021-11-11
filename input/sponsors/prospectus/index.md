@@ -19,7 +19,7 @@ information is available immediately below if you have any questions.
 ### Contact Details
 
 * Sponsor Chair: Mason Egger
-* E-Mail: [mason@pytexas.org](mailto:mason@pytexas.org)
+* E-Mail: [sponsorship@pytexas.org](mailto:sponsorship@pytexas.org)
 
 ## Conference Profile
 
