@@ -66,7 +66,7 @@ most of your investment in the Python community.
     - Company name and link thanked in PyTexas Twitter feed
     - 6 free tickets to PyTexas
 - **Diamond $5,000**
-    - Limit: 3
+    - Limit: 2
     - Logo placement on title card for recorded talks
     - Table/Booth Space in Sponsor area
     - Name, link, and logo included on the PyTexas website
@@ -74,7 +74,7 @@ most of your investment in the Python community.
     - Company name and link thanked in PyTexas Twitter feed
     - 5 free tickets to PyTexas
 - **Platinum $2,500**
-    - Limit: 5
+    - Limit: 4
     - Table/Booth Space in Sponsor area
     - Name, link, and logo included on the PyTexas website
     - Promotional items placed on the PyTexas swag table
