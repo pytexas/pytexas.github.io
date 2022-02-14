@@ -66,7 +66,7 @@ The Observer Pattern enables us to design event-driven systems using loosely cou
 </p>
 <div class="media">
   <div class="col-2">
-    <img class="align-self-start mr-3 img-thumbnail" src="/assets/img/speakers/name.png"/>
+    <img class="align-self-start mr-3 img-thumbnail" src="/assets/img/speakers/aly.jpg"/>
   </div>
   <div class="media-body">
     <h5 class="mt-0">Speaker: Aly Sivji
@@ -155,7 +155,7 @@ Good test data can be a nightmare to manage! It can make-or-break testing effort
 </p>
 <div class="media">
   <div class="col-2">
-    <img class="align-self-start mr-3 img-thumbnail" src="/assets/img/speakers/name.png"/>
+    <img class="align-self-start mr-3 img-thumbnail" src="/assets/img/speakers/andy.jpg"/>
   </div>
   <div class="media-body">
     <h5 class="mt-0">Speaker: Andrew Knight
@@ -267,7 +267,7 @@ In this talk, I’ll explain `pytest`’s `skipif` and `xfail`, and dive into va
 </p>
 <div class="media">
   <div class="col-2">
-    <img class="align-self-start mr-3 img-thumbnail" src="/assets/img/speakers/name.png"/>
+    <img class="align-self-start mr-3 img-thumbnail" src="/assets/img/speakers/paulg.jpg"/>
   </div>
   <div class="media-body">
     <h5 class="mt-0">Speaker: Paul Ganssle
