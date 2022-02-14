@@ -214,28 +214,6 @@ Danica Fine is a Senior Developer Advocate at Confluent where she helps others g
 
 <h2>
 Talk:
-Pragmatic Security Automation and DevSecOps in the Cloud with Python
-</h2>
-<p>
-Manually performing security operations and auditing procedures on a regular basis take a lot of skill, time, and discipline. In this session, we will talk about how to use Python to build different security tools and DevSecOps pipelines to automate different security tasks and responsibilities.
-</p>
-<div class="media">
-  <div class="col-2">
-    <img class="align-self-start mr-3 img-thumbnail" src="/assets/img/speakers/name.png"/>
-  </div>
-  <div class="media-body">
-    <h5 class="mt-0">Speaker: Joshua Arvin Lat
-    </h5>
-    <small>
-Joshua Arvin Lat is the Chief Technology Officer (CTO) of NuWorks Interactive Labs, Inc. He previously served as the CTO of three Australian-owned companies and also served as the Director for Software Development and Engineering for multiple e-commerce start-ups in the past, which allowed him to be more effective as a leader. Years ago, he and his team won first place in a global cybersecurity competition with their published research paper. He is an AWS Machine Learning Hero and has continuously been sharing his knowledge at several international conferences, discussing practical strategies on machine learning, engineering, security, and management. He is also the author of the book Machine Learning with Amazon SageMaker Cookbook.
-    </small>
-  </div>
-</div>
-
----
-
-<h2>
-Talk:
 Stand Back!: Building a scientific computing lab on public clouds with Python
 </h2>
 <p>
