@@ -13,6 +13,32 @@ full schedule will be released closer to the conference.
 
 <h2>
 Talk:
+Automating Build Tasks With Build-magic
+</h2>
+<p>
+Developers like writing software but loath building software. Amongst platform specific scripts, Makefiles, and CI pipelines, there’s no shortage of fragile, frustrating processes for building a software project. Build-magic aims to simplify builds with a declarative, repeatable tool for developers.
+</p>
+<div class="media">
+  <div class="col-2">
+    <img class="align-self-start mr-3 img-thumbnail" src="/assets/img/speakers/name.png"/>
+  </div>
+  <div class="media-body">
+    <h5 class="mt-0">Speaker: Chris Morrow
+    </h5>
+    <small>
+Chris Morrow is a Staff Software Developer at Q2 in Austin Texas, and previously worked at Silicon Labs and Samsung. He is a Python, Go, and Elixir developer with experience in Cybersecurity, Web Development, Statistics, Data Engineering, and Data Science.
+
+Chris is also involved in mentoring and teaching programming with organizations such as Breakthrough Central Texas and Code2College. In 2018, Chris was selected as a member of the Leadership Austin Emerge class. He also participates in Austin Young Chamber and is a supporting member of the Python Software Foundation.
+
+Chris has given previous talks on SQLAlchemy at The Austin Python Meetup and An Evening of Python Coding, as well as a talk on his open source project sci-analysis at PyTexas 2019.
+    </small>
+  </div>
+</div>
+
+---
+
+<h2>
+Talk:
 Choosing the Right Data Types
 </h2>
 <p>
@@ -95,6 +121,28 @@ Since The Queen’s Gambit hit Netflix, the number of people playing chess onlin
     </h5>
     <small>
 William Horton recently returned to chess during the pandemic, after a 15 year hiatus. On certain weekends he can be found in the local chess club trying his best, but getting beaten by elementary schoolers. By day he works as a Senior Machine Learning Engineer at Included Health. He is responsible for building and maintaining the Python infrastructure used by data scientists to create models from medical claims data.
+    </small>
+  </div>
+</div>
+
+---
+
+<h2>
+Talk:
+How to Solve It: Pólya's Methods for the Pythonista
+</h2>
+<p>
+In his book “How to Solve It”, mathematician and Stanford professor George Pólya compiled some eye-opening problem-solving techniques used to solve mathematical puzzles. In my talk, I will explore how his methods can be applied to Python programming to tackle the challenges that come with it.
+</p>
+<div class="media">
+  <div class="col-2">
+    <img class="align-self-start mr-3 img-thumbnail" src="/assets/img/speakers/name.png"/>
+  </div>
+  <div class="media-body">
+    <h5 class="mt-0">Speaker: Marco Tagliani
+    </h5>
+    <small>
+My name is Marco Tagliani and I am a Computer Science (CS) Student at Texas State University. I am originally from Buenos Aires, Argentina and I have been living in the US since 2019. I lived in Mexico and Brazil, and I speak Spanish natively and Portuguese and English as second languages. I am president of .EXE, the biggest CS club at TXST, during the Spring 2022 semester, and will be graduating in May 2023. Besides CS, I am into basketball/NBA, soccer, MMA, public speaking and performing stand-up comedy
     </small>
   </div>
 </div>
