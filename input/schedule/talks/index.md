@@ -3,7 +3,7 @@ title: Talk Schedule
 template: subpage.html
 ---
 
-# Accetped Talks
+# Accepted Talks
 ---
 
 These are the talks accepted to PyTexas. They are listed alphabetically. A
@@ -20,15 +20,15 @@ So often, in Python, I’ve run up against the question of what type of data str
 </p>
 <div class="media">
   <div class="col-2">
-    <img class="align-self-start mr-3 img-thumbnail" src="/assets/img/speakers/name.png"/>
+    <img class="align-self-start mr-3 img-thumbnail" src="/assets/img/speakers/Josh-Schneider.jpg"/>
   </div>
   <div class="media-body">
     <h5 class="mt-0">Speaker: Josh Schneider
     </h5>
     <small>
-I’m a test automation senior developer for a well known company. During my time, I have trained several junior developers, written millions of lines of code, maintained and supported that code, and pushed for process improvements around development standards, code review, design, and support. I spend a lot of time thinking about how to do things “right”, and how to teach other people.
+Josh is a test automation architect and senior developer. He's trained several junior developers, written millions of lines of code, maintained and supported that code, and pushed for process improvements around development standards, code review, design, and support. He spend a lot of time thinking about how to do things “right”, and how to teach other people.
 
-Outside of work, I’m a dad of 2 nerdy kids, an improv comedian, movie lover, and drinker of beer and coffee.
+Outside of work, he's a dad of 2 nerdy kids, a trained improv comedian, movie lover, and drinker of beer and coffee.
     </small>
   </div>
 </div>
