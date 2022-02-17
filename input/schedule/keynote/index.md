@@ -10,6 +10,7 @@ We are excited to announce our Keynote Speakers for PyTexas 2022, _Lorena Mesa_
 and _Kojo Idrissa_!
 
 ## Lorena Mesa - _Saturday Keynote_
+<a id="lorena"></a>
 <div class="col-md-7 offset-md-2">
     <img src="/assets/img/speakers/lorena.jpg" class="rounded img-fluid" alt="Lorena Mesa working at a computer">
 </div>
@@ -17,6 +18,7 @@ Political scientist turned coder, Lorena Mesa is a GitHub data engineer, Directo
 
 
 ## Kojo Idrissa - _Sunday Keynote_
+<a id="kojo"></a>
 <div class="col-md-6 offset-md-2">
     <img src="/assets/img/speakers/kojo.JPG" class="rounded img-fluid" alt="Kojo Idrissa Headshot">
 </div>

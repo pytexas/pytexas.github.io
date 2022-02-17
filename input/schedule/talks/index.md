@@ -13,7 +13,7 @@ full schedule will be released closer to the conference.
 
 <h2>
 Talk:
-Automating Build Tasks With Build-magic
+<a id="build-magic">Automating Build Tasks With Build-magic</a>
 </h2>
 <p>
 Developers like writing software but loath building software. Amongst platform specific scripts, Makefiles, and CI pipelines, there’s no shortage of fragile, frustrating processes for building a software project. Build-magic aims to simplify builds with a declarative, repeatable tool for developers.
@@ -39,7 +39,7 @@ Chris has given previous talks on SQLAlchemy at The Austin Python Meetup and An 
 
 <h2>
 Talk:
-Choosing the Right Data Types
+<a id="data-types">Choosing the Right Data Types</a>
 </h2>
 <p>
 So often, in Python, I’ve run up against the question of what type of data structure to use to express something. Does this need a tuple, a dict, a namedtuple, a dataclass, or something else? How do you select what to use, and what are the pros and cons? Let’s explore the options!
@@ -63,7 +63,7 @@ Outside of work, he's a dad of 2 nerdy kids, a trained improv comedian, movie lo
 
 <h2>
 Talk:
-Event-Driven Microservices with Flask and Apache Kafka
+<a id="microservices">Event-Driven Microservices with Flask and Apache Kafka</a>
 </h2>
 <p>
 Implementing complex systems with microservices can be a great decision, but if we’re not careful we can end up with a distributed monolith. Let’s see how to avoid that by building lightweight, loosely coupled microservices with the Flask framework and Apache Kafka.
@@ -85,7 +85,7 @@ After 28 years as a developer, architect, project manager (recovered), author, t
 
 <h2>
 Talk:
-Everyday Design Patterns: Observer Pattern
+<a id="design-patterns">Everyday Design Patterns: Observer Pattern</a>
 </h2>
 <p>
 The Observer Pattern enables us to design event-driven systems using loosely coupled components. In this talk, we will learn how, when, and why to use this pattern; we will explore how popular PyPI packages use the pattern; and, we will design a decorator-based Observer to process GitHub events.
@@ -107,7 +107,7 @@ Aly Sivji is a Canadian ex-pat living in Chicago. By day, he works as a Team Lea
 
 <h2>
 Talk:
-Great Snake Variation: Programming with python-chess!
+<a id="chess">Great Snake Variation: Programming with python-chess!</a>
 </h2>
 <p>
 Since The Queen’s Gambit hit Netflix, the number of people playing chess online has skyrocketed. Chances are, some of them are Pythonistas! We’ll dive into python-chess: a library for representing the chess board. Along the way, I’ll show how the library also teaches useful programming concepts.
@@ -129,7 +129,7 @@ William Horton recently returned to chess during the pandemic, after a 15 year h
 
 <h2>
 Talk:
-How to Solve It: Pólya's Methods for the Pythonista
+<a id="polyas-methods">How to Solve It: Pólya's Methods for the Pythonista</a>
 </h2>
 <p>
 In his book “How to Solve It”, mathematician and Stanford professor George Pólya compiled some eye-opening problem-solving techniques used to solve mathematical puzzles. In my talk, I will explore how his methods can be applied to Python programming to tackle the challenges that come with it.
@@ -151,7 +151,7 @@ My name is Marco Tagliani and I am a Computer Science (CS) Student at Texas Stat
 
 <h2>
 Talk:
-Lint All the Things!
+<a id="lint">Lint All the Things!</a>
 </h2>
 <p>
 Code that’s uniform is easier to read, write, and debug, but writing down your standards and conventions in a README that no one reads isn’t enough. The explosion of CI and linter tools allow you to no only document your standards and conventions, but make sure people actually adhere to them.
@@ -173,7 +173,7 @@ I’ve been developing software professionally for almost 20 years. During that 
 
 <h2>
 Talk:
-Making Location Based Searches with Google Places API and Elasticsearch
+<a id="elasticsearch">Making Location Based Searches with Google Places API and Elasticsearch</a>
 </h2>
 <p>
 When searching for things on the internet, there are 2 factors that determine the quality of a search result, Accuracy and Relevance.
@@ -196,7 +196,7 @@ Jay is a Developer Advocate at Elastic, based in San Diego, Ca. A multipotential
 
 <h2>
 Talk:
-Managing the Test Data Nightmare
+<a id="test-data">Managing the Test Data Nightmare</a>
 </h2>
 <p>
 Good test data can be a nightmare to manage! It can make-or-break testing efforts. Should we preload our databases? Should we use dynamically-generated dummy data? What about collisions? Let’s cover practical strategies for handling data both in our products and in our test cases.
@@ -218,7 +218,7 @@ Andrew Knight is the Automation Panda and also a Developer Advocate at Applitool
 
 <h2>
 Talk:
-Minimum Viable Security for Python Applications
+<a id="minimum-security">Minimum Viable Security for Python Applications</a>
 </h2>
 <p>
 Python remains a very popular programming and scripting language in the DevOps ecosystem for building CI/CD pipelines. In the same way we think about how we design and build our Python applications, we need to design, build and automate security into our applications from the ground floor.
@@ -240,7 +240,7 @@ Currently CTO and Co-Founder of Jit, the Continuous Security platform for Develo
 
 <h2>
 Talk:
-Practical Pipelines: A Houseplant Soil Alerting System with ksqlDB
+<a id="houseplant-pipelines">Practical Pipelines: A Houseplant Soil Alerting System with ksqlDB</a>
 </h2>
 <p>
 Be a better plant parent and build a practical, event-driven pipeline with Raspberry Pi and Apache Kafka! Soil moisture readings are streamed into Kafka and transformed, driving real-time alerts. Learn how ksqlDB and Kafka Connect made this pipeline possible as we dive in and get our hands dirty!
@@ -262,7 +262,7 @@ Danica Fine is a Senior Developer Advocate at Confluent where she helps others g
 
 <h2>
 Talk:
-Stand Back!: Building a scientific computing lab on public clouds with Python
+<a id="scientific-lab">Stand Back!: Building a scientific computing lab on public clouds with Python</a>
 </h2>
 <p>
 As a citizen scientist, you want to learn more, but you’re hitting the limits of your computer. In this live demo, we’ll use Python to build a data lab on a public cloud. We’ll use that infrastructure to explore public data, and we’ll learn a bit more about “the cloud” along the way.
@@ -284,7 +284,7 @@ As a Developer Advocate at Pulumi, Laura Santamaria loves to learn and explain h
 
 <h2>
 Talk:
-xfail and skip: What to do with tests you know will fail
+<a id="xfail">xfail and skip: What to do with tests you know will fail</a>
 </h2>
 <p>
 What do you do with a test you know will fail? Skip it? Mark it as xfail? Or wait until the test is passing before adding it to your test suite?

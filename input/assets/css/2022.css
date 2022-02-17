@@ -32,3 +32,11 @@ a:hover {
     color: #ff5003;
     text-decoration: none
 }
+
+.table td {
+    text-align: center;
+}
+
+.table th {
+    text-align: center;
+}
