@@ -57,7 +57,7 @@ most of your investment in the Python community.
 ### Standard Packages
 
 - **Keystone $10,000**
-    - Limit: 1
+    - Limit: 1/1 remaining
     - Opportunity to speak (5 mins) prior to Day 1 keynote
     - Prominent logo placement on title card for recorded talks
     - Table/Booth Space in Sponsor area
@@ -66,7 +66,7 @@ most of your investment in the Python community.
     - Company name and link thanked in PyTexas Twitter feed
     - 6 free tickets to PyTexas
 - **Diamond $5,000**
-    - Limit: 2
+    - Limit: 2/1 remaining
     - Logo placement on title card for recorded talks
     - Table/Booth Space in Sponsor area
     - Name, link, and logo included on the PyTexas website
@@ -74,7 +74,7 @@ most of your investment in the Python community.
     - Company name and link thanked in PyTexas Twitter feed
     - 5 free tickets to PyTexas
 - **Platinum $2,500**
-    - Limit: 4
+    - Limit: 1/4 remaining
     - Table/Booth Space in Sponsor area
     - Name, link, and logo included on the PyTexas website
     - Promotional items placed on the PyTexas swag table
