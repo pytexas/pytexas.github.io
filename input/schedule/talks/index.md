@@ -39,6 +39,28 @@ Chris has given previous talks on SQLAlchemy at The Austin Python Meetup and An 
 
 <h2>
 Talk:
+<a id="sequence-design">Biological Sequence Design with Python</a>
+</h2>
+<p>
+Software may be eating the world, but biology will grow the world. And the great thing is they can work together for better outcomes. One important task in biology is biological sequence design, e.g. new enzymes, and python is the main language used for the bioinformatic and ML aspects.
+</p>
+<div class="media">
+  <div class="col-2">
+    <img class="align-self-start mr-3 img-thumbnail" src="/assets/img/speakers/name.png"/>
+  </div>
+  <div class="media-body">
+    <h5 class="mt-0">Speaker: Trent Hauck
+    </h5>
+    <small>
+Trent Hauck is a software/ML engineer who has worked in biotech for the last 6 years, and has been using Python for over 10. He worked at Zymergen for 5 years, working on assay analysis, ML-guided metabolic engineering, and protein and biosynthetic gene cluster discovery. Currently, he works at Mammoth Biosciences working on NGS-informatics and CRISPR-system discovery.
+    </small>
+  </div>
+</div>
+
+---
+
+<h2>
+Talk:
 <a id="data-types">Choosing the Right Data Types</a>
 </h2>
 <p>
@@ -232,6 +254,28 @@ Python remains a very popular programming and scripting language in the DevOps e
     </h5>
     <small>
 Currently CTO and Co-Founder of Jit, the Continuous Security platform for Developers. David has a PhD in Bioinformatics and for the past 20 years has been a full-stack developer, CTO & technical evangelist, mostly in the cloud, and specifically in cloud security, working for leading organizations such as MyHeritage, CloudLock (acquired by Cisco) and leading the ‘advanced development team’ for the CTO of Cisco’s cloud security.
+    </small>
+  </div>
+</div>
+
+---
+
+<h2>
+Talk:
+<a id="optimizing">Optimizing Code Performance for Python Internals</a>
+</h2>
+<p>
+The Python interpreter plays a critical role in controlling the performance of your code. This talk will be a fun interactive session presented through code examples for ways to improve the performance of your Python code based on the CPython interpreter’s inherent behavior and fundamental design.
+</p>
+<div class="media">
+  <div class="col-2">
+    <img class="align-self-start mr-3 img-thumbnail" src="/assets/img/speakers/name.png"/>
+  </div>
+  <div class="media-body">
+    <h5 class="mt-0">Speaker: Yonatan Goldschmidt
+    </h5>
+    <small>
+Yonatan Goldschmidt is a Team Lead at Granulate, overseeing the development and deployment of their real-time continuous optimization solution as an expert in low-level programming. Before joining Granulate, Yonatan served for nearly six years in the Israel Defense Forces as a Team Lead and R&D Specialist.
     </small>
   </div>
 </div>

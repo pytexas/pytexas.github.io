@@ -70,10 +70,13 @@ _This schedule may change at any time before now and the start of the conference
       <td>Lunch</td>
       <td>Lunch</td>
     </tr>
-    <tr class="table-info">
+    <tr>
       <th scope="row">02:15 pm</th>
-      <td>Lightning Talks</td>
-      <td>Lightning Talks</td>
+      <td>
+            <p style="text-align:center;"><a href="talks/#optimizing">Optimizing Code Performance for Python Internalsh</a></p>
+            <p style="text-align:center;font-size:16px;">Yonatan Goldschmidt</p>
+      </td>
+      <td class="table-info">Lightning Talks</td>
     </tr>
     <tr>
       <th scope="row">02:45 pm</th>
@@ -109,8 +112,8 @@ _This schedule may change at any time before now and the start of the conference
         <p style="text-align:center;font-size:16px;">Josh Schneider</p>
       </td>
       <td>
-        <p style="text-align:center;"><a href="">TBD</a></p>
-        <p style="text-align:center;font-size:16px;">TBD</p>
+        <p style="text-align:center;"><a href="talks/#sequence-design">Biological Sequence Design with Python</a></p>
+        <p style="text-align:center;font-size:16px;">Trent Hauck</p>
       </td>
     </tr>
     <tr>
