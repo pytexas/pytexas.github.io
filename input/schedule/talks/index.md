@@ -247,7 +247,7 @@ Python remains a very popular programming and scripting language in the DevOps e
 </p>
 <div class="media">
   <div class="col-2">
-    <img class="align-self-start mr-3 img-thumbnail" src="/assets/img/speakers/name.png"/>
+    <img class="align-self-start mr-3 img-thumbnail" src="/assets/img/speakers/david.png"/>
   </div>
   <div class="media-body">
     <h5 class="mt-0">Speaker: David Melamed
@@ -269,7 +269,7 @@ The Python interpreter plays a critical role in controlling the performance of y
 </p>
 <div class="media">
   <div class="col-2">
-    <img class="align-self-start mr-3 img-thumbnail" src="/assets/img/speakers/name.png"/>
+    <img class="align-self-start mr-3 img-thumbnail" src="/assets/img/speakers/yonatan.jpg"/>
   </div>
   <div class="media-body">
     <h5 class="mt-0">Speaker: Yonatan Goldschmidt
