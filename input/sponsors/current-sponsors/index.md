@@ -27,17 +27,20 @@ We thank all of the following sponsors for making this year's PyTexas possible:
     </div>
   <h3>Afterparty Sponsor</h3>
     <div class="row mb-4">
-    </div>
-  <h4>Gold</h4>
+    </div> -->
+  <h4>Platinum</h4>
     <div class="row mb-4">
       <div class="col-6 offset-3 text-center">
+        <a href="https://octopus.energy/">
+        <img src="/assets/img/sponsors/octopus-logo.png">
+        </a>
       </div>
     </div>
+<!--
   <h5>Silver & Bronze</h5>
     <div class="row mb-4">
     </div>
+    -->
 </div>
 
--->
- 
-Check back later to see our 2022 sponsors.
+
