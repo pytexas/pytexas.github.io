@@ -30,11 +30,17 @@ We thank all of the following sponsors for making this year's PyTexas possible:
     </div> -->
   <h4>Platinum</h4>
     <div class="row mb-4">
-      <div class="col-6 offset-3 text-center">
+      <div class="col-4">
         <a href="https://octopus.energy/">
         <img src="/assets/img/sponsors/octopus-logo.png">
         </a>
-      </div>
+    </div>
+    <div class="col-4">
+        <a href="https://scoutapm.com/">
+        <img src="/assets/img/sponsors/scout-apm.png">
+        </a>
+    </div>
+
     </div>
 <!--
   <h5>Silver & Bronze</h5>
