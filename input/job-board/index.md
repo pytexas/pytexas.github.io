@@ -26,6 +26,22 @@ Python jobs you should apply to!
         </ul>
       </div>
     </div>
+  <h4>Scout APM</h4>
+    <div class="row mb-4">
+      <div class="col-4">
+        <a href="https://octopus.energy/">
+        <img src="/assets/img/sponsors/scout-apm.png">
+        </a>
+        <a href="https://scoutapm.com/careers">Job Board</a>
+        <h5>Highlighted Roles</h5>
+        <ul>
+          <li>
+            <a href="https://scout-apm.breezy.hr/p/76a8b056047d-engineering-manager">Engineering Manager</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+
 </div>
 
 
