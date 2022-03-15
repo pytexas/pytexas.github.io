@@ -10,7 +10,7 @@ Python jobs you should apply to!
 <br>
   <h4>Octopus Energy</h4>
     <div class="row mb-4">
-      <div class="col-4">
+      <div class="col-6">
         <a href="https://octopus.energy/">
         <img src="/assets/img/sponsors/octopus-logo.png">
         </a>
@@ -28,7 +28,7 @@ Python jobs you should apply to!
     </div>
   <h4>Scout APM</h4>
     <div class="row mb-4">
-      <div class="col-4">
+      <div class="col-6">
         <a href="https://octopus.energy/">
         <img src="/assets/img/sponsors/scout-apm.png">
         </a>
@@ -37,6 +37,9 @@ Python jobs you should apply to!
         <ul>
           <li>
             <a href="https://scout-apm.breezy.hr/p/76a8b056047d-engineering-manager">Engineering Manager</a>
+          </li>
+          <li>
+            <a href="https://scout-apm.breezy.hr/p/d0f7d1734ec1-senior-product-manager">Senior Product Manager</a>
           </li>
         </ul>
       </div>
