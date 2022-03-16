@@ -39,28 +39,6 @@ Chris has given previous talks on SQLAlchemy at The Austin Python Meetup and An 
 
 <h2>
 Talk:
-<a id="sequence-design">Biological Sequence Design with Python</a>
-</h2>
-<p>
-Software may be eating the world, but biology will grow the world. And the great thing is they can work together for better outcomes. One important task in biology is biological sequence design, e.g. new enzymes, and python is the main language used for the bioinformatic and ML aspects.
-</p>
-<div class="media">
-  <div class="col-2">
-    <img class="align-self-start mr-3 img-thumbnail" src="/assets/img/speakers/name.png"/>
-  </div>
-  <div class="media-body">
-    <h5 class="mt-0">Speaker: Trent Hauck
-    </h5>
-    <small>
-Trent Hauck is a software/ML engineer who has worked in biotech for the last 6 years, and has been using Python for over 10. He worked at Zymergen for 5 years, working on assay analysis, ML-guided metabolic engineering, and protein and biosynthetic gene cluster discovery. Currently, he works at Mammoth Biosciences working on NGS-informatics and CRISPR-system discovery.
-    </small>
-  </div>
-</div>
-
----
-
-<h2>
-Talk:
 <a id="data-types">Choosing the Right Data Types</a>
 </h2>
 <p>
