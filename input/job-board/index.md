@@ -44,6 +44,24 @@ Python jobs you should apply to!
         </ul>
       </div>
     </div>
+  <h4>RookOut</h4>
+    <div class="row mb-4">
+      <div class="col-6">
+        <a href="https://rookout.com/">
+        <img src="/assets/img/sponsors/Rookout_logo.png">
+        </a>
+        <br>
+        <a href="https://www.rookout.com/company/careers">Job Board</a>
+        <h5>Highlighted Roles</h5>
+        <ul>
+          <li>
+            <a href="https://www.rookout.com/company/careers?careerid=1D.B20">Sales Engineer</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+
+
 
 </div>
 
