@@ -16,10 +16,27 @@ We thank all of the following sponsors for making this year's PyTexas possible:
         </a>
       </div>
       <div class="col-4">
+        <a href="https://www.elastic.co/">
+        <img src="/assets/img/sponsors/elastic.png">
+        </a>
+      </div>
+      <div class="col-4">
+        <a href="https://www.rookout.com/">
+        <img src="/assets/img/sponsors/Rookout_logo.png">
+        </a>
+      </div>
+      <div class="col-4">
         <a href="https://scoutapm.com/">
         <img src="/assets/img/sponsors/scout-apm.png">
         </a>
       </div>
+
+      <div class="col-4">
+        <a href="https://devrelate.io/">
+        <img src="/assets/img/sponsors/dev-relate.jpg">
+        </a>
+      </div>
+
     </div>
 
 
