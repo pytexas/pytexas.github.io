@@ -53,6 +53,12 @@ We thank all of the following sponsors for making this year's PyTexas possible:
           <img src="/assets/img/sponsors/pycharm.png">
           </a>
         </div>
+        <div class="col-2">
+          <a href=""https://nostarchpress.com/>
+          <img src="/assets/img/sponsors/no-starch.png">
+          </a>
+        </div>
+
       </div>
 <!--
   <h5>Silver & Bronze</h5>
