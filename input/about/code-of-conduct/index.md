@@ -26,8 +26,7 @@ marginalized people's safety over privileged people's comfort.
 If you believe an individual has violated this Code of Conduct, please contact
 us via any of the methods below:
 
-* **Call or text:** [201-371-1815](tel:201-371-1815)
-* **E-mail:** [coc@pytexas.org](mailto:coc@pytexas.org)
+* **Call or text:** [512-387-0297](tel:512-387-0297)
 
 _Note: Calls and texts are anonymized_
 
