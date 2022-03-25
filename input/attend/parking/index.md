@@ -5,7 +5,7 @@ template: subpage.html
 
 # Parking
 ---
-While at PyTexas you may park in the Austin Public Library parking garage while space is available. Just tell the parking attendant that you are here for the event.
+While at PyTexas you may park in the Austin Public Library parking garage while space is available. **This is a public parking garage and you will have to pay. You can find the rates [here](https://library.austintexas.gov/central/parking).** Just tell the parking attendant that you are here for the event.
 
 The event will be starting before the library is open. **Be sure to use the South Elevator or stais to Cesar Chavez to access the venue.** See the map below for 
 directions.
