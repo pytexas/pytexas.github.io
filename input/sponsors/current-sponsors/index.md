@@ -60,11 +60,17 @@ We thank all of the following sponsors for making this year's PyTexas possible:
         </div>
 
       </div>
-<!--
-  <h5>Silver & Bronze</h5>
+
+  <h5>Silver</h5>
     <div class="row mb-4">
+        <div class="col-2">
+          <a href="https://includedhealth.com/">
+          <img src="/assets/img/sponsors/includedhealth.png">
+          </a>
+        </div>
+
     </div>
-    -->
+
 </div>
 
 
