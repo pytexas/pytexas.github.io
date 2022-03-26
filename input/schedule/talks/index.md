@@ -291,7 +291,7 @@ As a citizen scientist, you want to learn more, but you’re hitting the limits 
 </p>
 <div class="media">
   <div class="col-2">
-    <img class="align-self-start mr-3 img-thumbnail" src="/assets/img/speakers/name.png"/>
+    <img class="align-self-start mr-3 img-thumbnail" src="/assets/img/speakers/laura-santamaria.jpg"/>
   </div>
   <div class="media-body">
     <h5 class="mt-0">Speaker: Laura Santamaria
