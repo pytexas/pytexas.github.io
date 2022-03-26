@@ -151,28 +151,6 @@ My name is Marco Tagliani and I am a Computer Science (CS) Student at Texas Stat
 
 <h2>
 Talk:
-<a id="lint">Lint All the Things!</a>
-</h2>
-<p>
-Code that’s uniform is easier to read, write, and debug, but writing down your standards and conventions in a README that no one reads isn’t enough. The explosion of CI and linter tools allow you to no only document your standards and conventions, but make sure people actually adhere to them.
-</p>
-<div class="media">
-  <div class="col-2">
-    <img class="align-self-start mr-3 img-thumbnail" src="/assets/img/speakers/name.png"/>
-  </div>
-  <div class="media-body">
-    <h5 class="mt-0">Speaker: Luke Lee
-    </h5>
-    <small>
-I’ve been developing software professionally for almost 20 years. During that time, I’ve written device drivers for SSDs, desktop GUIs, and web applications. In addition to writing software, I enjoy writing, teaching yoga, cycling, and chasing my Corgi.
-    </small>
-  </div>
-</div>
-
----
-
-<h2>
-Talk:
 <a id="elasticsearch">Making Location Based Searches with Google Places API and Elasticsearch</a>
 </h2>
 <p>
@@ -200,6 +178,28 @@ Talk:
 </h2>
 <p>
 Good test data can be a nightmare to manage! It can make-or-break testing efforts. Should we preload our databases? Should we use dynamically-generated dummy data? What about collisions? Let’s cover practical strategies for handling data both in our products and in our test cases.
+</p>
+<div class="media">
+  <div class="col-2">
+    <img class="align-self-start mr-3 img-thumbnail" src="/assets/img/speakers/andy.jpg"/>
+  </div>
+  <div class="media-body">
+    <h5 class="mt-0">Speaker: Andrew Knight
+    </h5>
+    <small>
+Andrew Knight is the Automation Panda and also a Developer Advocate at Applitools. He strives to help others in solving problems in software development, testing, and quality. Over the past decade, he has designed and built robust test automation projects from the ground up that can run thousands of tests continuously. He is the author of the upcoming book “The Way To Test Software” from Manning Publications, and he is also the lead developer for Boa Constrictor, the .NET Screenplay Pattern. Read his tech blog at AutomationPanda.com, and follow him on Twitter at @AutomationPanda.
+    </small>
+  </div>
+</div>
+
+---
+
+<h2>
+Talk:
+<a id="playwright">Awesome Web Testing with Playwright</a>
+</h2>
+<p>
+Everybody gets frustrated when web apps are broken, but testing them thoroughly doesn't need to be a chore. Playwright, a new open-source browser automation tool from Microsoft, makes testing web apps fun! Playwright offers a slew of nifty features like automatic waiting, mobile emulation, and network interception. Plus, with isolated browser contexts, Playwright tests can set up *much* faster than traditional Web UI tests.
 </p>
 <div class="media">
   <div class="col-2">

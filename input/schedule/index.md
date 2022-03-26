@@ -17,6 +17,15 @@ _This schedule may change at any time before now and the start of the conference
   </thead>
   <tbody>
     <tr>
+      <th scope="row">09:15 am</th>
+      <td>
+        <p style="text-align:center;"><a href="">Day 1 Opening Remarks</a></p>
+      </td>
+      <td>
+        <p style="text-align:center;"><a href="">Day 2 Opening Remarks</a></p>
+      </td>
+    </tr>
+    <tr>
       <th scope="row">09:30 am</th>
       <td>
         <p style="text-align:center;"><a href="keynote/#lorena">Keynote</a></p>
@@ -112,8 +121,8 @@ _This schedule may change at any time before now and the start of the conference
         <p style="text-align:center;font-size:16px;">Josh Schneider</p>
       </td>
       <td>
-        <p style="text-align:center;"><a href="">TBD</a></p>
-        <p style="text-align:center;font-size:16px;">TBD</p>
+        <p style="text-align:center;"><a href="talks/#playwright">Awesome Web Testing with Playwright</a></p>
+        <p style="text-align:center;font-size:16px;">Andrew Knight</p>
       </td>
     </tr>
     <tr>
@@ -123,14 +132,13 @@ _This schedule may change at any time before now and the start of the conference
         <p style="text-align:center;font-size:16px;">Aly Sivji</p>
       </td>
       <td>
-        <p style="text-align:center;"><a href="talks/#lint">Lint All the Things</a></p>
-        <p style="text-align:center;font-size:16px;">Luke Lee</p>
+        <p style="text-align:center;"><a href="talks/#lint">Closing Remarks & Raffle</a></p>
       </td>
     </tr>
     <tr>
       <th scope="row">05:00 pm</th>
       <td style="text-align:center;">End of Day 1</td>
-      <td style="text-align:center;">Closing Remarks & Raffle</td>
+      <td style="text-align:center;">End of Day 2</td>
     </tr>
   </tbody>
 </table>
