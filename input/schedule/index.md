@@ -29,11 +29,10 @@ _This schedule may change at any time before now and the start of the conference
       <th scope="row">09:30 am</th>
       <td>
         <p style="text-align:center;"><a href="keynote/#lorena">Keynote</a></p>
-        <p style="text-align:center;font-size:16px;">Lorena Mesa</p>
+        <p style="text-align:center;font-size:16px;">Kojo Idrissa</p>
       </td>
       <td>
-        <p style="text-align:center;"><a href="keynote/#kojo">Keynote</a></p>
-        <p style="text-align:center;font-size:16px;">Kojo Idrissa</p>
+        <p style="text-align:center;"><a href="keynote/#kojo">PyTexas History and Sponsor Showcase</a></p>
       </td>
     </tr>
     <tr class="table-secondary">
