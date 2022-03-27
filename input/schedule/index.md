@@ -58,8 +58,8 @@ _This schedule may change at any time before now and the start of the conference
         <p style="text-align:center;font-size:16px;">Dave Klein</p>
       </td>
       <td>
-        <p style="text-align:center;"><a href="talks/#polyas-methods">How to Solve It: Polya's Methods for the Pythonista</a></p>
-        <p style="text-align:center;font-size:16px;">Marco Tagliani</p>
+        <p style="text-align:center;"><a href="talks/#mozart">Coding and the Mozart Effect</a></p>
+        <p style="text-align:center;font-size:16px;">PJ Hagerty</p>
       </td>
     </tr>
     <tr>

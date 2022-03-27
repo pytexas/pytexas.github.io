@@ -63,6 +63,28 @@ Outside of work, he's a dad of 2 nerdy kids, a trained improv comedian, movie lo
 
 <h2>
 Talk:
+<a id="mozart">Coding and the Mozart Effect</a>
+</h2>
+<p>
+Most developers code to music...some are even musicians themselves.  Is it possible to streamline workflow by adjusting how we listen to music and what music we listen to? Studies have shown that exposure to certain kinds of music can help to develop cognitive strength and improve performance of tasks.  This talk will explore those studies and show what sort of things can be done to improve the listeners environment and help people to create better code.
+</p>
+<div class="media">
+  <div class="col-2">
+    <img class="align-self-start mr-3 img-thumbnail" src="/assets/img/speakers/name.png"/>
+  </div>
+  <div class="media-body">
+    <h5 class="mt-0">Speaker: PJ Hagerty
+    </h5>
+    <small>
+    PJ is awesome.
+    </small>
+  </div>
+</div>
+
+---
+
+<h2>
+Talk:
 <a id="microservices">Event-Driven Microservices with Flask and Apache Kafka</a>
 </h2>
 <p>
