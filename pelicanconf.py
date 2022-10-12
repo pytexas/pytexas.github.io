@@ -2,6 +2,8 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
+from utils.filters import sidebar
+
 AUTHOR = 'PyTexas Devs'
 SITETITLE = 'PyTexas Foundation'
 SITENAME = 'PyTexas Foundation'
@@ -34,15 +36,16 @@ PAGE_SAVE_AS = 'pages/{slug}/index.html'
 # DRAFT_SAVE_AS = 'drafts/{slug}.html'
 
 # Theme
-THEME = 'theme/pelican-striped-html5up'
+THEME = 'theme/twenty-pelican-html5up'
 
 # Plugins
 # PLUGIN_PATHS = ['pelican-plugins']
-PLUGINS = ['neighbors']
+# PLUGINS = ['neighbors']
 
 # static files
 STATIC_PATHS = [
-    'static'
+    'static',
+    'favicon.ico'
 ]
 
 JINJA_ENVIRONMENT = {
@@ -56,9 +59,15 @@ COPYRIGHT_NAME = 'PyTexas Foundation'
 
 MAIN_MENU = True
 
-MENUITEMS = (('About', '/pages/about'),
-             ('Categories', '/categories.html'),
-             ('Tags', '/tags.html'),)
+DISPLAY_PAGES_ON_MENU = False
+
+MENUITEMS = (
+    ('About', '/pages/about'),
+    # ('Categories', '/categories.html'),
+    # ('Tags', '/tags.html'),
+)
+
+JINJA_FILTERS = {'sidebar': sidebar}
 
 # Blogroll
 LINKS = (('PyCon', 'https://pycon.org/'),
@@ -66,9 +75,13 @@ LINKS = (('PyCon', 'https://pycon.org/'),
 
 # Social widget
 SOCIAL = (('Twitter', 'https://twitter.com/pytexas'),
-          ('Another social link', '#'))
+          ('LinkedIn', '#'),
+          ('Slack', 'https://join.slack.com/t/pytexas/shared_invite/zt-1h2lrg6pe-18vnRQDYfoxjLWHASbOl4w'),
+          ('Discord', 'https://discord.gg/jNPAbcNukj'),
+          ('YouTube', 'https://www.youtube.com/channel/UCkn0L-L6auy9YAmlSy9Kv1Q/playlists')
+          )
 
 DEFAULT_PAGINATION = False
 
 # Uncomment following line if you want document-relative URLs when developing
-#RELATIVE_URLS = True
+# RELATIVE_URLS = True

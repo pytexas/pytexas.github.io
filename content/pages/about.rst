@@ -7,3 +7,5 @@ About Us
 :category: none
 :slug: about
 :summary: Who we are
+
+The PyTexas Foundation is a 501(c)3 non-profit run by a volunteer group. We are Python enthusiasts that want to share the programming language with the world.

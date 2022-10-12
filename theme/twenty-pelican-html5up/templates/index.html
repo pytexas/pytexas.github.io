@@ -1,0 +1,69 @@
+{% extends "base.html" %}
+
+{% include 'banner.html' %}
+
+{% block content %}
+<!-- Main -->
+<article id="main">
+
+  <header class="special container">
+    <span class="icon fa-bar-chart-o"></span>
+    <h2>Hi</h2>
+    <p>Stuff</p>
+  </header>
+
+  <!-- One -->
+  <section class="wrapper style2 container special-alt">
+    <div class="row half">
+      <div class="8u">
+
+        <header>
+          <h2>Join the <strong>community</strong> and help grow Python across the state.</h2>
+        </header>
+        <p>.</p>
+        <footer>
+          <ul class="buttons">
+            <li><a href="#" class="button">Find Out More</a></li>
+          </ul>
+        </footer>
+
+      </div>
+      <div class="4u skel-cell-important">
+      </div>
+    </div>
+  </section>
+
+  <!-- Two -->
+  <section class="wrapper style1 container special">
+    <div class="row">
+
+      {% for article in articles_page.object_list %}
+      <div class="4u">
+
+        <section>
+          <span class="icon feature fa-{{ article.icon }}"></span>
+          <header>
+            <a href="{{ SITEURL }}/{{ article.url }}" rel='bookmark'><h3>{{ article.title }}</h3></a>
+          </header>
+          <p>{{ article.content[:196]|striptags }}</p>
+          <footer>
+              <ul class="buttons">
+                  <li><a href="{{ SITEURL }}/{{ article.url }}" class="button small">Read More</a></li>
+              </ul>
+          </footer>
+        </section>
+
+      </div>
+      {% endfor %}
+
+    </div> <!-- /.row -->
+
+    {% include 'pagination.html' %}
+
+  </section> <!-- /section -->
+
+</article>
+
+{% include 'cta.html' %}
+
+{% endblock content %}
