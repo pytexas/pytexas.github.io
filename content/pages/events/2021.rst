@@ -1,0 +1,11 @@
+PyTexas 2021
+############
+
+:date: 2022-10-23
+:modified: 2022-10-23
+:tags: events, 2021
+:category: events
+:slug: 2021
+:summary: PyTexas 2021 has completed
+
+Thanks for joining us!

@@ -2,6 +2,8 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
+from pelican.readers import HTMLReader
+from pelican.settings import DEFAULT_CONFIG
 from utils.filters import sidebar
 
 AUTHOR = 'PyTexas Devs'
@@ -30,8 +32,8 @@ AUTHOR_FEED_RSS = None
 # URL settings
 ARTICLE_URL = '{date:%Y}/{date:%m}/{date:%d}/{slug}/'
 ARTICLE_SAVE_AS = '{date:%Y}/{date:%m}/{date:%d}/{slug}/index.html'
-PAGE_URL = 'pages/{slug}/'
-PAGE_SAVE_AS = 'pages/{slug}/index.html'
+PAGE_URL = '{slug}/'
+PAGE_SAVE_AS = '{slug}/index.html'
 # DRAFT_URL = '{slug}.html'
 # DRAFT_SAVE_AS = 'drafts/{slug}.html'
 
@@ -62,7 +64,7 @@ MAIN_MENU = True
 DISPLAY_PAGES_ON_MENU = False
 
 MENUITEMS = (
-    ('About', '/pages/about'),
+    ('About', '/about'),
     # ('Categories', '/categories.html'),
     # ('Tags', '/tags.html'),
 )
@@ -85,3 +87,6 @@ DEFAULT_PAGINATION = False
 
 # Uncomment following line if you want document-relative URLs when developing
 # RELATIVE_URLS = True
+
+config = DEFAULT_CONFIG.copy()
+FORM, _ = HTMLReader(config).read("theme/twenty-pelican-html5up/templates/form.html")
