@@ -38,24 +38,25 @@ theme:
 #site_dir: site
 nav:
   - Home: index.md
-  - About: about.md
   - Foundation:
+      - 'About the Foundation': foundation/about.md
       - 'Who we are': foundation/who.md
       - Governance: foundation/governance.md
-      - 'Meeting minutes': foundation/meeting_minutes.md
+      - 'Meeting minutes': foundation/minutes.md
       - Fundraising: foundation/fundraising.md
       - Sponsors: foundation/sponsors.md
-  - Events:
-      - 2019: events/2019.md
-      - 2021: events/2021.md
-      - 2022: events/2022.md
-      - 2023: events/2023.md
+      - Privacy: privacy.md
+  - Conference:
+      - Conference: events/index.md
+      - Archive: events/archive.md
       - 2024: events/2024.md
   - Meetup: meetup.md
 markdown_extensions:
   - toc:
       permalink: true
 extra:
+  status:
+    new: Recently added
   social:
     - icon: fontawesome/brands/twitter
       link: https://twitter.com/pytexas
@@ -67,3 +68,7 @@ extra:
       link: https://www.youtube.com/channel/UCkn0L-L6awy9YAmlSy9Kv1Q/playlists
     - icon: fontawesome/brands/mastodon
       link: .
+    - icon: fontawesome/brands/meetup
+      link: https://www.meetup.com/pytexas-virtual-meetup
+    - icon: fontawesome/brands/github
+      link: https://github.com/pytexas

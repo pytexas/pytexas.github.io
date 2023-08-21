@@ -1,18 +1,23 @@
 # The PyTexas Foundation
 
+Welcome to the home of the PyTexas Foundation. [Learn more about us](foundation/about.md).
+
 ## Conference
-PyTexas 2024 will be opening soon! Learn more.
+PyTexas 2024 will be opening soon! [Learn more about the conference series](events/index.md).
 
-## Discord
-Join the community and help grow Python across the state. Find Out More
+## Virtual Community
+Join the community and help grow Python across the state. You can join the Discord and join us for the monthly meetup. Learn more.
 
-## Ready to **get involved**?
-Register for the next event, donate, or sign up for an email list for updates.
+## Mailing List
+Sign up with our email list for updates.
         
-<form role="form" action="//pytexas.us11.list-manage.com/subscribe/post?u=93d4ab771d0c2e4facc053add&amp;id=fa6aa40a2e" method="post" data-form-email="" novalidate="">
-    <div class="form-group">
+<form role="form" action="//pytexas.us11.list-manage.com/subscribe/post?u=93d4ab771d0c2e4facc053add&amp;id=fa6aa40a2e" method="post" data-form-email novalidate>
+    <div class="form-row">
         <label for="exampleInputEmail2">Email address</label>
-        <input type="email" placeholder="Email Address" name="EMAIL" required="">
+        <input type="email" class="form-control" placeholder="Email Address" name="EMAIL" required=>
+        <button type="submit" class="btn btn-block" data-loading-text="Sending">Subscribe</button>
     </div>
-    <button type="submit">Notify Me</button>
 </form>
+<small class="text-muted form-text">
+    We'll never share your details. Refer to our <a href="privacy">Privacy Statement</a>.
+</small>
