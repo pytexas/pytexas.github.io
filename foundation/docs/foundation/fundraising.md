@@ -3,7 +3,9 @@ title: Sponsorship Information
 ---
 
 # Sponsorship Information
+
 The PyTexas Foundation has two primary actions:
+
 - Run the PyTexas Conference, an annual gathering of Pythonistas that is 100% community organized and is funded through the generosity of our sponsors
 - Run the semi-monthly PyTexas Meetup, a virtual meetup to share Python with the Texas technical community run by community volunteers
 
