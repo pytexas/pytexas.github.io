@@ -22,4 +22,4 @@ jobs:
           restore-keys: |
             mkdocs-material-
       - run: pip install mkdocs-material
-      - run: cd ./foundation mkdocs gh-deploy --force
+      - run: cd ./foundation && mkdocs gh-deploy --force
