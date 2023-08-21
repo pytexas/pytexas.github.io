@@ -1,0 +1,69 @@
+# yaml-language-server: $schema=https://squidfunk.github.io/mkdocks-material/schema.json
+site_name: PyTexas Foundation
+repo_url: https://github.com/pytexas/foundation-site
+repo_name: GitHub
+site_author: Laura Santamaria <dev@nimbinatus.com>
+site_description: The PyTexas Foundation is a non-profit dedicated to educating engineers about Python in the state of Texas
+copyright: '2023'
+theme:
+  name: material
+  locale: en
+  logo: assets/images/logo.png
+  favicon: assets/images/favicon.png
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.top
+    - navigation.tracking
+    - toc.follow
+    - toc.integrate
+  plugins:
+    - search
+    - social:
+        cards_layout: default/variant
+  palette:
+    - scheme: default
+      primary: blue
+      accent: amber
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to dark mode
+    - scheme: slate
+      primary: black
+      accent: yellow
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to light mode
+#docs_dir: docs
+#site_dir: site
+nav:
+  - Home: index.md
+  - About: about.md
+  - Foundation:
+      - 'Who we are': foundation/who.md
+      - Governance: foundation/governance.md
+      - 'Meeting minutes': foundation/meeting_minutes.md
+      - Fundraising: foundation/fundraising.md
+      - Sponsors: foundation/sponsors.md
+  - Events:
+      - 2019: events/2019.md
+      - 2021: events/2021.md
+      - 2022: events/2022.md
+      - 2023: events/2023.md
+      - 2024: events/2024.md
+  - Meetup: meetup.md
+markdown_extensions:
+  - toc:
+      permalink: true
+extra:
+  social:
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/pytexas
+    - icon: fontawesome/brands/discord
+      link: https://discord.gg/jNPAbcNukj
+    - icon: fontawesome/brands/linkedin
+      link: https://linkedin.com/company/pytexas-foundation
+    - icon: fontawesome/brands/youtube
+      link: https://www.youtube.com/channel/UCkn0L-L6awy9YAmlSy9Kv1Q/playlists
+    - icon: fontawesome/brands/mastodon
+      link: .
