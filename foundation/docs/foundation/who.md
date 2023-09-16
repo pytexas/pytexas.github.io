@@ -9,19 +9,19 @@ Here are the officers for the 2023 fiscal year.
 
 ### President
 
-Mason Egger is the current president.
+Mason Egger is the current president. He holds the position until March 2024.
 
 ### Vice President
 
-Kevin Horn is the current vice president.
+Kevin Horn is the current vice president. He holds the position until March 2024.
 
 ### Treasurer
 
-Jeremy Boyd is the current treasurer.
+Jeremy Boyd is the current treasurer. He holds the position until March 2024.
 
 ### Secretary
 
-Jeremy Boyd is the current secretary.
+Jeremy Boyd is the current secretary. He holds the position until April 2025.
 
 ## Board
 

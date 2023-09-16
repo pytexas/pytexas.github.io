@@ -7,10 +7,12 @@ site_description: The PyTexas Foundation is a non-profit dedicated to educating 
 copyright: '2023'
 theme:
   name: material
+  custom_dir: docs/overrides
   locale: en
   logo: assets/images/logo.png
   favicon: assets/images/favicon.png
   features:
+    - announce.dismiss
     - navigation.tabs
     - navigation.tabs.sticky
     - navigation.top

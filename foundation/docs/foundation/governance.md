@@ -2,7 +2,7 @@
 title: Foundation Governance
 ---
 
-Note: The official PDF of these Bylaws and governance documents can be found at _____________.
+Note: The official PDF of these Bylaws and governance documents can be obtained by [emailing us](mailto:info@pytexas.org).
 
 # Bylaws Of The PyTexas Foundation
  

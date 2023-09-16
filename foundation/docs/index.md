@@ -1,6 +1,10 @@
-# The PyTexas Foundation
+---
+title: The PyTexas Foundation
+template: home.html
+---
 
-Welcome to the home of the PyTexas Foundation. [Learn more about us](foundation/about.md).
+# Welcome to the PyTexas Foundation
+This is the home of the PyTexas Foundation. [Learn more about us](foundation/about.md).
 
 ## Conference
 PyTexas 2024 will be opening soon! [Learn more about the conference series](events/index.md).
