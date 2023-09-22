@@ -22,6 +22,6 @@ jobs:
           restore-keys: |
             mkdocs-material-
       - run: pip install git+https://${GH_TOKEN}@github.com/squidfunk/mkdocs-material-insiders.git
-      - run: mkdocs gh-deploy --force
+      - run: cd ./foundation && mkdocs gh-deploy --force
 env:
   GH_TOKEN: ${{ secrets.GH_TOKEN }}
