@@ -1,14 +1,14 @@
 TODO: Move to Mkdocs
 
 - [x] About page
-- [ ] Who's who (board members)
-- [ ] Governing docs
-- [ ] Minutes
-- [ ] Meetups (link)
+- [x] Who's who (board members)
+- [x] Governing docs
+- [x] Minutes
+- [x] Meetups (link)
 - [ ] Events (link)
   - [ ] Archives
-- [ ]Community events (links)
-- [ ] Discord
-- [ ] Mailing list
+- [x]Community events (links)
+- [x] Discord
+- [x] Mailing list
 - [ ] Fundraising
 - [ ] Sponsors

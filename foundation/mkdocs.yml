@@ -4,7 +4,7 @@ repo_url: https://github.com/pytexas/foundation-site
 repo_name: GitHub
 site_author: Laura Santamaria <dev@nimbinatus.com>
 site_description: The PyTexas Foundation is a non-profit dedicated to educating engineers about Python in the state of Texas
-copyright: '2023'
+copyright: 'PyTexas Foundation © 2023'
 theme:
   name: material
   custom_dir: docs/overrides
@@ -48,14 +48,17 @@ nav:
       - Fundraising: foundation/fundraising.md
       - Sponsors: foundation/sponsors.md
       - Privacy: privacy.md
-  - Conference:
-      - Conference: events/index.md
-      - Archive: events/archive.md
-      - 2024: events/2024.md
+  - Conference: conference.md
   - Meetup: meetup.md
 markdown_extensions:
+  - attr_list
+  - md_in_html
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
   - toc:
       permalink: true
+  
 extra:
   status:
     new: Recently added
@@ -69,7 +72,7 @@ extra:
     - icon: fontawesome/brands/youtube
       link: https://www.youtube.com/channel/UCkn0L-L6awy9YAmlSy9Kv1Q/playlists
     - icon: fontawesome/brands/mastodon
-      link: .
+      link: https://fosstodon.org/@pytexas
     - icon: fontawesome/brands/meetup
       link: https://www.meetup.com/pytexas-virtual-meetup
     - icon: fontawesome/brands/github
