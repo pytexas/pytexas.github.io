@@ -6,7 +6,7 @@ summary: Learn more about the PyTexas Conference.
 
 # The PyTexas Conference
 
-[PyTexas 2024 Conference Website](https://conference.pytexas.org){ .md-button .md-button--primary }
+[PyTexas 2024 Conference Website](https://www.pytexas.org/2024){ .md-button .md-button--primary }
 
 ## About
 
