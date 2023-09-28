@@ -1,9 +1,7 @@
 name: ci
-on:  # Triggers the workflow on push or pull request events but only for the "mkdoc-port" branch
+on:  # Triggers the workflow on push but only for the "main" branch
   push:
-    branches: [ "mkdoc-port" ]
-  pull_request:
-    branches: [ "mkdoc-port" ]
+    branches: [ "main" ]
 permissions:
   contents: write
 jobs:
