@@ -6,7 +6,7 @@ summary: The PyTexas Meetup is an online meetup for all of Texas Pythonistas.
 
 # The PyTexas Meetup
 
-[PyTexas 2024 Meetup Website](https://meetup.pytexas.org){ .md-button .md-button--primary }
+[PyTexas 2024 Meetup Website](https://pytexas.org/meetup){ .md-button .md-button--primary }
 
 ## About
 
