@@ -21,8 +21,6 @@ theme:
     - toc.integrate
   plugins:
     - search
-    - social:
-        cards_layout: default/variant
   palette:
     - scheme: default
       primary: blue
@@ -58,7 +56,8 @@ markdown_extensions:
       emoji_generator: !!python/name:materialx.emoji.to_svg
   - toc:
       permalink: true
-  
+plugins:
+  - social
 extra:
   status:
     new: Recently added
