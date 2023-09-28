@@ -49,7 +49,7 @@ nav:
       - Sponsors: foundation/sponsors.md
       - Privacy: privacy.md
   - Conference: conference.md
-  - Meetup: meetup.md
+  - Monthly Meetup: https://pytexas.org/meetup
 markdown_extensions:
   - attr_list
   - md_in_html
