@@ -19,7 +19,7 @@ jobs:
           path: .cache
           restore-keys: |
             mkdocs-material-
-      - run: pip install mkdocs "mkdocs-material[imaging]" git+https://${GH_TOKEN}@github.com/squidfunk/mkdocs-material-insiders.git
+      - run: pip install "mkdocs-material-insiders[imaging] @ git+https://${GH_TOKEN}@github.com/squidfunk/mkdocs-material-insiders.git"
       - run: cd ./foundation && mkdocs gh-deploy --force
 env:
   GH_TOKEN: ${{ secrets.GH_TOKEN }}
