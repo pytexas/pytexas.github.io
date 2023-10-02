@@ -12,14 +12,17 @@ This is the home of the PyTexas Foundation. [Learn more about us](foundation/abo
 
     ---
 
-    The PyTexas 2024 Conference webpage will launch soon!
-    [Learn more about the conference series](conference.md).
+    The PyTexas 2024 Conference will take place April 19 - 21, and include tutorials this year.
+
+    [:octicons-arrow-right-24: PyTexas 2024 Website](https://pytexas.org/2024)
 
 -   :fontawesome-solid-people-group:{ .lg .middle} __Virtual Community__
 
     ---
 
     Join the community and help grow Python across the state. You can join the PyTexas [Discord](https://discord.gg/jNPAbcNukj) and join us for the monthly meetup. 
+
+    [:octicons-arrow-right-24: PyTexas Meetup Website](https://pytexas.org/meetup)
 
 -   :fontawesome-regular-envelope:{ .lg .middle} __Join Our Mailing List__
 
