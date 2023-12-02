@@ -57,6 +57,9 @@ markdown_extensions:
 plugins:
   - search
   - social
+  - redirects:
+      redirect_maps:
+        'links.md': 'https://linktr.ee/pytexas'
 extra:
   status:
     new: Recently added
