@@ -62,7 +62,7 @@ Friday hangout, and have various text channels for discussion.
 
 ### PyTexas Meetup
 
-After various discussions with Texas Pythonista's we discovered that Texas was missing
+After various discussions with Texas Pythonistas we discovered that Texas was missing
 a vital piece of its meetup ecosystem. Many local meetups had yet to make a return
 and many who did have a local meetup lived too far away to make it to the meetup
 consistently. For those who aren't aware, Texas is a _huge_ state. Major cities
