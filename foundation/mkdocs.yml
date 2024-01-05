@@ -1,8 +1,8 @@
 # yaml-language-server: $schema=https://squidfunk.github.io/mkdocks-material/schema.json
 site_name: PyTexas Foundation
-repo_url: https://github.com/pytexas/foundation-site
-repo_name: GitHub
-site_author: Laura Santamaria <dev@nimbinatus.com>
+repo_url: https://github.com/pytexas/pytexas.github.io
+repo_name: pytexas/pytexas.github.io
+site_author: PyTexas Foundation <foundation@pytexas.org>
 site_description: The PyTexas Foundation is a non-profit dedicated to educating engineers about Python in the state of Texas
 copyright: 'PyTexas Foundation © 2023'
 theme:
@@ -32,8 +32,6 @@ theme:
       toggle:
         icon: material/toggle-switch-off-outline
         name: Switch to light mode
-#docs_dir: docs
-#site_dir: site
 nav:
   - Home: index.md
   - Foundation:
@@ -44,19 +42,25 @@ nav:
       - Fundraising: foundation/fundraising.md
       - Sponsors: foundation/sponsors.md
       - Privacy: privacy.md
+  - Blog:
+      - blog/index.md
   - Conference: conference.md
   - Meetup: meetup-info.md
 markdown_extensions:
   - attr_list
   - md_in_html
   - pymdownx.emoji:
-      emoji_index: !!python/name:materialx.emoji.twemoji
-      emoji_generator: !!python/name:materialx.emoji.to_svg
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
   - toc:
       permalink: true
 plugins:
   - search
   - social
+  - blog:
+      blog_dir: blog
+      blog_toc: true
+      post_url_format: "{slug}"
   - redirects:
       redirect_maps:
         'links.md': 'https://linktr.ee/pytexas'
