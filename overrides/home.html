@@ -1,0 +1,29 @@
+{% extends "main.html" %}
+<!-- Remove side nav bar on large screens on desktop -->
+{% block header %}
+  {{ super() }}
+
+  <!-- Additional styles for landing page -->
+  <style>
+
+    /* Hide table of contents */
+    @media screen and (min-width: 60em) {
+      .md-sidebar--secondary {
+        display: none;
+      }
+    }
+
+    /* Hide navigation */
+    @media screen and (min-width: 76.25em) {
+      .md-sidebar--primary {
+        display: none;
+      }
+    }
+</style>
+{% endblock %}
+{% block hero %}
+    <figure style="margin: 0">
+        <img src="assets/images/banner-2.jpg" alt="A crowded presentation room with a person on stage" style="object-fit: cover;object-position: 100% 0;width: 100%;height: 400px;">
+        <figcaption>PyTexas 2022, credit Laura Santamaria</figcaption>
+    </figure>
+{% endblock %}
