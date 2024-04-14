@@ -72,6 +72,18 @@ three tiers available, each with unique perks:
   </tbody>
 </table>
 
+## Fulfillment of Physical Benefits
+
+The PyTexas Foundation will fulfill orders once a quarter. The following dates
+are when the previous quarter's order closes:
+
+* January 1
+* April 1
+* July 1
+* October 1
+
+Any orders placed after these dates will be fulfilled the following quarter.
+
 **Physical items can _only_ be shipped within the continental US**
 
 
