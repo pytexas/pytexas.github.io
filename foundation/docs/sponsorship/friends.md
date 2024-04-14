@@ -27,6 +27,7 @@ three tiers available, each with unique perks:
       <th>Tier</th>
       <th>Cost</th>
       <th>Perks</th>
+      <th>Purchase</th>
     </tr>
   </thead>
   <tbody>
@@ -41,6 +42,7 @@ three tiers available, each with unique perks:
           <li>Acknowledgement on the PyTexas Foundation Website</li>
         </ul>
       </td>
+      <td><a class="md-button md-button--primary" href="https://buy.stripe.com/3csg1AaOx1ZTg24dQT">Purchase</a></td>
     </tr>
     <tr>
       <td align="center">Armadillo</td>
@@ -54,6 +56,7 @@ three tiers available, each with unique perks:
           <li>Acknowledgement on the PyTexas Foundation Website</li>
         </ul>
       </td>
+      <td><a class="md-button md-button--primary" href="https://buy.stripe.com/3cs6r04q9dIBeY0aEG">Purchase</a></td>
     </tr>
     <tr>
       <td align="center">Lonestar</td>
@@ -68,6 +71,7 @@ three tiers available, each with unique perks:
           <li>Acknowledgement on the PyTexas Foundation Website</li>
         </ul>
       </td>
+      <td align="center"><a class="md-button md-button--primary" href="https://buy.stripe.com/aEUaHgg8R0VP3fi5kl">Purchase</a></td>
     </tr>
   </tbody>
 </table>
