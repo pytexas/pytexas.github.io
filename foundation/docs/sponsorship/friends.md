@@ -5,7 +5,7 @@ description: Enjoy what the PyTexas Foundation does and want to help support fin
 
 The PyTexas Foundation's mission is to build vibrant community of Python
 enthusiasts in the state of Texas. As PyTexas continues to grow, we 
-rely on the continuing generosity and support of individuals like you who 
+rely on the generosity and support of individuals like you who 
 believe in our vision and want to contribute to its growth. The Friends of 
 PyTexas program is your opportunity to make a direct impact on the future of 
 the PyTexas Foundation, and by extension, the Python Community in Texas. Your 
