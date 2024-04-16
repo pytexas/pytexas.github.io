@@ -1,6 +1,6 @@
 ---
 title: Conference Sponsorship
-description: Looking to sponsor the largest Python programme gather in Texas? Check out our prospectus and sponsor the PyTexas Conference.
+description: Looking to sponsor the largest Python programmer gathering in Texas? Check out our prospectus and sponsor the PyTexas Conference.
 ---
 
 Every year the PyTexas Foundation puts on the PyTexas Conference. Our sponsorship
