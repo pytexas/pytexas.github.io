@@ -37,7 +37,7 @@ _All benefits listed below are available with sponsorship. Benefits are active f
         - 25 minute talk time limit
         - Limit to 1 talk per year
             - Starts with first month of sponsorship
-        - Can be given by company or company can designate a third-party speaker (ie customer)
+        - Can be given by company or company can designate a third-party speaker (i.e., customer)
         - PyTexas approval required
 - [PyTexas Community Discord Server](https://discord.gg/jNPAbcNukj)
     - A thank you and mention once per quarter
