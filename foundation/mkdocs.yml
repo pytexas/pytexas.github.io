@@ -46,6 +46,11 @@ nav:
       - blog/index.md
   - Conference: conference.md
   - Meetup: meetup-info.md
+  - Sponsorship: 
+    - Friends of PyTexas: sponsorship/friends.md
+    - Meetup: sponsorship/meetup.md
+    - Conference: sponsorship/conference.md
+    - Charitable Contribution: sponsorship/charitable.md
 markdown_extensions:
   - attr_list
   - md_in_html
