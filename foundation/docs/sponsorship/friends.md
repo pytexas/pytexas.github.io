@@ -37,7 +37,7 @@ three tiers available, each with unique perks:
       <td>
         <ul>
           <li>$15 discount code for one PyTexas Conference ticket</li>
-          <li>A custom PyTexas Foundation T-Shirt</li>
+          <li>Custom PyTexas Foundation T-Shirt</li>
           <li>Custom role in the PyTexas Discord Server</li>
           <li>Acknowledgement on the PyTexas Foundation Website</li>
         </ul>
@@ -51,7 +51,7 @@ three tiers available, each with unique perks:
         <ul>
           <li>PyTexas Mug</li>
           <li>$75 discount code for one PyTexas Conference ticket</li>
-          <li>A custom PyTexas Foundation T-Shirt</li>
+          <li>Custom PyTexas Foundation T-Shirt</li>
           <li>Custom role in the PyTexas Discord Server</li>
           <li>Acknowledgement on the PyTexas Foundation Website</li>
         </ul>
@@ -63,9 +63,10 @@ three tiers available, each with unique perks:
       <td align="center">$750</td>
       <td>
         <ul>
+          <li>PyTexas Hoodie</li>
           <li>PyTexas Mug</li>
           <li>One free PyTexas Conference ticket (conference, tutorials, after party)</li>
-          <li>A custom PyTexas Foundation T-Shirt</li>
+          <li>Custom PyTexas Foundation T-Shirt</li>
           <li>Custom role in the PyTexas Discord Server</li>
           <li>Acknowledgement on the PyTexas Foundation Website</li>
         </ul>
