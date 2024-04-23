@@ -25,13 +25,13 @@ _All benefits listed below are available with sponsorship. Benefits are active f
     - 1 per month of sponsorship (3 per quarter)
 - Email Newsletter
     - A mention in our monthly PyTexas Community Newsletter
-    - 1 mention per quarter of sponsorship
-    - Newsletter consists of ~1,000 members
-    - Open rate ranges from 40%-50%
+        - 1 mention per quarter of sponsorship
+        - Newsletter consists of ~1,000 members
+        - Open rate ranges from 40%-50%
 - Meetup
     - Mention and thank you at every PyTexas Virtual Meetup
         - Current attendance ranges from 30 - 65 attendees
-        - Meets monthly
+        - Meets on the first Tuesday of the month at 8:00pm CST
     - Speaking Opportunity
         - Ability to present to the PyTexas Virtual Meetup
         - 25 minute talk time limit
@@ -41,7 +41,7 @@ _All benefits listed below are available with sponsorship. Benefits are active f
         - PyTexas approval required
 - [PyTexas Community Discord Server](https://discord.gg/jNPAbcNukj)
     - A thank you and mention once per quarter
-    - ~500 members
+    - ~600 members
 - [PyTexas Conference](https://pytexas.org/conference) Sponsorship Discounts
     - 5% discount on any tier per quarter sponsored
 
