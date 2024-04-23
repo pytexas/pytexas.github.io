@@ -63,7 +63,6 @@ three tiers available, each with unique perks:
       <td align="center">$750</td>
       <td>
         <ul>
-          <li>Mason will come to your birthday</li>
           <li>PyTexas Mug</li>
           <li>One free PyTexas Conference ticket (conference, tutorials, after party)</li>
           <li>A custom PyTexas Foundation T-Shirt</li>
