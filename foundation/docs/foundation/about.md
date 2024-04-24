@@ -5,4 +5,16 @@ title: About Us
 summary: Who we are
 ---
 # About Us
-The PyTexas Foundation is a 501(c)3 non-profit run by a Texas-based volunteer group. We are Python enthusiasts that want to share the programming language with the world, starting right here in Texas. The PyTexas Conference is currently the foundation’s only fundraising event of the year.
+The PyTexas Foundation is a 501(c)3 non-profit run by a Texas-based volunteer 
+group. We are Python enthusiasts that want to share the programming language 
+with the world, starting right here in Texas. We host and support various programs
+that benefit the Python Community in Texas. We host an annual conference and 
+monthly meetup, maintain a virtual community for the Python developers in Texas
+and beyond, and support various meetups in cities throughout the state.
+
+## History
+Founded in 2014, meetup organizers from Houston, Austin, and San Antonio came
+together to establish a non-profit organization who's mission would be to 
+serve the Python Community In Texas. Glen Zangirolami, Jeremy Boyd, and Kevin
+Horn were the Foundation's founders and first Board of Directors. In 2022 Mason
+Egger was elected as president of the board, taking over for Glen. 
