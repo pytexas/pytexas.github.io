@@ -8,9 +8,9 @@ summary: Who we are
 The PyTexas Foundation is a 501(c)3 non-profit run by a Texas-based volunteer 
 group. We are Python enthusiasts that want to share the programming language 
 with the world, starting right here in Texas. We host and support a variety of 
-programs that benefit the Python Community in Texas. We host an annual conference 
-and monthly meetup, maintain a virtual community for the Python developers in Texas
-and beyond, and support various meetups in cities throughout the state.
+programs that benefit the Python community in Texas, including an annual conference 
+and virtual monthly meetup, a virtual community for the Python developers in Texas
+and beyond, and various in-person meetups in cities throughout the state.
 
 ## History
 Founded in 2014, meetup organizers from Houston, Austin, and San Antonio came
