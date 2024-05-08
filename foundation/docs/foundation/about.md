@@ -15,6 +15,6 @@ and beyond, and various in-person meetups in cities throughout the state.
 ## History
 Founded in 2014, meetup organizers from Houston, Austin, and San Antonio came
 together to establish a non-profit organization who's mission would be to 
-serve the Python Community In Texas. Glen Zangirolami, Jeremy Boyd, and Kevin
+serve the Python community in Texas. Glen Zangirolami, Jeremy Boyd, and Kevin
 Horn were the Foundation's founders and first Board of Directors. In 2022, Mason
 Egger was elected as president of the board, taking over for Glen. 
