@@ -3,7 +3,7 @@ title: The PyTexas Foundation
 template: home.html
 ---
 
-# Supporting the Python Community in the great state of Texas
+# Supporting the Python community in Texas
 This is the home of the PyTexas Foundation. [Learn more about us](foundation/about.md).
 
 <div class="grid cards" markdown>
