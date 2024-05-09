@@ -90,6 +90,22 @@ Any orders placed after these dates will be fulfilled the following quarter.
 
 **Physical items can _only_ be shipped within the continental US**
 
+## Current Friends of PyTexas
+Thank you to our friends for supporting us!
+
+### Lone Star
+
+* Christian Lyons
+
+### Armadillo
+
+* Josh Cannon
+
+### Bluebonnet
+
+* Jesse Flippen
+* Jamal Hansen
+* Josh Schneider
 
 
 
