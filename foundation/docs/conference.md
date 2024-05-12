@@ -76,7 +76,7 @@ First year at the Austin Central Public Library
 
 - April 13 - 14 at the Austin Central Public Library in Austin, TX
 - Keynoters: Emily Morehouse-Valcarcel, Adrienne Lowe
-- ~225 attendees
+- 205 attendees
 
 [PyTexas 2019 Website](https://2019.pytexas.org/)  
 [YouTube Playlist](https://www.youtube.com/playlist?list=PL0MRiRrXAvRgQXU8_8rjsgpE4EQaWc2so)
