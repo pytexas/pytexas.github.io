@@ -1,5 +1,7 @@
 ---
 summary: Learn more about the PyTexas Conference.
+date: 2024-05-12
+modified: 2024-05-12
 ---
 
 # The PyTexas Conference

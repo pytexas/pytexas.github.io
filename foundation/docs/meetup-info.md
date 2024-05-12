@@ -1,12 +1,12 @@
 ---
 date: 2023-08-05
-modified: 2023-08-21
+modified: 2024-05-12
 summary: The PyTexas Meetup is an online meetup for all of Texas Pythonistas.
 ---
 
 # The PyTexas Meetup
 
-[PyTexas 2024 Meetup Website](https://pytexas.org/meetup){ .md-button .md-button--primary }
+[PyTexas Meetup Website](https://pytexas.org/meetup){ .md-button .md-button--primary }
 
 ## About
 
