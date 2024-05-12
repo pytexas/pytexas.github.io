@@ -12,9 +12,9 @@ This is the home of the PyTexas Foundation. [Learn more about us](foundation/abo
 
     ---
 
-    The PyTexas 2024 Conference will take place April 19 - 21, and include tutorials this year.
+    The PyTexas 2025 Conference will take place April 11 - 13, 2025.
 
-    [:octicons-arrow-right-24: PyTexas 2024 Website](https://pytexas.org/2024)
+    [:octicons-arrow-right-24: PyTexas 2025 Website](https://pytexas.org/2025)
 
 -   :fontawesome-solid-people-group:{ .lg .middle} __Virtual Community__
 
