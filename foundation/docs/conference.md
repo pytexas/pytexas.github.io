@@ -33,10 +33,11 @@ Largest PyTexas Conference ever
 
 - April 19 - 21 at the Austin Central Public Library in Austin, TX
 - Keynoters: Lynn Root and Carol Willing
-- 276 in-person tickets sold, 43 virtual tickets sold, **319 total**
-- 229 in-person attendees
 - First hybrid conference
 - Return of Tutorials
+- 276 in-person tickets sold, 43 virtual tickets sold, **319 total**
+- 229 in-person attendees
+
 
 [PyTexas 2024 Archive Website](https://pytexas.org/2024)  
 [YouTube Playlist](https://www.youtube.com/playlist?list=PL0MRiRrXAvRjMAfx42eiokiAmfclUX-6S)
