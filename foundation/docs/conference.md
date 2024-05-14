@@ -1,10 +1,12 @@
 ---
 summary: Learn more about the PyTexas Conference.
+date: 2024-05-12
+modified: 2024-05-12
 ---
 
 # The PyTexas Conference
 
-[PyTexas 2024 Conference Website](https://www.pytexas.org/2024){ .md-button .md-button--primary }
+[PyTexas 2025 Conference Website](https://www.pytexas.org/2025){ .md-button .md-button--primary }
 
 ## About
 
@@ -25,6 +27,20 @@ has been held in a variety of cities including: College Station, Waco, Austin,
 and Denton.
 
 ### Archive
+
+#### PyTexas 2024
+Largest PyTexas Conference ever
+
+- April 19 - 21 at the Austin Central Public Library in Austin, TX
+- Keynoters: Lynn Root and Carol Willing
+- First hybrid conference
+- Return of Tutorials
+- 276 in-person tickets sold, 43 virtual tickets sold, **319 total**
+- 229 in-person attendees
+
+
+[PyTexas 2024 Archive Website](https://pytexas.org/2024)  
+[YouTube Playlist](https://www.youtube.com/playlist?list=PL0MRiRrXAvRjMAfx42eiokiAmfclUX-6S)
 
 #### PyTexas 2023
 Fun talks and an after party at the library
@@ -64,7 +80,7 @@ First year at the Austin Central Public Library
 
 - April 13 - 14 at the Austin Central Public Library in Austin, TX
 - Keynoters: Emily Morehouse-Valcarcel, Adrienne Lowe
-- ~225 attendees
+- 205 attendees
 
 [PyTexas 2019 Website](https://2019.pytexas.org/)  
 [YouTube Playlist](https://www.youtube.com/playlist?list=PL0MRiRrXAvRgQXU8_8rjsgpE4EQaWc2so)
