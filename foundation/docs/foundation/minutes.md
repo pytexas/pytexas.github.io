@@ -7,7 +7,7 @@ title: Meeting Minutes
 #### Location 
 Austin Public Library, Austin, TX
 #### Date
-2023-04-02 @ 11:20am
+2024-04-21 @ 11:20am
 
 #### Attendees
 Kevin Horn, Jeremy Boyd, Mason Egger
