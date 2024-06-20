@@ -68,6 +68,7 @@ plugins:
       post_url_format: "{slug}"
   - redirects:
       redirect_maps:
+        'friends.md': 'sponsorship/friends.md'
         'links.md': 'https://linktr.ee/pytexas'
         '2019.md': 'https://2019.pytexas.org'
         '2017.md': 'https://2017.pytexas.org'

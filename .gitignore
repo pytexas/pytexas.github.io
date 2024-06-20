@@ -3,4 +3,4 @@
 venv/
 output/
 __pycache__/
-/foundation/.cache/
+.cache/
