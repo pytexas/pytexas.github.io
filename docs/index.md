@@ -24,13 +24,13 @@ This is the home of the PyTexas Foundation. [Learn more about us](foundation/abo
 
     [:octicons-arrow-right-24: PyTexas Meetup Website](https://pytexas.org/meetup)
 
--   :fontawesome-regular-envelope:{ .lg .middle} __Join Our Mailing List__
+-   :fontawesome-regular-envelope:{ .lg .middle} __Join Our Monthly Newsletter__
 
     ---
 
-    Keep up with Python events happening in Texas, as well as news from the foundation.
+    Keep up with Python events happening in Texas, as well as news from the PyTexas Foundation.
 
-    [:octicons-arrow-right-24: Sign Up for the Mailing List](https://mailchi.mp/035388afb48a/pytexas-community)
+    [:octicons-arrow-right-24: Sign Up for Our Monthly Newsletter](https://mailchi.mp/035388afb48a/pytexas-community)
   
 <small class="text-muted form-text">
     We'll never share your details. Refer to our <a href="privacy">Privacy Statement</a>.
