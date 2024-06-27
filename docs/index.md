@@ -28,14 +28,10 @@ This is the home of the PyTexas Foundation. [Learn more about us](foundation/abo
 
     ---
 
-    Keep up with the PyTexas Foundation.
-    
-    <form role="form" action="//pytexas.us11.list-manage.com/subscribe/post?u=93d4ab771d0c2e4facc053add&amp;id=fa6aa40a2e" method="post" data-form-email novalidate>
-    <div class="form-row">
-        <input type="email" class="form-control" placeholder="Email Address" aria-label="Email Address" name="EMAIL" required style="border: 1px solid black; width: 200px; height: 45px;">
-        <button type="submit" class="md-button md-button--primary " data-loading-text="Sending">Subscribe</button>
-    </div>
-</form>
+    Keep up with Python events happening in Texas, as well as news from the foundation.
+
+    [:octicons-arrow-right-24: Sign Up for the Mailing List](https://mailchi.mp/035388afb48a/pytexas-community)
+  
 <small class="text-muted form-text">
     We'll never share your details. Refer to our <a href="privacy">Privacy Statement</a>.
 </small>
