@@ -179,7 +179,7 @@ It's everyone.
 PyTexas 2024 cost **$36,657.59** to operate. The largest budget items for us
 were venue, catering, A/V, and our after party. We sold 319 tickets of varying cost, 
 including add-ons such as shirts, tutorials, and the after party, and made **$36,545.00**
-in gross revenue (prior ot fees). To the best of our knowledge, this is the first
+in gross revenue (prior to fees). To the best of our knowledge, this is the first
 year that ticket sales were able to completely fund the conference. This was possible
 due to the increase in capacity for in-person, plus the addition of a virtual ticket.
 
