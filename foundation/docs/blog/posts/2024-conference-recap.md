@@ -75,7 +75,7 @@ had tutorials since 2017.  Long-time attendee, speaker, and Keynoter
 and organizer [Mason Egger](https://www.pytexas.org/2024/schedule/tutorials/#def-test_my_code_with_pytest) delivered the tutorials this year. We did not hold
 an open CFP for tutorials this year, but instead preselected our presenters. We made
 this choice because we weren't sure what the turnout would be for the tutorials,
-so we decided to invite people who are known PyTexas regulars who would attend
+so we decided to select people who are known PyTexas regulars who would attend
 either way and were willing to take the gamble on attendance. 
 
 Fortunately, tutorials were a smashing success. We sold 97 tutorial tickets this year, 
