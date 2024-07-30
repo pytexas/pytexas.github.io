@@ -109,6 +109,9 @@ to the conference to 275. Somehow, we had an off-by-one error and wound up selli
 
 **Location**
 
+![Attendee Location chart](/assets/images/blog/2024-conference-recap/Location2024.svg){: width="500"}
+![Attendee Texas City chart](/assets/images/blog/2024-conference-recap/TexasCity2024.svg){: width="500"}
+
 * **81.5%** of attendees were from Texas
     * **59.2%** from Austin
     * **14.1%** from Houston
@@ -120,6 +123,8 @@ to the conference to 275. Somehow, we had an off-by-one error and wound up selli
 
 **Roles**
 
+![Attendee roles chart](/assets/images/blog/2024-conference-recap/roles2024.svg){: width="500"}
+
 * **42.8%** - Software Engineer
 * **11.6%** - Students
 * **8.7%** - Marketing/Sales/Business
@@ -130,6 +135,8 @@ to the conference to 275. Somehow, we had an off-by-one error and wound up selli
 * The rest consists of ML Engineers, Security, People Managers, Product Management, QA
 
 **Experience**
+
+![Attendee experience chart](/assets/images/blog/2024-conference-recap/years2024.svg){: width="500"}
 
 * **11.6%** - Less than 1 year
 * **24.9%** - 1 to 3 years 
