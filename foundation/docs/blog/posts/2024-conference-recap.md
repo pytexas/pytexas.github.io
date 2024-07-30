@@ -293,7 +293,7 @@ so they could watch and interact with the conference, regardless of their locati
 to surpass our pre-pandemic numbers, and not by a little, but a **lot**. We're
 excited to continue to see the Python community in Texas grow and to continue
 providing events for the forseeable future. All recordings of the talks can be
-found on the [yTexas 2024 website](https://www.pytexas.org/2024/schedule/full_schedule/)
+found on the [PyTexas 2024 website](https://www.pytexas.org/2024/schedule/full_schedule/)
 or on our [YouTube Channel](https://www.youtube.com/watch?v=rAMLQkY7TZM&list=PL0MRiRrXAvRjMAfx42eiokiAmfclUX-6S).
 
 [PyTexas 2025](https://pytexas.org/2025) dates have already been set, we'll
