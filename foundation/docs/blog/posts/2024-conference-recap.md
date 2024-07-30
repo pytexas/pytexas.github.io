@@ -13,7 +13,7 @@ to share some behind the scenes data with you.
 
 <!-- more -->
 
-# PyTexas 2024 Conference
+## PyTexas 2024 Conference
 
 18 years after _PyCamp Texas_, 2024 will go down in history as the biggest PyTexas
 Conference yet. Every prior record, from attendance to CFP submissions, was shattered
