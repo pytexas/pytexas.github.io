@@ -79,7 +79,7 @@ so we decided to select people who are known PyTexas regulars who would attend
 either way and were willing to take the gamble on attendance. 
 
 Fortunately, tutorials were a smashing success. We sold 97 tutorial tickets this year, 
-which were an add-on to the main conference. This ticket gave access to both tutorials.
+which were an add-on to the main conference and gave access to both tutorials.
 Nearly every tutorial ticket holder checked in and attended at least one tutorial,
 with the vast majority attending both. 
 
