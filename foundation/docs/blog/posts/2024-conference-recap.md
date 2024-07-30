@@ -90,7 +90,7 @@ a CFP for tutorials next year, but signs are trending in that direction.
 ### Friends of PyTexas
 
 On the second day of the conference we announced our new [Friends of PyTexas](https://www.pytexas.org/sponsorship/friends/)
-program. This program allows community members to support the PyTexas foundation
+program. This program allows community members to financially support the PyTexas foundation
 in its mission to bring Python education and community to the state of Texas. We 
 had a few community members sign up to support us immediately, and to that we say
 thank you. 
