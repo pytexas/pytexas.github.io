@@ -220,7 +220,7 @@ CFP
 #### The Prevalence of DevRel
 
 Due to the recent anecdotes and social media posts about Developer Relations
-professionals dominating conference speaking slots, we decided to ask our attendees
+professionals dominating conference speaking slots, we decided to ask our speakers
 if they were considered "Professional Speakers", meaning they work in Developer
 Relations, Sales, Marketing, or any part of their job requires them to speak
 at conferences. 
