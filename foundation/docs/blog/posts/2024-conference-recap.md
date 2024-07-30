@@ -39,7 +39,7 @@ both years.
 However, in 2024, we were finally staffed and financially stable enough to experiment
 with a hybrid conference. We decided to take a more novel approach and run our
 hybrid conference through the [PyTexas Discord Server](https://discord.gg/jNPAbcNukj).
-We have been building a community on Discord since 2022, which hosts our virtual
+We have been building a community on Discord since 2022, which now hosts our virtual
 meetup, so we thought it would be a good experiment to hold our virtual conference
 there. 
 
