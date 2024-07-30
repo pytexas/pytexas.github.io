@@ -147,7 +147,7 @@ A few conclusions we've made based on ticket sales this year and years prior:
 early bird sales.
 * Announcements drive ticket sales. We saw noticeable increases after we announced
 keynotes, tutorials, speakers, etc.
-    * The largest increase was after we released the schedule.
+    * The largest increase was after we released the talk schedule.
 * You will still sell a majority of your tickets in the month leading up to the event.
 
 ## Sponsors
@@ -191,8 +191,10 @@ This was by far one of the most exciting speaker lineups we've ever had! We cont
 to get compliments on how good the talks were and how much everyone enjoyed them.
 This year we were overjoyed to invite [Lynn Root](https://www.roguelynn.com/) 
 and [Carol Willing](https://www.willingconsulting.com/) to keynote this year. Both
-gave _phenomenal_ keynotes that people kept raving about. From teaching Python,
-to AI/ML, to DevOps, to using Python for audio, this year we had something for everyone.
+gave _phenomenal_ keynotes that people kept raving about. 
+
+From teaching Python, to AI/ML, to DevOps, to using Python for audio, this year
+we had something for everyone.
 
 ### CFP Statistics
 
