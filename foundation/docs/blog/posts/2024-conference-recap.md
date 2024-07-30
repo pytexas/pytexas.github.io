@@ -55,7 +55,7 @@ Discord text chat. Both in-person and virtual attendees engaged with each other
 and bridged the gap. We were very pleased with the level of interaction that was
 occurring. Next, we used [Slido](https://www.slido.com/) for all speaker questions.
 This decision was highly praised by both attendees and speakers alike. Slido
-allowed us to have attendees, either remote or in-person, ask anonymous questions
+allowed us to have attendees, either remote or in-person, ask questions
 to the speaker during their talk. Other attendees could see these questions and 
 upvote the ones they also wanted to ask. We had our organizers moderating the 
 questions and approving them prior to being visible, which allowed us to ensure
