@@ -275,6 +275,7 @@ breakdown of this years speakers:
 * **13.6%** - Texas Resident
 
 ## Opportunity Grants
+
 Every year we offer opportunity grants to community members who request assistance
 to attend PyTexas. In 2023 we provided a total of $1000 to two members of our community so 
 they could attend. This year we were proud to be able to **more than double** the
