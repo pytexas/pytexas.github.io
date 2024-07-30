@@ -158,8 +158,7 @@ between. We are immensely grateful our sponsors this year,
 for their support. We also want to thank the [Python Software Foundation](https://python.org)
 for their generous grant. 
 
-Without them certain portions of our event would simply not have been possible 
-from a financial standpoint. 
+Without them certain portions of our event would simply not have been financially possible. 
 
 ### Statistics
 This year we brought in **$12,750** from sponsorships and grants. We reached out
