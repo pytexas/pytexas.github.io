@@ -1,6 +1,6 @@
 ---
 title: 2024 Conference Recap
-date: 2024-04-28
+date: 2024-08-02
 categories: 
     - Conference Updates
 authors:
