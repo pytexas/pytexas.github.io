@@ -171,6 +171,7 @@ Without them certain portions of our event would simply not have been financiall
 This year we brought in **$12,750** from sponsorships and grants. We reached out
 to roughly 50 companies this year to sponsor PyTexas. When they responded, the
 response was usually:
+
 * We aren't sponsoring events right now.
 * You aren't big enough for us to consider.
 * We haven't finalized event plans, we'll get back to you.
