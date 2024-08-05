@@ -95,7 +95,12 @@ Thank you to our friends for supporting us!
 
 ### Lone Star
 
+
 * Christian Lyons
+* Brad Brown
+* Kevin Horn
+* Jeremy Boyd
+* Al Sweigart
 
 ### Armadillo
 
@@ -106,6 +111,8 @@ Thank you to our friends for supporting us!
 * Jesse Flippen
 * Jamal Hansen
 * Josh Schneider
+* William Horton
+* Dave Marquardt
 
 
 
