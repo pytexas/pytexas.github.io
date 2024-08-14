@@ -8,8 +8,11 @@ supports various in-person Python communities and their meetups in Texas.
 
 We currently support:
 
+- [PyTexas Virtual Meetup](https://pytexas.org/meetup)
 - [Katy Python Coders](https://www.meetup.com/katy-python-coders/)
 - [Alamo Python Learners](https://www.meetup.com/alamo-code-learners/)
+
+with more coming soon!
 
 **For more information, email [sponsorship@pytexas.org](mailto:sponsorship@pytexas.org)**
 
