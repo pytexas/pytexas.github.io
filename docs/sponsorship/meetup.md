@@ -44,7 +44,7 @@ _All benefits listed below are available with sponsorship. Benefits are active f
         - PyTexas approval required
 - [PyTexas Community Discord Server](https://discord.gg/jNPAbcNukj)
     - A thank you and mention once per quarter
-    - ~600 members
+    - ~**800** members
 - [PyTexas Conference](https://pytexas.org/conference) Sponsorship Discounts
     - 5% discount on any tier per quarter sponsored
 
