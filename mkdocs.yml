@@ -70,6 +70,7 @@ plugins:
       redirect_maps:
         'friends.md': 'sponsorship/friends.md'
         'links.md': 'https://linktr.ee/pytexas'
+        'newsletter.md': 'https://mailchi.mp/035388afb48a/pytexas-community'
         '2019.md': 'https://2019.pytexas.org'
         '2017.md': 'https://2017.pytexas.org'
         '2012.md': 'https://web.archive.org/web/20121119035342/http://www.pytexas.org/2012/'
