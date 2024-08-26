@@ -18,7 +18,6 @@ theme:
     - navigation.top
     - navigation.tracking
     - toc.follow
-    - toc.integrate
   palette:
     - scheme: default
       primary: blue
@@ -46,7 +45,8 @@ nav:
       - blog/index.md
   - Conference: conference.md
   - Meetup: meetup-info.md
-  - Sponsorship: 
+  - Sponsorship:
+    - Our Programs: sponsorship/index.md 
     - Friends of PyTexas: sponsorship/friends.md
     - Meetup: sponsorship/meetup.md
     - Conference: sponsorship/conference.md
