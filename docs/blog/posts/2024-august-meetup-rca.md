@@ -1,6 +1,6 @@
 ---
 title: August 2024 Meetup Incident Report
-date: 2024-08-26
+date: 2024-08-30
 categories: 
     - Incident Reports
 authors:
