@@ -11,11 +11,11 @@ This post details an incident that occurred at the PyTexas Meetup on August 6, 2
 
 <!-- more -->
 
-On August 6, 2024, during the monthly PyTexas Meetup, a Code of Conduct
-violation occurred. This incident is severe enough that the PyTexas Foundation
-and Organizers met to hold an RCA(1) in the attempts to understand what happened
-and prevent it from happening again. In the spirit of full transparency, we are
-releasing this report.
+On August 6, 2024, during the monthly PyTexas Meetup, an incident involving Code 
+of Conduct violations occurred. This incident is severe enough that the PyTexas 
+Foundation and Organizers met to hold an RCA(1) in the attempts to understand what 
+happened and prevent it from happening again. In the spirit of full transparency, 
+we are releasing this report.
 {.annotate}
 
 1. RCA = Root Cause Analysis
@@ -24,7 +24,7 @@ releasing this report.
 Below is a rough timeline of the events that transpired. As precise times as possible
 are given, although estimates are provided where we don't have exact times. 
 
-* *Between 7:00pm - 7:30pm*: Two unknown users joined the PyTexas
+* *Between 7:00pm - 7:30pm*: Two previously-unknown users joined the PyTexas
     Discord server, presumably to attend the Meetup.
 * *~7:30pm*: During the pre-meetup hangout in a Discord voice channel,
     the above two users joined the channel. They then shared streamed their video,
