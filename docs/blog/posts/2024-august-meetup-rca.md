@@ -36,7 +36,8 @@ are given, although estimates are provided where we don't have exact times.
     distributed in the text chat.
 * *8:06pm*: An emoji appeared on a message in the stage chat very
     briefly. The emoji was an antisemitic symbol. It appeared and was immediately 
-    removed.
+    removed. We are unsure who removed it, either the poster or Discord's auto-moderation
+    tooling.
 * *8:08pm*: The first report of someone spamming the Slido was reported.
     The messages being sent were racist and antisemitic in nature. 
 * *8:09pm*: The PyTexas Organizers began attempting to moderate. It was during
