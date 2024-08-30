@@ -62,7 +62,7 @@ are given, although estimates are provided where we don't have exact times.
 As shown above, the response from our organizers was swift. The organizers 
 immediately reacted by banning accounts that were putting the community in harms
 way, and began triaging and investigating the attack, while also attempting to 
-moderate the messages being sent in. In the days that follow, a full audit of our
+moderate the messages being sent in. In the days that followed, a full audit of our
 process was done, with discussions happening between the PyTexas Foundation Board
 of Directors, and the PyTexas Organizers. The individuals responsible have not
 been identified, and based on our investigation, it probably will not be possible.
@@ -85,7 +85,8 @@ and must have been a member of the PyTexas Discord Server for longer than
 This decision was made to allow users who were new to our Meetup and had never 
 used Discord to be able to create an account and join the Meetup immediately. 
 We had experienced users trying to join a few minutes before the Meetup and being 
-unable to.
+unable to join the Discord Stage and had to wait 10 minutes before being able to
+participate.
 
 **Corrective Action** - The Discord Verification has been set back to **High**.
 We will communicate the need to join 10 minutes prior to the Meetup in future
@@ -160,7 +161,7 @@ products, but preliminary findings haven't resulted in a product we're happy wit
 
 ### Requiring verification for video permissions
 
-After discussing with a member Python Discord team, we may implement a system
+After discussing with a member of the Python Discord team, we may implement a system
 similar to theirs. To gain access to certain features in the Discord, you have
 to engage with the community X amount in Y time frame, and the engagement has
 to be meaningful, not spam. Luckily, their bot is open-source, so we will be 
