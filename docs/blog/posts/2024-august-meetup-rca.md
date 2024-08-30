@@ -1,5 +1,6 @@
 ---
 title: August 2024 Meetup Incident Report
+description: This post details an incident that occurred at the PyTexas Meetup on August 6, 2024.
 date: 2024-08-30
 categories: 
     - Incident Reports
