@@ -10,6 +10,10 @@ without your generous contributions.
 
 There are various ways you can support our thriving Python ecosystem. Your involvement helps us foster learning, collaboration, and innovation across Texas.
 
+*Get notified about the latest opportunities to sponsor PyTexas.*
+[Join the PyTexas Sponsors Mailing List](https://mailchi.mp/fc46f2d077fe/pytexas-sponsors){ .md-button .md-button--primary }
+
+
 ## Friends of PyTexas
 
 Join our inner circle of supporters! The Friends of PyTexas program is for individuals
