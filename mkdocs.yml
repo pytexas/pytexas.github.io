@@ -87,15 +87,18 @@ extra:
   social:
     - icon: fontawesome/brands/twitter
       link: https://twitter.com/pytexas
-    - icon: fontawesome/brands/discord
-      link: https://discord.gg/jNPAbcNukj
-    - icon: fontawesome/brands/linkedin
-      link: https://linkedin.com/company/pytexas-foundation
-    - icon: fontawesome/brands/youtube
-      link: https://www.youtube.com/@PyTexas/
+      name: Twitter
     - icon: fontawesome/brands/mastodon
       link: https://fosstodon.org/@pytexas
+      name: Mastodon
+    - icon: fontawesome/brands/discord
+      link: https://discord.gg/jNPAbcNukj
+      name: Discord
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/company/pytexas-foundation
+    - icon: fontawesome/brands/youtube
+      link: https://www.youtube.com/c/pytexas
     - icon: fontawesome/brands/meetup
-      link: https://www.meetup.com/pytexas-virtual-meetup
+      link: https://www.meetup.com/pytexas-virtual-meetup/
     - icon: fontawesome/brands/github
       link: https://github.com/pytexas
