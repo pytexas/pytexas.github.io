@@ -5,7 +5,7 @@ repo_name: pytexas/pytexas.github.io
 site_url: https://pytexas.org
 site_author: PyTexas Foundation <foundation@pytexas.org>
 site_description: The PyTexas Foundation is a non-profit dedicated to educating engineers about Python in the state of Texas
-copyright: 'PyTexas Foundation © 2023'
+copyright: 'PyTexas Foundation © 2014 - 2025'
 theme:
   name: material
   custom_dir: docs/overrides
