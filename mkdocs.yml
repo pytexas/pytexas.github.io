@@ -69,6 +69,7 @@ plugins:
       post_url_format: "{slug}"
   - redirects:
       redirect_maps:
+        'discord.md': 'https://discord.gg/jNPAbcNukj'
         'friends.md': 'sponsorship/friends.md'
         'links.md': 'https://linktr.ee/pytexas'
         'newsletter.md': 'https://mailchi.mp/035388afb48a/pytexas-community'
