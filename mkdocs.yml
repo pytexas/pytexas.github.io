@@ -92,6 +92,9 @@ extra:
     - icon: fontawesome/brands/mastodon
       link: https://fosstodon.org/@pytexas
       name: Mastodon
+    - icon: fontawesome/brands/bluesky
+      link: https://bsky.app/profile/pytexas.org
+      name: Bluesky
     - icon: fontawesome/brands/discord
       link: https://discord.gg/jNPAbcNukj
       name: Discord
