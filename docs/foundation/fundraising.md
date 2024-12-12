@@ -20,15 +20,8 @@ All sponsorship funds are used for the benefit of the PyTexas Foundation, Confer
 Also, in an attempt to make PyTexas as accessible as possible to everyone, we subsidize our Individual ticket prices with Corporate tickets and Sponsorship funds. By doing this we are able to keep PyTexas Individual tickets as low as possible, ensuring that everyone can attend. If an attendee can’t afford a ticket, they can apply for a grant where we can offer them free tickets and sometimes funds for travel expenses.
 
 ## Health and Safety
-For in-person events, our attendees' health and safety remain our top priority as we continue to monitor the state of the pandemic and look to venue, local, state, and CDC guidelines to make the best and most informed decisions around onsite safety and requirements. 
-
-PyTexas has worked hard to be a community that is welcoming to all, including those of us who are immunocompromised, disabled, elderly, have support needs, or are caregivers for children, and those of us who share households with or caretake for people in those groups, so we will be erring on the side of safety for all participants.
-
-PyTexas will continue to provide social distancing where possible. You can view our full Health and Safety Requirements for each in-person event on the event's website.
-
-### Addressing the Elephant in the Room
-All of our organizers are Texas residents and are all too familiar with the Texas Legislature's continued attacks on certain marginalized communities. PyTexas is dedicated to creating a safe and inclusive space for all attendees. We have adopted a new Code of Conduct this year to allow us to better protect our attendees and ensure the safety of everyone who attends.
-
-Thank you for considering to sponsor PyTexas.
+Our attendees' health and safety, both phsyical and mental, are our top priority.
+PyTexas is dedicated to creating a safe and inclusive space for all. 
+All sponsors are required to abide by our [Code of Conduct](/foundation/code-of-conduct).
 
 If you’re interested in sponsoring PyTexas, please reach out to [sponsorship@pytexas.org](mailto:sponsorship@pytexas.org).We look forward to continue to serve the Python community in Texas for years to come, and we’d be honored if you were to help us achieve this goal.
