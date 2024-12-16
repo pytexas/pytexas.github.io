@@ -42,6 +42,7 @@ nav:
       - Fundraising: foundation/fundraising.md
       - Sponsors: foundation/sponsors.md
       - Privacy: privacy.md
+      - 'Code of Conduct': foundation/code-of-conduct.md
   - Blog:
       - blog/index.md
   - Conference: conference.md
