@@ -19,6 +19,6 @@ jobs:
           path: .cache
           restore-keys: |
             mkdocs-material-
-      - run: sudo apt install libcairo2
+      - run: sudo apt install libcairo2 zlib1g-dev
       - run: pip install -r requirements.txt
       - run: mkdocs gh-deploy --force
