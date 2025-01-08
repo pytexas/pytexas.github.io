@@ -10,9 +10,11 @@ We currently support:
 
 - [PyTexas Virtual Meetup](https://pytexas.org/meetup)
 - [Katy Python Coders](https://www.meetup.com/katy-python-coders/)
+- [PyHou - Python Houston Enthusiasts](https://www.meetup.com/python-14/)
+- [DFW Pythoneers](https://www.meetup.com/dfwpython/)
 - [Alamo Python Learners](https://www.meetup.com/alamo-code-learners/)
 
-with more coming soon!
+with more coming soon! View them in our [Meetup Pro Network](https://www.meetup.com/pro/pytexas/)!
 
 **For more information, email [sponsorship@pytexas.org](mailto:sponsorship@pytexas.org)**
 
