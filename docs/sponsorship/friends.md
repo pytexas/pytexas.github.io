@@ -101,6 +101,7 @@ Thank you to our friends for supporting us!
 * Kevin Horn
 * Jeremy Boyd
 * Al Sweigart
+* Joel Watts
 
 ### Armadillo
 
@@ -114,6 +115,7 @@ Thank you to our friends for supporting us!
 * William Horton
 * Dave Marquardt
 * Jacques Camier
+* Broadus Jones
 
 
 
