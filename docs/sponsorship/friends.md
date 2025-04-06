@@ -102,6 +102,7 @@ Thank you to our friends for supporting us!
 * Jeremy Boyd
 * Al Sweigart
 * Joel Watts
+* Glenn O. Pringle
 
 ### Armadillo
 
