@@ -116,7 +116,8 @@ Thank you to our friends for supporting us!
 * Dave Marquardt
 * Jacques Camier
 * Broadus Jones
-* * Glenn O. Pringle
+* Glenn O. Pringle
+* Kassandra Keeton
 
 
 
