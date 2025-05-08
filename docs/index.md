@@ -12,7 +12,7 @@ This is the home of the PyTexas Foundation. [Learn more about us](foundation/abo
 
     ---
 
-    The PyTexas 2025 Conference will take place April 17 - 19, 2026. **Tickets are on sale now!**
+    The PyTexas 2026 Conference will take place April 17 - 19, 2026. **Tickets are on sale now!**
 
     [:octicons-arrow-right-24: PyTexas 2026 Website](https://pytexas.org/2026)
 
