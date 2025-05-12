@@ -1,12 +1,12 @@
 ---
 summary: Learn more about the PyTexas Conference.
 date: 2024-05-12
-modified: 2024-05-12
+modified: 2025-05-12
 ---
 
 # The PyTexas Conference
 
-[PyTexas 2025 Conference Website](https://www.pytexas.org/2025){ .md-button .md-button--primary }
+[PyTexas 2026 Conference Website](https://www.pytexas.org/2026){ .md-button .md-button--primary }
 
 ## About
 
@@ -28,14 +28,30 @@ and Denton.
 
 ### Archive
 
+#### PyTexas 2025
+
+- April 11 - 13 at the Austin Central Public Library in Austin, TX
+- Keynoters: Mariatta and Jay Miller
+- Tutorials and Hybrid return
+- 253 in-person tickets sold, **sold out!**
+  - 48 virtual tickets sold
+  - **301 total**
+- 214 in-person attendees
+  - 60% first time attendees
+
+
+[PyTexas 2024 Archive Website](https://pytexas.org/2024)  
+[YouTube Playlist](https://www.youtube.com/playlist?list=PL0MRiRrXAvRjMAfx42eiokiAmfclUX-6S)
+
 #### PyTexas 2024
-Largest PyTexas Conference ever
+Largest PyTexas Conference to date
 
 - April 19 - 21 at the Austin Central Public Library in Austin, TX
 - Keynoters: Lynn Root and Carol Willing
 - First hybrid conference
 - Return of Tutorials
-- 276 in-person tickets sold, 43 virtual tickets sold, **319 total**
+- 276 in-person tickets sold,  **sold out, and beyond!**
+    - 43 virtual tickets sold, **319 total**
 - 229 in-person attendees
 
 
