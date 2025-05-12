@@ -40,8 +40,8 @@ and Denton.
   - 60% first time attendees
 
 
-[PyTexas 2024 Archive Website](https://pytexas.org/2024)  
-[YouTube Playlist](https://www.youtube.com/playlist?list=PL0MRiRrXAvRjMAfx42eiokiAmfclUX-6S)
+[PyTexas 2025 Archive Website](https://pytexas.org/2025)  
+[YouTube Playlist](https://www.youtube.com/playlist?list=PL0MRiRrXAvRiSmPn_LDdhDbtZwu6g4xct)
 
 #### PyTexas 2024
 Largest PyTexas Conference to date
