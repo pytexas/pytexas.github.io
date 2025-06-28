@@ -97,7 +97,7 @@ The Annual PyTexas 2024 Conference will be held April 19 - 21, 2024 in Austin,
 Texas at the Austin Central Public Library. This will be the first year since 2017
 where the conference will have tutorials the day before the main conference.
 Early Bird tickets are currently on sale [on our website](https://pytexas.org/2024)
-and the [CFP closes January 14, 2024](https://pretalx.com/pytexas-2024/).
+and the CFP closed January 14, 2024.
 
 The PyTexas Meetup will continue to host its monthly meetup. If you'd like to
 speak at the meetup, fill out the form [on the meetup site homepage](https://www.pytexas.org/meetup/)

@@ -155,4 +155,4 @@ Kevin Horn, Jeremy Boyd, Mason Egger
     - All agree!
 
 ## 2021 and earlier
-All prior meeting minutes may be requested by [emailing us](mailto:info@pytexas.org).
+All prior meeting minutes may be requested by [emailing us](mailto:foundation@pytexas.org).

@@ -22,6 +22,6 @@ Also, in an attempt to make PyTexas as accessible as possible to everyone, we su
 ## Health and Safety
 Our attendees' health and safety, both phsyical and mental, are our top priority.
 PyTexas is dedicated to creating a safe and inclusive space for all. 
-All sponsors are required to abide by our [Code of Conduct](/foundation/code-of-conduct).
+All sponsors are required to abide by our [Code of Conduct](code-of-conduct.md).
 
 If you’re interested in sponsoring PyTexas, please reach out to [sponsorship@pytexas.org](mailto:sponsorship@pytexas.org).We look forward to continue to serve the Python community in Texas for years to come, and we’d be honored if you were to help us achieve this goal.

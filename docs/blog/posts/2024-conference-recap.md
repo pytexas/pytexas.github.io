@@ -109,8 +109,8 @@ to the conference to 275. Somehow, we had an off-by-one error and wound up selli
 
 **Location**
 
-![Attendee Location chart](/assets/images/blog/2024-conference-recap/Location2024.svg){: width="500"}
-![Attendee Texas City chart](/assets/images/blog/2024-conference-recap/TexasCity2024.svg){: width="500"}
+![Attendee Location chart](../../assets/images/blog/2024-conference-recap/Location2024.svg){: width="500"}
+![Attendee Texas City chart](../../assets/images/blog/2024-conference-recap/TexasCity2024.svg){: width="500"}
 
 * **81.5%** of attendees were from Texas
     * **59.2%** from Austin
@@ -123,7 +123,7 @@ to the conference to 275. Somehow, we had an off-by-one error and wound up selli
 
 **Roles**
 
-![Attendee roles chart](/assets/images/blog/2024-conference-recap/roles2024.svg){: width="500"}
+![Attendee roles chart](../../assets/images/blog/2024-conference-recap/roles2024.svg){: width="500"}
 
 * **42.8%** - Software Engineer
 * **11.6%** - Students
@@ -136,7 +136,7 @@ to the conference to 275. Somehow, we had an off-by-one error and wound up selli
 
 **Experience**
 
-![Attendee experience chart](/assets/images/blog/2024-conference-recap/years2024.svg){: width="500"}
+![Attendee experience chart](../../assets/images/blog/2024-conference-recap/years2024.svg){: width="500"}
 
 * **11.6%** - Less than 1 year
 * **24.9%** - 1 to 3 years 
@@ -146,7 +146,7 @@ to the conference to 275. Somehow, we had an off-by-one error and wound up selli
 
 **Orders by Day**
 
-![PyTexas Orders By Day](/assets/images/blog/2024-conference-recap/PyTexas-2024-Ticket-Sales.PNG)
+![PyTexas Orders By Day](../../assets/images/blog/2024-conference-recap/PyTexas-2024-Ticket-Sales.PNG)
 
 A few conclusions we've made based on ticket sales this year and years prior:
 
@@ -216,7 +216,7 @@ to our CFP. Here's some stats:
 The vast majority of our CFP submissions came in within the last few weeks of the
 CFP
 
-![CFP Submission Graph](/assets/images/blog/2024-conference-recap/CFP-Submissions.svg)
+![CFP Submission Graph](../../assets/images/blog/2024-conference-recap/CFP-Submissions.svg)
 
 #### The Prevalence of DevRel
 
@@ -244,7 +244,7 @@ breakdown of this years speakers:
 
 #### Speaker Race/Ethnicity
 
-![Speaker Race Statistics](/assets/images/blog/2024-conference-recap/speaker-race.png)
+![Speaker Race Statistics](../../assets/images/blog/2024-conference-recap/speaker-race.png)
 
 * **63.6%** - White/Caucasian
 * **22.7%** - Asian/Pacific Islander
@@ -254,7 +254,7 @@ breakdown of this years speakers:
 
 #### Speaker Gender
 
-![Speaker Gender Statistics](/assets/images/blog/2024-conference-recap/speaker-gender.png)
+![Speaker Gender Statistics](../../assets/images/blog/2024-conference-recap/speaker-gender.png)
 
 * **59.1%** - Male
 * **31.8%** - Female
@@ -263,7 +263,7 @@ breakdown of this years speakers:
 
 #### Speaker Professional Role
 
-![Speaker Role Statistics](/assets/images/blog/2024-conference-recap/speaker-role.png)
+![Speaker Role Statistics](../../assets/images/blog/2024-conference-recap/speaker-role.png)
 
 * **27.3%** - Data Scientist
 * **18.2%** - Developer Relations
@@ -278,7 +278,7 @@ breakdown of this years speakers:
 
 #### Speaker Location
 
-![Speaker Location Statistics](/assets/images/blog/2024-conference-recap/speaker-location.png)
+![Speaker Location Statistics](../../assets/images/blog/2024-conference-recap/speaker-location.png)
 
 * **86.4%** - Outside of Texas but within the United States
 * **13.6%** - Texas Resident
