@@ -1,4 +1,3 @@
-# yaml-language-server: $schema=https://squidfunk.github.io/mkdocks-material/schema.json
 site_name: PyTexas Foundation
 repo_url: https://github.com/pytexas/pytexas.github.io
 repo_name: pytexas/pytexas.github.io
