@@ -1,14 +1,14 @@
 ---
 title: 2025 Conference Recap
-date: 2024-05-14
+date: 2025-06-30
 categories: 
     - Conference Updates
 authors:
     - masonegger
 ---
 
-The annual PyTexas Conference was held at the Austin Central Library April 11  - 13, 2024 in Austin, TX. 
-It was fantasic year, with new record breaking events.
+The PyTexas Foundation held the annual PyTexas Conference at the Austin Central Library on April 11  - 13, 2025 in Austin, TX. 
+It was a fantastic year with new record-breaking events.
 We're excited to share some behind the scenes data with you.
 
 <!-- more -->
@@ -16,132 +16,130 @@ We're excited to share some behind the scenes data with you.
 ## PyTexas 2025 Conference
 
 The 2025 conference was one for the memory books.
-From fantastic speakers, generous sponsors, and an always welcoming Community, the conference was alive with conversation and friendship.
-It was great to many people this year returning, wearing their PyTexas shirts from previous years, as well as seeing them bring their friends to come enjoy the conference.
+From fantastic speakers, generous sponsors, and an always welcoming community, the conference was alive with conversation and friendship.
+It was great to see so many people this year returning, wearing their PyTexas shirts from previous years, as well as seeing them bring their friends to come enjoy the conference.
 Without any further ado, let's discuss PyTexas 2025.
 
 
 ## What Was New This Year?
 
 PyTexas has a philosophy of incremental change.
+We like to consistently improve the conference experience year over year, but we don't flip the table and change everything all at once.
+We identify a few things every year, and improve them.
+This way we don't take on too much risk by radically altering what has worked for us for the past two decades, we don't risk making the community go "huh" when they walk in the door, and we don't risk burning out the organizers by putting too many new unknown unknowns on their plate.
+It's been a win-win-win for everyone.
+Here's what we changed this year.
 
 
 ### Live Captions
 
-During the pandemic many conferences moved to virtual formats, and as they 
-returned to in-person activities, they included a hybrid experience. PyTexas 2020
-was originally planned as an in-person event that shifted to virtual out of necessity.
-In 2021 the organizers decided to take a hiatus and evaluate the situation again
-in 2022. In 2022, PyTexas was the first Python conference globally to come back
-in-person in March, just prior to PyCon US in Salt Lake City. At that time, funding
-and staffing were _severely_ limited, so we were unable to do a hybrid experience.
-These limitations continued into 2023, leading to a in-person only conference for
-both years.
+Live-captioning has always been something we've wanted to do, but the expense prohibited us from doing so, especially in prior years returning from the pandemic where sponsor funding was more of a scarcity.
+However, after re-evaluating our sponsorship prospectus this year we decided to add a dedicated sponsorship tier for live-captioning and budgeted to provide it regardless.
+We're happy to report that not only were we able to provide live-captioning to our audience this year, but within the final month prior to the conference two sponsors contacted us and decided to sponsor this specific portion of the conference.
+With the success that we saw and the outpour of gratitude from our community, we look forward to having live-captioning at the PyTexas Conference for years to come.
 
-However, in 2024, we were finally staffed and financially stable enough to experiment
-with a hybrid conference. We decided to take a more novel approach and run our
-hybrid conference through the [PyTexas Discord Server](https://discord.gg/jNPAbcNukj).
-We have been building a community on Discord since 2022, which now hosts our virtual
-meetup, so we thought it would be a good experiment to hold our virtual conference
-there. 
+### New Swag
 
-We are happy to report that our hybrid conference was a success. We sold 43 virtual
-tickets, and attendees who had an in-person ticket were also able to join the virtual
-experience. We had many in-person attendees thank us for this experience, as some
-had to step out for brief periods and were still able to attend the conference.
+This year we offered more than just our PyTexas Conference T-Shirt.
+Over the past few years the PyTexas Foundation has been putting down roots and establishing itself as more than just the organization that runs the conference, but the go-to organization for aiding and building Python communities in Texas.
+In doing this, we have started doing more branding using our PyTexas logo, which led to us creating pins for attendees to be able to buy.
+One of our organizers also had fun with his laser cutter and made some awesome PyTexas wooden chips that we sold as well.
 
-One thing we strived for this year was to blend the in-person and virtual experience
-as much as possible so attendees from both would be able to interact with each other. 
-We did this a few ways. First, we encouraged people to chat in a conference-specific
-Discord text chat. Both in-person and virtual attendees engaged with each other
-and bridged the gap. We were very pleased with the level of interaction that was
-occurring. Next, we used [Slido](https://www.slido.com/) for all speaker questions.
-This decision was highly praised by both attendees and speakers alike. Slido
-allowed us to have attendees, either remote or in-person, ask questions
-to the speaker during their talk. Other attendees could see these questions and 
-upvote the ones they also wanted to ask. We had our organizers moderating the 
-questions and approving them prior to being visible, which allowed us to ensure
-safety for our speakers and attendees. The questions were then asked _into the
-microphone_ on stage by our emcees, allowing the speaker to answer and the question
-to be recorded on video. This sped up our Q&A portion and made speakers feel 
-more comfortable answering questions.
+We actually had an even more awesome item planned, but our vendor was unable to produce it in time, so we have shelved it for the 20th year of PyTexas, so if you want to see it, you'll have to come to next year's conference. 
 
-Overall, the hybrid experience was a success, and we look forward to continuing
-with it in the future. 
+### New Network Event Location
 
-### 
-
-Tutorials are not new to the PyTexas Conference, but it is the first time we've 
-had tutorials since 2017.  Long-time attendee, speaker, and Keynoter 
-[Andrew "Pandy" Knight](https://www.pytexas.org/2024/schedule/tutorials/#def-test_my_code_with_pytest) 
-and organizer [Mason Egger](https://www.pytexas.org/2024/schedule/tutorials/#def-test_my_code_with_pytest) delivered the tutorials this year. We did not hold
-an open CFP for tutorials this year, but instead preselected our presenters. We made
-this choice because we weren't sure what the turnout would be for the tutorials,
-so we decided to select people who are known PyTexas regulars who would attend
-either way and were willing to take the gamble on attendance. 
-
-Fortunately, tutorials were a smashing success. We sold 97 tutorial tickets this year, 
-which were an add-on to the main conference and gave access to both tutorials.
-Nearly every tutorial ticket holder checked in and attended at least one tutorial,
-with the vast majority attending both. 
-
-The community reaction to tutorials was universally strong and we're excited
-to bring tutorials back next year. We're still deciding if we're going to open
-a CFP for tutorials next year, but signs are trending in that direction.
-
+After many years at our faithful location, we decided to expand our Network Event (previously called the After Party, which was neither really a party nor did it happen after the event...) to a new location.
+We were able to move our event to [Remedy](https://www.remedyaustin.com/) in downtown Austin, which was only a short walk away from the venue along the Shoal Creek Trail.
 
 ## Attendance
 
-2024 was a record breaking year for ticket sales. This year we sold 319 attendance 
-tickets. We sold 276 in-person tickets and 43 virtual tickets. We initially set 
-our capacity at 250 in-person attendees, then had to increase it two weeks prior 
-to the conference to 275. Somehow, we had an off-by-one error and wound up selling 
-276 in-person tickets. Of the 276 tickets sold, we had 229 attendees check in.
+2025 was a fantastic, sell-out year for ticket sales!
+We sold 296 tickets total.
+We sold 253 in-person tickets and 46 virtual tickets. 
+We initially set our capacity at 250 in-person attendees, then had to increase it two weeks prior to the conference to 275.
 
 ### Statistics
 
 **Location**
 
-![Attendee Location chart](../../assets/images/blog/2024-conference-recap/Location2024.svg){: width="500"}
-![Attendee Texas City chart](../../assets/images/blog/2024-conference-recap/TexasCity2024.svg){: width="500"}
+```mermaid
+%%{init: {'theme': 'base', 'themeVariables': { 'pie1': '#FFA500', 'pie2': '#FFFF00', 'pie3': '#00FF00', 'pie4': '#0000FF', 'pie5': '#800080', 'pie6': '#ff0000', 'pie7': '#FFFFFF'}}}%%
+pie showData
+    title Attendee Location
+    "From Texas" : 83
+    "Within US" : 11.9
+    "Outside US" : 4.5
+```
 
-* **81.5%** of attendees were from Texas
-    * **59.2%** from Austin
-    * **14.1%** from Houston
-    * **12.7%** from Dallas - Fort Worth
-    * **9.9%** from San Antonio
-    * **4.2%** from other areas in Texas
-* **13.9%** are from other states within the United States
-* **4.6%** were from outside the United States
+```mermaid
+pie showData
+%%{init: {'theme': 'base', 'themeVariables': { 'pie1': '#FFA500', 'pie2': '#FFFF00', 'pie3': '#00FF00', 'pie4': '#0000FF', 'pie5': '#800080', 'pie6': '#ff0000', 'pie7': '#FFFFFF'}}}%%
+    title Texas Cities
+    "Austin" : 52.4
+    "Dallas - Fort Worth" : 15
+    "Houston": 12.9
+    "San Antonio" : 8.8
+    "Other": 6.6
+```
+
+* **83%** of attendees were from Texas
+    * **52.4%** from Austin
+    * **12.9%** from Houston
+    * **15%** from Dallas - Fort Worth
+    * **8.8%** from San Antonio
+    * **6.6%** from other areas in Texas
+* **11.9%** are from other states within the United States
+* **4.5%** were from outside the United States
 
 **Roles**
 
-![Attendee roles chart](../../assets/images/blog/2024-conference-recap/roles2024.svg){: width="500"}
+```mermaid
+%%{init: {'theme': 'base', 'themeVariables': { 'pie1': '#FFA500', 'pie2': '#FFFF00', 'pie3': '#00FF00', 'pie4': '#0000FF', 'pie5': '#800080', 'pie6': '#ff0000', 'pie7': '#FFFFFF'}}}%%
+pie showData
+    title Role
+    "Software Engineer/SDET" : 52.2
+    "Student" : 9.7
+    "DevOps Engineer/SRE": 9.1
+    "Data Scientist/Machine Learning": 11.3
+    "Marketing/Sales/DevRel": 4
+    "Security": 2.3
+    "Program/Product Management": 1.7
+    "Other": 9.7
+```
 
-* **42.8%** - Software Engineer
-* **11.6%** - Students
-* **8.7%** - Marketing/Sales/Business
-* **8.1%** - DevOps
-* **6.4%** - Data Science
+* **49.4%** - Software Engineer
+* **9.7%** - Students
+* **4%** - Marketing/Sales/Business
+* **9.1%** - DevOps
+* **6.4%** - Data Science/Machine Learning
 * **5.2%** - Hobbyist/Enthusiast
-* **4.6%** - Executive/Senior Leadership
+* **6.2%** - Executive/Senior Leadership
 * The rest consists of ML Engineers, Security, People Managers, Product Management, QA
 
 **Experience**
 
-![Attendee experience chart](../../assets/images/blog/2024-conference-recap/years2024.svg){: width="500"}
+```mermaid
+%%{init: {'theme': 'base', 'themeVariables': { 'pie1': '#FFA500', 'pie2': '#FFFF00', 'pie3': '#00FF00', 'pie4': '#0000FF', 'pie5': '#800080', 'pie6': '#ff0000', 'pie7': '#FFFFFF'}}}%%
+pie showData
+    title Attendee Experience
+    "Less than 1 year" : 8.5
+    "1-3 years" : 19.9
+    "4-7 years": 19.3
+    "7-15 years": 22.7
+    "15+ years" : 27.3
+    "Prefer not to say": 2.3
+```
 
-* **11.6%** - Less than 1 year
-* **24.9%** - 1 to 3 years 
-* **20.2%** - 4 to 7 years
-* **20.2%** - 7 to 15 years
-* **23.1%** - 15+ years
+* **8.5%** - Less than 1 year
+* **19.9%** - 1 to 3 years 
+* **19.3%** - 4 to 7 years
+* **22.7%** - 7 to 15 years
+* **27.3%** - 15+ years
 
-**Orders by Day**
+### Our Thoughts on Ticket Sales
 
-![PyTexas Orders By Day](../../assets/images/blog/2024-conference-recap/PyTexas-2024-Ticket-Sales.PNG)
-
-A few conclusions we've made based on ticket sales this year and years prior:
+The same things we posted last year held true this year:
 
 * You have your "regulars" who attend every year. They will take advantage of
 early bird sales.
@@ -149,52 +147,81 @@ early bird sales.
 keynotes, tutorials, speakers, etc.
     * The largest increase was after we released the talk schedule.
 * You will still sell a majority of your tickets in the month leading up to the event.
+* Every time our monthly newsletter went out, ticket sales saw a bump.
 
 ## Sponsors
 
-Sponsorship in the return to in-person conferences world have been few and far
-between. We are immensely grateful our sponsors this year, 
-[Temporal Technologies](https://temporal.io) and [AppSignal](https://www.appsignal.com/)
-for their support. We also want to thank the [Python Software Foundation](https://python.org)
-for their generous grant. 
+Sponsorship returned in full force this year in a way we've not seen in the past decade of organizing the conference.
+We are absolutely blown away by the amount of companies who decided to sponsor us this year, and we owe them a huge thank you.
+Sponsorship money means organizers sleep easy at night.
+We don't lay awake at night calculating what needs to be cut, what magic amount of tickets we have to sell to break even, or what we will do if we don't break even.
 
-Without them certain portions of our event would simply not have been financially possible. 
+Thank you so much to this year's [sponsors](https://www.pytexas.org/2025/sponsors/our-sponsors/):
+
+* Platinum
+    * [Microsoft](https://www.microsoft.com/en-us/)
+* Gold
+    * [Elastic](https://www.elastic.co/)
+    * [Temporal](https://www.temporal.io/)
+    * [Python Software Foundation](https://www.python.org/) (grant)
+* Food & Coffee
+    * [Bloomberg Engineering](https://www.bloomberg.com/company/values/tech-at-bloomberg/)
+* Silver
+    * [Cloudflare](https://www.cloudflare.com/)
+* Live Captioning
+    * [Caktus Group](https://www.caktusgroup.com/)
+    * [uStudio](https://ustudio.com/)
+* Lanyard
+    * [Bloomberg](https://www.bloomberg.com/company/values/tech-at-bloomberg/)
+* Bronze
+    * [MLOPS World Conference & Expo](https://mlopsworld.com/)
+* Community
+    * [Black Python Devs](https://blackpythondevs.github.io/)
+* Media & Technology
+    * [devIT](https://devitjobs.com/jobs/python/all/all)
+    * [Big Event](https://bigevent.io/)
+    * [pretix](https://pretix.eu/)
+    * [TCP - Talent Connect Protocol](https://www.talentconnectprotocol.com/)
 
 ### Statistics
-This year we brought in **$12,750** from sponsorships and grants. We reached out
-to roughly 50 companies this year to sponsor PyTexas. When they responded, the
-response was usually:
+This year we brought in a record breaking **$40,750** from sponsorships and grants. 
+This is by far the most money we've ever brought in via sponsorship in a single year.
+And looking back at our budget, this is more sponsorship budget than we've brought in including the past 4 PyTexas Conferences _combined_.
+And the odd thing is, we did less outreach this year than we ever have.
+So what do we think moved the needle?
 
-* We aren't sponsoring events right now.
-* You aren't big enough for us to consider.
-* We haven't finalized event plans, we'll get back to you.
+Our hypothesis is, that after two years of running a demographic survey at registration, we now have enough data to show _who_ attends PyTexas.
+PyTexas does not give out **any** PII, but we included things like roles, years of experience, and size of company in our prospectus this year.
+To our surprise, as you can see in the graphs prior, the PyTexas Conference is a surprisingly senior level conference. 
+It's a great opportunity to get your product in front of engineers who may have influence on its usage in their company.
 
-We publish this information not to shame companies who aren't sponsoring. We 
-understand the current economic climate. We write this so that other conference
-organizers who are experiencing the same thing don't feel like it's just them.
-It's everyone.
+Another hypothesis is that we made the prospectus _as easy to find as possible_.
+For so many years we had a link to a PDF of our prospectus with a **big button** that says **Download our prospectus** and every year I would get emails asking for people to send me the prospectus.
+This year I received 0 of those emails.
+Is it really that simple?
+Make your prospectus an HTML page and don't make someone download it, then attach it to an email internally, or worse they send the link and the next person in the chain has to download it too.
+I would love if another conference could experiment with this and let us know the results.
 
 ## Finances
 
-PyTexas 2024 cost **$36,657.59** to operate. The largest budget items for us
-were venue, catering, A/V, and our after party. We sold 319 tickets of varying cost, 
-including add-ons such as shirts, tutorials, and the after party, and made **$36,545.00**
-in gross revenue (prior to fees). To the best of our knowledge, this is the first
-year that ticket sales were able to completely fund the conference. This was possible
-due to the increase in capacity for in-person, plus the addition of a virtual ticket.
+PyTexas 2025 cost **$48,633.17** to operate. 
+This year, we _vigorously_ tracked all expenses, so I'm more confident in this number than I have been in any prior year's numbers.
+The largest budget items for us were venue, catering, expansion of A/V, and our expanded network event. 
+We sold 319 tickets of varying cost, including add-ons such as shirts & swag, tutorials, and the after party, and made **$31,884.00** in gross revenue (prior to fees). 
+This means that our sponsors enabled us to put on the conference and expand to make it better for our attendees and maintain the financial stability of the PyTexas Foundation.
 
-All excess funds from this year will be used to fund ongoing PyTexas programs such
-as the meetup, infrastructure costs, and any future PyTexas event (such as the [PyTexas 2025 Conference](https://pytexas.org/2025)).
+As always, all excess funds from this year will be used to fund ongoing PyTexas Foundation programs such
+as the meetup, infrastructure costs, grants, and any future PyTexas event (such as the [PyTexas 2026 Conference](https://pytexas.org/2026)).
 
 ## Speakers
 
-This was by far one of the most exciting speaker lineups we've ever had! We continue
-to get compliments on how good the talks were and how much everyone enjoyed them.
-This year we were overjoyed to invite [Lynn Root](https://www.roguelynn.com/) 
-and [Carol Willing](https://www.willingconsulting.com/) to keynote this year. Both
-gave _phenomenal_ keynotes that people kept raving about. 
+Every year our speaker line up continues to get better and better. 
+We always get compliments on how good the talks were and takeaways people learned from them.
+This year it was an absolute pleasure to welcome  [Mariatta](https://mariatta.ca/) 
+and [Jay Miller](https://kjaymiller.com/) to keynote this year. 
+Both gave _superb_ keynotes that had everyone talking over lunch. 
 
-From teaching Python, to AI/ML, to DevOps, to using Python for audio, this year
+From teaching Python, to AI/ML, to DevOps, to writing better docs, this year
 we had something for everyone.
 
 ### CFP Statistics
@@ -202,103 +229,163 @@ we had something for everyone.
 CFP submissions this year broke yet another record of ours, the most submissions
 to our CFP. Here's some stats:
 
-* 103 submissions from 81 speakers from a wide variety of backgrounds. 
-    * 5 indicated they were first time speakers
-    * 59 indicated they had never spoken at PyTexas before
+* 100 submissions from 74 speakers from a wide variety of backgrounds. 
+    * 13 indicated they were first time speakers
+    * 54 indicated they had never spoken at PyTexas before
 
 The vast majority of our CFP submissions came in within the last few weeks of the
-CFP
+CFP.
+Our original deadline was December 1, but we extended it to December 4th.
+As you can see on the graph, everyone waited until December 1st to submit, and then once we extended it we saw the last minute bump again.
 
-![CFP Submission Graph](../../assets/images/blog/2024-conference-recap/CFP-Submissions.svg)
-
-#### The Prevalence of DevRel
-
-Due to the recent anecdotes and social media posts about Developer Relations
-professionals dominating conference speaking slots, we decided to ask our speakers
-if they were considered "Professional Speakers", meaning they work in Developer
-Relations, Sales, Marketing, or any part of their job requires them to speak
-at conferences. 
-
-**This year we only gathered data, no decisions about acceptances were made based on this data.**
-
-* 16/81 speakers submitted to PyTexas responded to "Are you a professional Speaker" with yes
-* 21/103 proposals are from this group
-* 4 speakers had talks initially accepted out of an 18 slot lineup
-    * 3 of these speakers declined or had to cancel, along with 3 others who do not consider themselves professional speakers
-    * In the filling of these 6 rejections, 2 more professional speakers were accepted
-* This leads us to a final of 3 speakers who consider themselves professional speakers out of 18 talks that are scheduled, leading us to ~17% of our conference being made up of professional speakers.
-
-**Tutorials and Keynote Speakers are not included in this calculation.**
+![CFP Submission Graph](../../assets/images/blog/2025-conference-recap/CFP-Submissions.svg)
 
 ### Speaker Statistics
 
-We had a _great_ selection of diverse speakers this year. Here's a more in-depth
-breakdown of this years speakers:
+We had a _great_ selection of speakers this year. 
+We did have a few speakers drop out last minute, which required us to fill in from our reserve list at the last minute.
+Here's a more in-depth breakdown of this years speakers:
 
 #### Speaker Race/Ethnicity
 
-![Speaker Race Statistics](../../assets/images/blog/2024-conference-recap/speaker-race.png)
+```mermaid
+%%{init: {'theme': 'base', 'themeVariables': { 'pie1': '#FFA500', 'pie2': '#FFFF00', 'pie3': '#00FF00', 'pie4': '#0000FF', 'pie5': '#800080', 'pie6': '#ff0000', 'pie7': '#FFFFFF'}}}%%
+pie showData
+    title Speaker Race/Ethnicity
+    "White/Caucasian": 66.7
+    "Asian/Pacific Islander": 14.3
+    "Black or African American": 4.8
+    "Hispanic": 4.8
+    "Latino": 4.8
+    "Prefer not to say": 4.8
+```
 
-* **63.6%** - White/Caucasian
-* **22.7%** - Asian/Pacific Islander
-* **4.5%** - Jewish
-* **4.5%** - Black or African American
-* **4.5%** - Hispanic
+* **66.7%** - White/Caucasian
+* **14.3%** - Asian/Pacific Islander
+* **4.8%** - Black or African American
+* **4.8%** - Hispanic
+* **4.8%** - Latino
+* **4.8%** - Prefer not to say
 
 #### Speaker Gender
 
-![Speaker Gender Statistics](../../assets/images/blog/2024-conference-recap/speaker-gender.png)
+```mermaid
+%%{init: {'theme': 'base', 'themeVariables': { 'pie1': '#FFA500', 'pie2': '#FFFF00', 'pie3': '#00FF00', 'pie4': '#0000FF', 'pie5': '#800080', 'pie6': '#ff0000', 'pie7': '#FFFFFF'}}}%%
+pie showData
+    title Speaker Gender
+    "Male": 81
+    "Female": 19
+```
 
-* **59.1%** - Male
-* **31.8%** - Female
-* **4.5%** - Non-binary
-* **4.5%** - Prefer not to say
+* **81%** - Male
+* **19%** - Female
+
+This is not a number we're proud of, and many extenuating circumstances outside of our control led to this. 
+But results, not excuses.
+This will be front and center in our discussions for next year.
 
 #### Speaker Professional Role
 
-![Speaker Role Statistics](../../assets/images/blog/2024-conference-recap/speaker-role.png)
+```mermaid
+%%{init: {'theme': 'base', 'themeVariables': { 'pie1': '#FFA500', 'pie2': '#FFFF00', 'pie3': '#00FF00', 'pie4': '#0000FF', 'pie5': '#800080', 'pie6': '#ff0000', 'pie7': '#FFFFFF'}}}%%
+pie showData
+    title Speaker Roles
+    "Software Engineer": 8
+    "DevRel": 3
+    "DevOps": 2
+    "Testing/QA": 2
+    "Machine Learning Engineer": 1
+    "People Manager": 1
+    "Program/Product Manager": 1
+    "Data Scientist": 1
+    "Senior Counsel": 1
+    "Student": 1
+```
 
-* **27.3%** - Data Scientist
-* **18.2%** - Developer Relations
-* **13.6%** - DevOps
-* **9.1%** - Academic (Teacher, Professor, etc)
-* **9.1%** - QA
-* **9.1%** - Machine Learning Engineer
-* **4.5%** - Senior Leadership
-* **4.5%** - Cyber Security
-* **4.5%** - Student
+* **8** - Software Engineer
+* **3** - Developer Relations
+* **2** - DevOps
+* **2** - Testing/QA
+* **1** - Machine Learning Engineer
+* **1** - People Manager
+* **1** - Program/Product Management
+* **1** - Data Scientist
+* **1** - Senior Counsel
+* **1** - Student
 
 
 #### Speaker Location
 
-![Speaker Location Statistics](../../assets/images/blog/2024-conference-recap/speaker-location.png)
+```mermaid
+pie showData
+    title Speaker Location
+    "US Resident but non-Texas": 66.7
+    "International": 14.3
+    "Texas Resident": 19
+```
 
-* **86.4%** - Outside of Texas but within the United States
-* **13.6%** - Texas Resident
+* **66.7%** - Outside of Texas but within the United States
+* **19%** - Texas Resident
+* **14.3%** - International
+
+Our Texas Resident submissions and acceptances increased greatly this year! 
 
 ## Opportunity Grants
 
-Every year we offer opportunity grants to community members who request assistance
-to attend PyTexas. In 2023 we provided a total of $1000 to two members of our community so 
-they could attend. This year we were proud to be able to **more than double** the
-amount of money we were able to disperse. This year we provided a total of $2500 to five
-individuals to attend, all of whom came from under represented communities in tech!
+Every year we offer opportunity grants to community members who request assistance to attend PyTexas. 
+It is my goal to increase this number every year for as long as I can.
+For the third year in a row, we were able to increase our opportunity grant funding to $3000.
+We were able to provide funding for 7 individuals to attend the PyTexas Conference, and as has been typical for as long as we can remember, we have a 100% attendance rate of those we provide grants to.
+We **_strongly_** believe that money should **_never_** be a reason someone can't come to the conference.
+https://help.quillbot.com/
+And while couldn't provide financial assistance to every applicant, we provided free virtual tickets to every person who applied for assistance so they could watch and interact with the conference, regardless of their location.
 
-While we weren't able to provide financial assistance to every applicant, we 
-were able to provide free virtual tickets to every person who applied for assistance
-so they could watch and interact with the conference, regardless of their location.
+## Our Observations as Organizers
+
+This year we saw a few trends that we'd like to share with you that are absolutely fantastic.
+
+First, we saw more people wearing a previous PyTexas Conference or Friends of PyTexas shirt than ever before.
+To us, this speaks volumes to the strength of the community we are building.
+For reference, this year we had a 60% new attendee rate.
+In 2024 that number was 70%.
+That's quite the shift in only the course of a year.
+Not only do you like us enough to come back, you want other people to know you've been here before and that means the world to us.
+
+Second, we are seeing our community expand beyond Texas.
+We have "regulars" now who don't live in Texas.
+They come back because of the community we have and that also makes us over the moon excited.
+Y'all means all.
+
+Third, it seems a lot more Pythonistas are being health conscious this year, as our fruit and healthy snacks (sugar free sodas and seltzer) disappeared at an exponentially quicker rate than our non-healthy snacks.
+As someone who is also personally taking the steps to take better care of their health, I'm right there with you. 
+You may have heard the organizers talk about bananas at some point.
+I don't know what it is about that particular fruit, but people seem to love it. 
+We estimate we went through > 50lbs of bananas over the course of the conference.
+Doing the math, that means everyone at the conference ate, on average, at least one banana.
+The poor cashier at HEB gave us the weirdest look...
+But keep it up!
+We hear you, and we'll adjust next years refreshments.
+
+Fourth, people networked **so much** this year.
+We saw so many people switching tables, going on walks around the lake, and just mingling.
+We saw a group of students who attended for the first time last year go up and talk to our previous keynote speaker and catch up with her.
+We saw coworkers who work remotely fly in to the conference to use this as an opportunity to meet.
+And we saw friends who hadn't seen each other since the last PyTexas Conference catch up on life after a year.
+
+Finally, y'all made it a point to tell us how awesome the conference was.
+Don't get me wrong, people do this every year and let me tell you, it's what keeps us going some nights.
+But this year the outpouring of love for the conference was monumental.
+And from the bottom of our hearts, we thank you for it.
 
 ## Conclusion
 
-2024 was by far our most exciting and largest PyTexas event yet. It was heartening 
-to surpass our pre-pandemic numbers, and not by a little, but a **lot**. We're
-excited to continue to see the Python community in Texas grow and to continue
-providing events for the forseeable future. All recordings of the talks can be
-found on the [PyTexas 2024 website](https://www.pytexas.org/2024/schedule/full_schedule/)
-or on our [YouTube Channel](https://www.youtube.com/watch?v=rAMLQkY7TZM&list=PL0MRiRrXAvRjMAfx42eiokiAmfclUX-6S).
+The 2025 PyTexas conference will definitely go down as one of the most memorable conferences we've had yet.
 
-[PyTexas 2025](https://pytexas.org/2025) dates have already been set, we'll
-be returning to the [Austin Central Public Library](https://library.austintexas.gov/central-library) April 11 - 13, 2025.
+All recordings of the talks can be found on the [PyTexas 2025 website](https://www.pytexas.org/2025/schedule/) or on our [YouTube Channel](https://www.youtube.com/watch?v=VzCYbXEz0a4&list=PL0MRiRrXAvRiSmPn_LDdhDbtZwu6g4xct).
+
+Be sure you join us for the 20th year of PyTexas next year!
+The [PyTexas 2026](https://pytexas.org/2026) dates have already been set, we'll
+be returning to the [Austin Central Public Library](https://library.austintexas.gov/central-library) April 17 - 19, 2026.
 
 We hope to see y'all there!
 
