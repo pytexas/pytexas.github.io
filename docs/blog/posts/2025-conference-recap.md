@@ -172,7 +172,7 @@ Thank you so much to this year's [sponsors](https://www.pytexas.org/2025/sponsor
     * [Caktus Group](https://www.caktusgroup.com/)
     * [uStudio](https://ustudio.com/)
 * Lanyard
-    * [Bloomberg](https://www.bloomberg.com/company/values/tech-at-bloomberg/)
+    * [Bloomberg Engineering](https://www.bloomberg.com/company/values/tech-at-bloomberg/)
 * Bronze
     * [MLOPS World Conference & Expo](https://mlopsworld.com/)
 * Community
@@ -337,7 +337,7 @@ It is my goal to increase this number every year for as long as I can.
 For the third year in a row, we were able to increase our opportunity grant funding to $3000.
 We were able to provide funding for 7 individuals to attend the PyTexas Conference, and as has been typical for as long as we can remember, we have a 100% attendance rate of those we provide grants to.
 We **_strongly_** believe that money should **_never_** be a reason someone can't come to the conference.
-https://help.quillbot.com/
+
 And while couldn't provide financial assistance to every applicant, we provided free virtual tickets to every person who applied for assistance so they could watch and interact with the conference, regardless of their location.
 
 ## Our Observations as Organizers
