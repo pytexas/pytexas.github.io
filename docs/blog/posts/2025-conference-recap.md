@@ -64,7 +64,7 @@ We initially set our capacity at 250 in-person attendees, then had to increase i
 **Location**
 
 ```mermaid
-%%{init: {'theme': 'base', 'themeVariables': { 'pie1': '#FFA500', 'pie2': '#FFFF00', 'pie3': '#00FF00', 'pie4': '#0000FF', 'pie5': '#800080', 'pie6': '#ff0000', 'pie7': '#FFFFFF'}}}%%
+%%{init: {'theme': 'base', 'themeVariables': { 'pie1': '#2196F3', 'pie2': '#FFC107', 'pie3': '#26A69A', 'pie4': '#FB8C00', 'pie5': '#5C6BC0', 'pie6': '#039BE5', 'pie7': '#FF7043'}}}%%
 pie showData
     title Attendee Location
     "From Texas" : 83
@@ -73,8 +73,8 @@ pie showData
 ```
 
 ```mermaid
+%%{init: {'theme': 'base', 'themeVariables': { 'pie1': '#2196F3', 'pie2': '#FFC107', 'pie3': '#26A69A', 'pie4': '#FB8C00', 'pie5': '#5C6BC0', 'pie6': '#039BE5', 'pie7': '#FF7043'}}}%%
 pie showData
-%%{init: {'theme': 'base', 'themeVariables': { 'pie1': '#FFA500', 'pie2': '#FFFF00', 'pie3': '#00FF00', 'pie4': '#0000FF', 'pie5': '#800080', 'pie6': '#ff0000', 'pie7': '#FFFFFF'}}}%%
     title Texas Cities
     "Austin" : 52.4
     "Dallas - Fort Worth" : 15
@@ -95,7 +95,7 @@ pie showData
 **Roles**
 
 ```mermaid
-%%{init: {'theme': 'base', 'themeVariables': { 'pie1': '#FFA500', 'pie2': '#FFFF00', 'pie3': '#00FF00', 'pie4': '#0000FF', 'pie5': '#800080', 'pie6': '#ff0000', 'pie7': '#FFFFFF'}}}%%
+%%{init: {'theme': 'base', 'themeVariables': { 'pie1': '#2196F3', 'pie2': '#FFC107', 'pie3': '#26A69A', 'pie4': '#FB8C00', 'pie5': '#5C6BC0', 'pie6': '#039BE5', 'pie7': '#FF7043'}}}%%
 pie showData
     title Role
     "Software Engineer/SDET" : 52.2
@@ -120,7 +120,7 @@ pie showData
 **Experience**
 
 ```mermaid
-%%{init: {'theme': 'base', 'themeVariables': { 'pie1': '#FFA500', 'pie2': '#FFFF00', 'pie3': '#00FF00', 'pie4': '#0000FF', 'pie5': '#800080', 'pie6': '#ff0000', 'pie7': '#FFFFFF'}}}%%
+%%{init: {'theme': 'base', 'themeVariables': { 'pie1': '#2196F3', 'pie2': '#FFC107', 'pie3': '#26A69A', 'pie4': '#FB8C00', 'pie5': '#5C6BC0', 'pie6': '#039BE5', 'pie7': '#FF7043'}}}%%
 pie showData
     title Attendee Experience
     "Less than 1 year" : 8.5
@@ -249,7 +249,7 @@ Here's a more in-depth breakdown of this years speakers:
 #### Speaker Race/Ethnicity
 
 ```mermaid
-%%{init: {'theme': 'base', 'themeVariables': { 'pie1': '#FFA500', 'pie2': '#FFFF00', 'pie3': '#00FF00', 'pie4': '#0000FF', 'pie5': '#800080', 'pie6': '#ff0000', 'pie7': '#FFFFFF'}}}%%
+%%{init: {'theme': 'base', 'themeVariables': { 'pie1': '#2196F3', 'pie2': '#FFC107', 'pie3': '#26A69A', 'pie4': '#FB8C00', 'pie5': '#5C6BC0', 'pie6': '#039BE5', 'pie7': '#FF7043'}}}%%
 pie showData
     title Speaker Race/Ethnicity
     "White/Caucasian": 66.7
@@ -270,7 +270,7 @@ pie showData
 #### Speaker Gender
 
 ```mermaid
-%%{init: {'theme': 'base', 'themeVariables': { 'pie1': '#FFA500', 'pie2': '#FFFF00', 'pie3': '#00FF00', 'pie4': '#0000FF', 'pie5': '#800080', 'pie6': '#ff0000', 'pie7': '#FFFFFF'}}}%%
+%%{init: {'theme': 'base', 'themeVariables': { 'pie1': '#2196F3', 'pie2': '#FFC107', 'pie3': '#26A69A', 'pie4': '#FB8C00', 'pie5': '#5C6BC0', 'pie6': '#039BE5', 'pie7': '#FF7043'}}}%%
 pie showData
     title Speaker Gender
     "Male": 81
@@ -287,7 +287,7 @@ This will be front and center in our discussions for next year.
 #### Speaker Professional Role
 
 ```mermaid
-%%{init: {'theme': 'base', 'themeVariables': { 'pie1': '#FFA500', 'pie2': '#FFFF00', 'pie3': '#00FF00', 'pie4': '#0000FF', 'pie5': '#800080', 'pie6': '#ff0000', 'pie7': '#FFFFFF'}}}%%
+%%{init: {'theme': 'base', 'themeVariables': { 'pie1': '#2196F3', 'pie2': '#FFC107', 'pie3': '#26A69A', 'pie4': '#FB8C00', 'pie5': '#5C6BC0', 'pie6': '#039BE5', 'pie7': '#FF7043'}}}%%
 pie showData
     title Speaker Roles
     "Software Engineer": 8
