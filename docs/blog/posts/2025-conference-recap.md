@@ -318,6 +318,7 @@ pie showData
 
 ```mermaid
 pie showData
+%%{init: {'theme': 'base', 'themeVariables': { 'pie1': '#2196F3', 'pie2': '#FFC107', 'pie3': '#26A69A', 'pie4': '#FB8C00', 'pie5': '#5C6BC0', 'pie6': '#039BE5', 'pie7': '#FF7043'}}}%%
     title Speaker Location
     "US Resident but non-Texas": 66.7
     "International": 14.3
