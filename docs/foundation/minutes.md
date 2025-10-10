@@ -2,6 +2,55 @@
 title: Meeting Minutes
 ---
 
+## 2025-04-13 Annual Meeting
+
+#### Location 
+Austin Public Library, Austin, TX
+
+#### Date
+2024-04-13 @ 3:00pm
+
+#### Attendees
+Kevin Horn, Jeremy Boyd, Mason Egger, Laura Santamaria
+
+#### Agenda
+
+* Directorships
+* Financial Review
+* New Business
+
+#### Minutes
+
+1. Directorships
+   1. Secretary
+      1. Mason nominates Jeremy, Kevin seconds
+      2. Confirmed
+2. Financial Report
+   1. Conference Finances <laura@pytexas.org>
+   2. Revenue
+      1. Sponsors: 40750
+      2. Attendees TBD
+      3. Total around 71k
+   3. Expenses
+      1. Conference \~40k
+   4. Takeaway: Likely 20-30k in the green
+3. New Business
+   1. Meetup/Local Grant Program
+      1. PyHouston wants to print t-shirts
+      2. Black Python Devs didn't sponsor the Conference, sponsored the Foundation
+         1. 20% of their sponsorship goes to PyHouston
+      3. Smaller version of PSF grant system
+      4. Can probably allocate $1-2k
+   2. Discussion of structural commitments vs. easily-ended ones
+      1. Meetup is the only major structural cost we have
+   3. Need to move away from Greenhouse
+   4. Discussion of new level of tax burden, will likely need to move away from postcards
+   5. Retro topics
+      1. More volunteers / backup
+   6. 20 years of PyTexas
+4. Adjournment
+
+
 ## 2024-04-21 Annual Meeting
 
 #### Location 
