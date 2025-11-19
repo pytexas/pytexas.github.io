@@ -101,6 +101,9 @@ extra:
     - icon: fontawesome/brands/bluesky
       link: https://bsky.app/profile/pytexas.org
       name: Bluesky
+    - icon: fontawesome/brands/facebook
+      link: https://www.facebook.com/profile.php?id=61583603924409
+      name: Facebook
     - icon: fontawesome/brands/discord
       link: https://discord.gg/jNPAbcNukj
       name: Discord
