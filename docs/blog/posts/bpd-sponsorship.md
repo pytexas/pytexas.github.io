@@ -8,13 +8,13 @@ authors:
     - jaymiller
 ---
 
-Jay Miller, founder of Black Python Devs, guest authors a blog about why BPD sponsors PyTexas.
+Jay Miller, founder of [Black Python Devs](https://blackpythondevs.com/), guest authors a blog about why BPD sponsors PyTexas.
 
 <!-- more -->
 
 ---
 
-This will be the 3rd year in which Black Python Devs has supported the PyTexas foundation.
+This will be the 3rd year in which [Black Python Devs](https://blackpythondevs.com/) has supported the PyTexas foundation.
 I am writing this as a part of our sponsorship agreement, but I think it goes without saying that I'm a massive fan of the organization, have personally attended their keystone event, PyTexas, twice now(1).
 I decided to sponsor PyTexas using my personal funds the first year based off a dream that the President of the PyTexas foundation said at the speakers dinner at that first event back in 2021.
 "I want to host a Python Conference in the Rio Grande Valley"
