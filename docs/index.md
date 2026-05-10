@@ -12,9 +12,9 @@ This is the home of the PyTexas Foundation. [Learn more about us](foundation/abo
 
     ---
 
-    The PyTexas 2026 Conference will take place April 17 - 19, 2026. **Our CFP opens in October**
+    The PyTexas 2027 Conference will take place April 16 - 18, 2027. **Our CFP opens October 1, 2026**
 
-    [:octicons-arrow-right-24: PyTexas 2026 Website](https://pytexas.org/2026)
+    [:octicons-arrow-right-24: PyTexas 2027 Website](https://pytexas.org/2027)
 
 -   :fontawesome-solid-people-group:{ .lg .middle} __Virtual Community__
 

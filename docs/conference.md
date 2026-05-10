@@ -6,7 +6,7 @@ modified: 2025-05-12
 
 # The PyTexas Conference
 
-[PyTexas 2026 Conference Website](https://www.pytexas.org/2026){ .md-button .md-button--primary }
+[PyTexas 2027 Conference Website](https://www.pytexas.org/2027){ .md-button .md-button--primary }
 
 ## About
 
@@ -27,6 +27,21 @@ has been held in a variety of cities including: College Station, Waco, Austin,
 and Denton.
 
 ### Archive
+
+#### PyTexas 2026
+20th year of PyTexas
+
+- April 17 - 19 at the Austin Central Public Library in Austin, TX
+- Keynoters: Dawn Wages and Hynek Schlawack
+- 275 in-person tickets sold, **sold out!**
+  - 14 virtual tickets sold
+  - **289 total**
+- 229 in-person attendees, 83% check-in rate
+  - 169 first time attendees, 59%
+
+
+[PyTexas 2026 Archive Website](https://pytexas.org/2026)  
+[YouTube Playlist](https://www.youtube.com/playlist?list=PL0MRiRrXAvRh0bfHGatkL10oI682zH0-F)
 
 #### PyTexas 2025
 

@@ -6,3 +6,4 @@ __pycache__/
 .cache/
 site/*
 .lycheecache
+commit-msg.md
