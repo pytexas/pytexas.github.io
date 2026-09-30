@@ -2,13 +2,77 @@
 title: Meeting Minutes
 ---
 
+## 2026-04-19 Annual Meeting
+
+#### Location 
+Austin Public Library, Austin, TX
+
+#### Date
+2026-04-19 @ 3:00pm
+
+#### Attendees
+Kevin Horn, Jeremy Boyd, Mason Egger, Laura Santamaria
+
+#### Agenda
+
+* Directorships
+* Financial Review
+* New Business
+
+#### Minutes
+
+1. Directorships
+   1. President
+      1. Jeremy nominates Mason, Kevin seconds, motion passes
+   2. Vice President
+      1. Jeremy nominates Kevin, Mason seconds, motion passes
+2. Financial Report
+   1. Conference Finances <laura@pytexas.org>
+   2. Revenue
+      1. Sponsors: \~46k
+      2. Attendees: north of 20k, to be finalized
+      3. Total around 71k
+         1. Still to be finalized: shirts, last-minute ticket sales
+   3. Expenses
+      1. Conference \~64k
+         1. Still to be finalized: A/V, Sli.do, last-minute food, a couple of smaller items
+   4. Takeaway: Likely 2-3k in the green
+   5. Donations are up
+      1. Some Friends of PyTexas signed up at the conference
+      2. Donation default raised from $5 to $10
+      3. Lots of student tickets
+   6. Finance app and tracking
+      1. Laura and Jeremy to meet April 25-26 to discuss, if needed
+      2. [Actual Budget](https://actualbudget.org) under consideration
+3. New Business
+   1. Taxes
+      1. 2024 filed
+      2. 2025 to be filed
+   2. Meetup/Local Grant Program
+      1. Black Python Devs didn't sponsor the Conference, sponsored the Foundation
+         1. 20% of their sponsorship goes to PyHouston
+      2. Dawn Wages donated her keynote honorarium to PyLadies
+         1. $500, \~$250 already spent on food for the first meeting
+      3. Smaller version of PSF grant system
+      4. Can probably allocate $1-2k
+   3. Proposal from Laura
+      1. Opportunity to sub-lease storage, could be $500/yr or less
+   4. Discussion of structural commitments vs. easily-ended ones
+      1. Meetup is the only major structural cost we have
+      2. Infrastructure needs to move to the new DigitalOcean account
+   5. Banking
+      1. Recent bank problems would have been avoidable with a credit card
+      2. Look into a cash-back card
+4. Adjournment
+
+
 ## 2025-04-13 Annual Meeting
 
 #### Location 
 Austin Public Library, Austin, TX
 
 #### Date
-2024-04-13 @ 3:00pm
+2025-04-13 @ 3:00pm
 
 #### Attendees
 Kevin Horn, Jeremy Boyd, Mason Egger, Laura Santamaria

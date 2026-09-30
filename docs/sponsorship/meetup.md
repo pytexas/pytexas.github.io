@@ -11,8 +11,10 @@ We currently support:
 - [PyTexas Virtual Meetup](https://pytexas.org/meetup)
 - [Katy Python Coders](https://www.meetup.com/katy-python-coders/)
 - [PyHou - Python Houston Enthusiasts](https://www.meetup.com/python-14/)
+- [Houston PyLadies](https://www.meetup.com/houston_pyladies/)
+- [PyLadies ATX](https://www.meetup.com/pyladies-atx/)
 - [DFW Pythoneers](https://www.meetup.com/dfwpython/)
-- [Alamo Python Learners](https://www.meetup.com/alamo-code-learners/)
+- [Alamo Python](https://www.meetup.com/alamo-python/)
 
 with more coming soon! View them in our [Meetup Pro Network](https://www.meetup.com/pro/pytexas/)!
 
@@ -31,12 +33,12 @@ _All benefits listed below are available with sponsorship. Benefits are active f
 - Email Newsletter
     - A mention in our monthly PyTexas Community Newsletter
         - 1 mention per quarter of sponsorship
-        - Newsletter consists of ~1,000 members
-        - Open rate ranges from 40%-50%
+        - Newsletter consists of ~1,200 members
+        - Open rate of ~30%
 - Meetup
     - Mention and thank you at every PyTexas Virtual Meetup
         - Current attendance ranges from 30 - 65 attendees
-        - Meets on the first Tuesday of the month at 8:00pm CST
+        - Meets on the first Tuesday of the month at 8:00pm Central Time
     - Speaking Opportunity
         - Ability to present to the PyTexas Virtual Meetup
         - 25 minute talk time limit
@@ -46,7 +48,7 @@ _All benefits listed below are available with sponsorship. Benefits are active f
         - PyTexas approval required
 - [PyTexas Community Discord Server](https://discord.gg/jNPAbcNukj)
     - A thank you and mention once per quarter
-    - ~**800** members
+    - ~**1,600** members
 - [PyTexas Conference](https://pytexas.org/conference) Sponsorship Discounts
     - 5% discount on any tier per quarter sponsored
 
@@ -57,4 +59,4 @@ _All benefits listed below are available with sponsorship. Benefits are active f
 
 ## Available Slots
 
-We currently have 5 sponsorship slots available for Q2, 2024.
+Email [sponsorship@pytexas.org](mailto:sponsorship@pytexas.org) for current availability.
