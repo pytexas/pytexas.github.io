@@ -38,8 +38,6 @@ nav:
       - 'Who we are': foundation/who.md
       - Governance: foundation/governance.md
       - 'Meeting minutes': foundation/minutes.md
-      - Fundraising: foundation/fundraising.md
-      - Sponsors: foundation/sponsors.md
       - Privacy: privacy.md
       - 'Code of Conduct': foundation/code-of-conduct.md
       - 'Contact Us': foundation/contact-us.md
@@ -77,6 +75,8 @@ plugins:
       redirect_maps:
         'discord.md': 'https://discord.gg/jNPAbcNukj'
         'friends.md': 'sponsorship/friends.md'
+        'foundation/sponsors.md': 'sponsorship/index.md'
+        'foundation/fundraising.md': 'sponsorship/index.md'
         'links.md': 'https://linktr.ee/pytexas'
         'newsletter.md': 'https://mailchi.mp/035388afb48a/pytexas-community'
         '2019.md': 'https://2019.pytexas.org'

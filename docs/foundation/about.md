@@ -1,6 +1,6 @@
 ---
 date: 2022-09-07
-modified: 2022-09-07
+modified: 2026-09-29
 title: About Us
 summary: Who we are
 ---
@@ -17,4 +17,12 @@ Founded in 2014, meetup organizers from Houston, Austin, and San Antonio came
 together to establish a non-profit organization whose mission would be to 
 serve the Python community in Texas. Glen Zangirolami, Jeremy Boyd, and Kevin
 Horn were the Foundation's founders and first Board of Directors. In 2022, Mason
-Egger was elected as president of the board, taking over for Glen. 
+Egger was elected as president of the board, taking over for Glen.
+
+In the summer of 2023, the Foundation started the PyTexas Meetup, a monthly
+virtual meetup for Pythonistas across Texas and beyond. At PyTexas 2024 we
+launched the [Friends of PyTexas](../sponsorship/friends.md) program so
+individuals could support the Foundation directly. The Foundation also supports
+in-person Python meetups across the state through its
+[Meetup Pro network](https://www.meetup.com/pro/pytexas/). In 2026, PyTexas
+held its 20th conference.

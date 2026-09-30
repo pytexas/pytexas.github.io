@@ -1,7 +1,7 @@
 ---
 summary: Learn more about the PyTexas Conference.
 date: 2024-05-12
-modified: 2025-05-12
+modified: 2026-09-29
 ---
 
 # The PyTexas Conference
@@ -17,7 +17,7 @@ prior to [PyCon North America](https://us.pycon.org)
 
 ## Past Conferences
 
-To view any previous conference year, use `https://pytexas/YEAR` as the URL. You can
+To view any previous conference year, use `https://pytexas.org/YEAR` as the URL. You can
 go all the way back to 2007!
 
 ## History
