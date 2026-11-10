@@ -24,7 +24,7 @@ with more coming soon! View them in our [Meetup Pro Network](https://www.meetup.
 
 _All benefits listed below are available with sponsorship. Benefits are active for the entire duration of your sponsorship_
 
-- Display of Logo and Call to Action
+- Display of Logo and Link to Your Website
     - Logo on our [Meetup](https://pytexas.org/meetup) website
     - Listed as a Sponsor on the Meetup page of the PyTexas Virtual Meetup
     - Listed as a Sponsor on the Meetup page of all in-person meetups PyTexas supports
@@ -44,13 +44,12 @@ _All benefits listed below are available with sponsorship. Benefits are active f
         - 25 minute talk time limit
         - Limit to 1 talk per year
             - Starts with first month of sponsorship
+            - Must be given during the sponsorship term
         - Can be given by company or company can designate a third-party speaker (i.e., customer)
         - PyTexas approval required
 - [PyTexas Community Discord Server](https://discord.gg/jNPAbcNukj)
     - A thank you and mention once per quarter
     - ~**1,600** members
-- [PyTexas Conference](https://pytexas.org/conference) Sponsorship Discounts
-    - 5% discount on any tier per quarter sponsored
 
 ## Pricing
 
