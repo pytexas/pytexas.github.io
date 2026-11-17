@@ -102,10 +102,16 @@ Thank you to our friends for supporting us!
 * Jeremy Boyd
 * Al Sweigart
 * Joel Watts
+* Scott Irwin
+* Osye E. Pritchett II
+* Kevin Najimi
+* Laura Santamaria
+
 
 ### Armadillo
 
 * Josh Cannon
+* Kishan Patel
 
 ### Bluebonnet
 
@@ -119,6 +125,13 @@ Thank you to our friends for supporting us!
 * Glenn O. Pringle
 * Kassandra Keeton
 * Shiva Gaire
+* Andrew Donoho
+* Charles Pence
+* Roger Huba
+* Jason Wattier
+* Matt Leaverton
+* Kassandra Keeton
+
 
 
 
