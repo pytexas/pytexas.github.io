@@ -316,8 +316,8 @@ We extended the deadline to December 12 and received another 15 proposals in tho
 
 ### Speaker Statistics
 
-The speaker statistics below come from the 10 speakers who filled out our speaker information form, so treat them as a partial picture.
-<!-- TODO(Mason): 10 of the 15+ speakers (plus tutorial presenters and keynotes) responded. Decide whether to publish a partial sample or chase the rest first. -->
+This year we had 23 speakers on stage, including our keynotes, tutorial presenters, and sponsor talks.
+Here's a more in-depth breakdown of this year's speakers:
 
 #### Speaker Race/Ethnicity
 
@@ -325,20 +325,24 @@ The speaker statistics below come from the 10 speakers who filled out our speake
 %%{init: {'theme': 'base', 'themeVariables': { 'pie1': '#2196F3', 'pie2': '#FFC107', 'pie3': '#26A69A', 'pie4': '#FB8C00', 'pie5': '#5C6BC0', 'pie6': '#039BE5', 'pie7': '#FF7043'}}}%%
 pie showData
     title Speaker Race/Ethnicity
-    "White/Caucasian": 40
-    "Black or African American": 20
-    "Asian/Pacific Islander": 10
-    "Hispanic": 10
-    "Multiracial": 10
-    "Prefer not to say": 10
+    "White/Caucasian": 43.5
+    "Asian/Pacific Islander": 17.4
+    "Black or African American": 13.0
+    "Hispanic": 4.3
+    "Latino": 4.3
+    "Multiracial": 4.3
+    "Jewish": 4.3
+    "Prefer not to say": 8.7
 ```
 
-* **40%** - White/Caucasian
-* **20%** - Black or African American
-* **10%** - Asian/Pacific Islander
-* **10%** - Hispanic
-* **10%** - Multiracial
-* **10%** - Prefer not to say
+* **43.5%** - White/Caucasian
+* **17.4%** - Asian/Pacific Islander
+* **13.0%** - Black or African American
+* **4.3%** - Hispanic
+* **4.3%** - Latino
+* **4.3%** - Multiracial
+* **4.3%** - Jewish
+* **8.7%** - Prefer not to say
 
 #### Speaker Gender
 
@@ -346,14 +350,17 @@ pie showData
 %%{init: {'theme': 'base', 'themeVariables': { 'pie1': '#2196F3', 'pie2': '#FFC107', 'pie3': '#26A69A', 'pie4': '#FB8C00', 'pie5': '#5C6BC0', 'pie6': '#039BE5', 'pie7': '#FF7043'}}}%%
 pie showData
     title Speaker Gender
-    "Male": 60
-    "Female": 40
+    "Male": 60.9
+    "Female": 34.8
+    "Non-binary": 4.3
 ```
 
-* **60%** - Male
-* **40%** - Female
+* **60.9%** - Male
+* **34.8%** - Female
+* **4.3%** - Non-binary
 
-<!-- TODO(Mason): last year this was 81% male and 19% female, and the post said it would be "front and center." Among respondents it's 40% female this year. Your call on how to talk about it, given the partial sample. -->
+Last year our representation across genders was lacking.
+We are happy to say that this year progress was made.
 
 #### Speaker Professional Role
 
@@ -361,22 +368,28 @@ pie showData
 %%{init: {'theme': 'base', 'themeVariables': { 'pie1': '#2196F3', 'pie2': '#FFC107', 'pie3': '#26A69A', 'pie4': '#FB8C00', 'pie5': '#5C6BC0', 'pie6': '#039BE5', 'pie7': '#FF7043'}}}%%
 pie showData
     title Speaker Roles
-    "Software Engineer/Architect": 3
+    "Software Engineer/Architect": 6
+    "Developer Relations": 4
+    "Product Management": 3
+    "Solutions Architect/Sales": 3
     "Senior Leadership": 2
     "Machine Learning Engineer": 1
-    "Sales Engineer": 1
-    "Developer Relations": 1
+    "DevOps/SRE": 1
     "Academic": 1
     "Student": 1
+    "Hobbyist/Enthusiast": 1
 ```
 
-* **3** - Software Engineer/Architect
+* **6** - Software Engineer/Architect
+* **4** - Developer Relations
+* **3** - Product Management
+* **3** - Solutions Architect/Sales
 * **2** - Senior Leadership
 * **1** - Machine Learning Engineer
-* **1** - Sales Engineer
-* **1** - Developer Relations
+* **1** - DevOps/SRE
 * **1** - Academic
 * **1** - Student
+* **1** - Hobbyist/Enthusiast
 
 #### Speaker Location
 
@@ -384,14 +397,14 @@ pie showData
 %%{init: {'theme': 'base', 'themeVariables': { 'pie1': '#2196F3', 'pie2': '#FFC107', 'pie3': '#26A69A', 'pie4': '#FB8C00', 'pie5': '#5C6BC0', 'pie6': '#039BE5', 'pie7': '#FF7043'}}}%%
 pie showData
     title Speaker Location
-    "US Resident but non-Texas": 50
-    "Texas Resident": 30
-    "International": 20
+    "US Resident but non-Texas": 56.5
+    "Texas Resident": 26.1
+    "International": 17.4
 ```
 
-* **50%** - Outside of Texas but within the United States
-* **30%** - Texas Resident
-* **20%** - International
+* **56.5%** - Outside of Texas but within the United States
+* **26.1%** - Texas Resident
+* **17.4%** - International
 
 ## Opportunity Grants
 
