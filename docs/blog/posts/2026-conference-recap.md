@@ -329,20 +329,16 @@ pie showData
     "Asian/Pacific Islander": 17.4
     "Black or African American": 13.0
     "Hispanic": 4.3
-    "Latino": 4.3
     "Multiracial": 4.3
-    "Jewish": 4.3
-    "Prefer not to say": 8.7
+    "Prefer not to say": 17.4
 ```
 
 * **43.5%** - White/Caucasian
 * **17.4%** - Asian/Pacific Islander
 * **13.0%** - Black or African American
 * **4.3%** - Hispanic
-* **4.3%** - Latino
 * **4.3%** - Multiracial
-* **4.3%** - Jewish
-* **8.7%** - Prefer not to say
+* **17.4%** - Prefer not to say
 
 #### Speaker Gender
 
