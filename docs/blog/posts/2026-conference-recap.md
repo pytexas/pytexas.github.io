@@ -1,6 +1,6 @@
 ---
 title: 2026 Conference Recap
-date: 2026-11-10
+date: 2026-11-25
 draft: true
 categories: 
     - Conference Updates
@@ -8,9 +8,11 @@ authors:
     - masonegger
 ---
 
-The PyTexas Foundation held the 20th annual PyTexas Conference at the Austin Central Library on April 17 - 19, 2026 in Austin, TX.
-Twenty years after _PyCamp Texas_, we sold out, had a record year for sponsorship, and tried a few new ways to connect.
-We're excited to share some behind the scenes data with you.
+This recap is late.
+Really late.
+The 20th annual PyTexas Conference took place April 17 - 19, 2026 at the Austin Central Library in Austin, TX, and here we are publishing the recap the week of Thanksgiving.
+So in the season of being thankful, we want to say thank you to everyone who made our 20th year what it was, and share some behind the scenes data with you.
+<!-- CLAUDE_HELP: Mason's framing (late post, Thanksgiving nod) in PyTexas voice with a small dose of his personal voice. He plans to rewrite it. -->
 
 <!-- more -->
 
@@ -33,8 +35,8 @@ This was the first year PyTexas hosted [Open Spaces](https://www.pytexas.org/202
 Open Spaces are self-organized discussion sessions where attendees set the agenda.
 After the Saturday keynote, attendees submitted topic ideas at the registration desk, voted on them over lunch, and then met in the library's demo space on Saturday and Sunday afternoons.
 The sessions ran in parallel with the afternoon talks, so people could move freely between the main track and Open Spaces.
+We ran 8 Open Spaces sessions across the two days, on topics ranging from Python packaging and managing multiple coding agents to setting students and beginners up for success with AI.
 Open Spaces worked well in the demo space, and next year we plan to announce them earlier and more often so more people know they're happening.
-<!-- TODO(Mason): how many Open Spaces sessions ran, and what were a couple of the topics? -->
 
 ### Sponsored Tutorials
 
@@ -50,23 +52,17 @@ For the 20th anniversary we booked the library's [Rooftop Garden](https://librar
 Friday night was our appreciation event for speakers, sponsors, and organizers, and Saturday night was the Network Event, sponsored by [GitButler](https://gitbutler.com/).
 213 people registered for the Network Event, and 135 checked in.
 
-### Be-Free Lunches
-
-Instead of catered lunch on site, we gave attendees a long lunch break and organizers led groups to restaurants around downtown Austin.
-It turned lunch into one more chance to meet people, and we plan to recruit volunteer lunch leads next year so organizers aren't stretched as thin.
-<!-- TODO(Mason): confirm be-free lunches were new in 2026. -->
-
 ### A Coffee Bar
 
 We brought in Doxa Coffee to run a coffee bar with baristas, and it was a hit.
 Organizers spent less time refilling coffee urns, and the coffee line in the demo space turned into a hallway track of its own.
-<!-- TODO(Mason): add a link to Doxa if you want one. -->
 
 ### 20th Anniversary Swag
 
 To mark 20 years we made anniversary patches, enamel pins, and rubber ducks, and every attendee got their shirt bagged and bundled with their badge in a PyTexas tote.
 Speakers received PyTexas aprons as a thank-you gift.
-<!-- TODO(Mason): last year's post promised "an even more awesome item" for the 20th year. Which item was it? Call it out here. -->
+Last year we mentioned an item we had to shelve for the 20th year.
+It was the rubber ducks, and they were worth the wait.
 
 ### Speaker Feedback
 
@@ -78,7 +74,6 @@ Several speakers told us they appreciated getting it, so we'll keep doing it and
 2026 was a sell-out year.
 We sold **289** conference tickets, **275** in person and **14** virtual, and our in-person capacity of 275 sold out.
 **238** in-person attendees checked in over the weekend, an 87% attendance rate.
-<!-- TODO(Mason): all numbers in this section are from the pretix API (paid orders, the 18 admission products, pulled 2026-11-10). Your closing deck said 253 checked in and 90%. pretix shows 238 of 275 in-person tickets with a check-in on any list. The deck also said capacity went from 250 to 275. The quota is 275 today, but the API can't show its history, so I left the 250 out. -->
 
 59% of this year's attendees were attending PyTexas for the first time.
 That number has been trending down, from 70% in 2024 to 60% in 2025 to 59% this year, which tells us more of you are coming back year after year.
@@ -176,19 +171,24 @@ This year we asked attendees whether they were looking for a job, so we could en
 * **52.6%** - No
 * **9.1%** - Prefer not to say
 
-<!-- TODO(Mason): the closing deck said "37.9% - No". pretix shows Yes at 38.3% and No at 52.6%, so the slide label was likely swapped (or taken earlier in the weekend). Confirm you want to publish this one. -->
-
 ### Our Thoughts on Ticket Sales
 
-<!-- TODO(Mason): confirm these held true again, or swap in what changed. -->
-The same patterns from the past two years held true again this year.
+Most of what we've seen in past years held true again, with a couple of changes.
 
-* You have your "regulars" who attend every year. They will take advantage of early bird sales.
-* Announcements drive ticket sales. We saw noticeable increases after we announced keynotes, tutorials, speakers, etc.
-* You will still sell a majority of your tickets in the month leading up to the event.
-* Every time our monthly newsletter went out, ticket sales saw a bump.
+* Early bird still works. Tickets went on sale on December 28, and January was our strongest month before April, with 55 paid tickets sold by the end of the month.
+* Announcements drive ticket sales. The weeks we announced our accepted talks and tutorials in mid-January were the two best weeks of the winter.
+    * Unlike last year, releasing the full schedule in mid-February didn't produce a bump.
+* **Most of your tickets will sell in the final month.** This is the one we want every conference organizer to hear, because it's the one that keeps organizers up at night.
+    * 51% of our paid tickets sold in the final 30 days, counting through the conference weekend.
+    * Those final 30 days sold nearly three times as many tickets as any earlier 30-day stretch.
+    * 66% sold in the final two months, and 85% sold in the final three months.
+    * 23 tickets sold on the Saturday of the conference itself.
+    * If your sales look slow two months out, you're not doomed. You're normal.
+* Newsletters helped most when they had something to say. The January newsletter went out right before we announced our talks and tutorials, and the April newsletter landed in the final month before the conference, and both were followed by clear jumps in sales. February and March barely moved.
 
-We also sold 28 student tickets this year, more than the 20 we planned for, which we love to see.
+We also sold 53 student tickets this year, nearly filling our student allocation of 55, which we love to see.
+
+<!-- Source: paid admission tickets from the pretix API (232 paid, comps excluded), compared against newsletter send dates (first Monday of the month) and the 2026 site's git history for announcement dates (keynotes 12/29, talks 1/15, tutorials 1/17, schedule 2/14). -->
 
 ## Sponsors
 
@@ -218,10 +218,8 @@ Thank you so much to this year's [sponsors](https://www.pytexas.org/2026/sponsor
 
 This year we brought in a record **$46,000** from seven sponsors, up from the $40,750 we reported last year.
 For the first time we sold three Platinum sponsorships in a single year, and those three sponsors alone covered $33,000.
-<!-- TODO(Mason): confirm "first time" is accurate, and add what you think moved the needle this year. -->
 
-We didn't sell a live captioning sponsorship this year, but we kept live captioning anyway, because it's part of the conference now.
-<!-- TODO(Mason): confirm captioning ran all weekend. Brad's 13 April speaker email asked for slides "so we're ready for live captioning," and the budget shows no separate captioning cost, so I assume it was bundled with A/V. -->
+We didn't sell a live captioning sponsorship this year, but we kept live captioning for both main conference days, just like last year.
 
 ## Finances
 
@@ -229,7 +227,6 @@ PyTexas 2026 cost **$64,497.28** to operate.
 The largest budget items for us were swag (including the 20th anniversary items), venue, the two rooftop evenings, and A/V.
 We sold tickets of varying cost, including add-ons such as shirts, swag, tutorials, the Network Event, and donations, and made **$31,368.00** in gross revenue (prior to fees).
 Together with **$46,000** from sponsors, total revenue was **$77,368.00**, which leaves the conference about **$12,871** in the green.
-<!-- TODO(Mason): the 2026 goal was $25,000 profit. Decide whether to mention it. -->
 
 Donations were also up this year.
 Several attendees signed up as [Friends of PyTexas](https://www.pytexas.org/sponsorship/friends/) at the conference, and after we raised the default donation at checkout from $5 to $10, 16 of the 20 checkout donations were $10.
@@ -257,7 +254,7 @@ Just like last year, the vast majority of submissions came in at the very end.
 Our original deadline was December 7, and 18 proposals arrived on that day alone.
 We extended the deadline to December 12 and received another 15 proposals in those five days.
 
-<!-- TODO(Mason): numbers are from the pretalx API (pulled 2026-11-10). Confirm December 12 was the extended deadline. It's the date of the last submission in pretalx and matches the speaker email about a fix "at 5:10". If you want a CFP submission graph like last year's, I can generate one from the daily counts. -->
+<!-- Source: pretalx API, pulled 2026-11-10. -->
 
 ### Speaker Statistics
 
@@ -342,10 +339,9 @@ pie showData
 
 Every year we offer opportunity grants to community members who request assistance to attend PyTexas.
 It is our goal to increase this number every year for as long as we can.
-After three years at $3,000, this year we provided **$5,045** in opportunity grant funding, including $500 that one of our speakers donated back from their honorarium.
-We received 26 applications and offered grants to XX individuals.
-<!-- TODO(Mason): I count 10 grant offer threads from your mason@pytexas.org account in early March, and at least one got a "claim by 3/20 or we revoke it" follow-up. Confirm how many grants were actually paid out. Also confirm the honorarium donation is OK to mention, and whether to name the donor. -->
-<!-- TODO(Mason): 2025's post claimed a 100% attendance rate for grant recipients. Check whether that held this year. -->
+After three years at $3,000, this year we provided **$5,045** in opportunity grant funding.
+We received 26 applications and funded 9 individuals, and we gave complimentary tickets to 3 more applicants.
+As has been typical for as long as we can remember, we had a 100% attendance rate of those we provided grants to.
 We **_strongly_** believe that money should **_never_** be a reason someone can't come to the conference.
 
 And while we couldn't provide financial assistance to every applicant, we provided free virtual tickets to every person who applied for assistance so they could watch and interact with the conference, regardless of their location.
@@ -360,7 +356,6 @@ And while we couldn't provide financial assistance to every applicant, we provid
   - The retro's long-view note says the community features (Discord, be-free lunches, network events, Open Spaces, the walk around the lake) are what people come back for.
   - Jesse and Kassandra ran speaker intros in the Discord chat as each session started. That's named praise, so it's yours to write if you want it.
 -->
-<!-- TODO(Mason): the grants section says every applicant got a free virtual ticket. That was true in 2025. Confirm it for 2026. -->
 
 ## Conclusion
 
